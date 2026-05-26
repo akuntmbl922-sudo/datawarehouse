@@ -1,0 +1,7990 @@
+[
+    {
+        "NAMA SEKOLAH": "-",
+        "ID_SEKOLAH": 1.0
+    },
+    {
+        "NAMA SEKOLAH": "`",
+        "ID_SEKOLAH": 2.0
+    },
+    {
+        "NAMA SEKOLAH": "CFF",
+        "ID_SEKOLAH": 3.0
+    },
+    {
+        "NAMA SEKOLAH": "DDI BABURRIDHA SAWERE",
+        "ID_SEKOLAH": 4.0
+    },
+    {
+        "NAMA SEKOLAH": "ISHAK MAHENDRA",
+        "ID_SEKOLAH": 5.0
+    },
+    {
+        "NAMA SEKOLAH": "KULLIYATUL MU'ALLIMIN AL ISLAMIYAH (KMI) PP MODERN GONTOR PONOROGO",
+        "ID_SEKOLAH": 6.0
+    },
+    {
+        "NAMA SEKOLAH": "KULLIYATUL MU`ALLIMIN AL-ISLAMIYAH (KMI) PP MODERN GONTOR PONOROGO",
+        "ID_SEKOLAH": 7.0
+    },
+    {
+        "NAMA SEKOLAH": "MA",
+        "ID_SEKOLAH": 8.0
+    },
+    {
+        "NAMA SEKOLAH": "MA AINUS SYAMSI",
+        "ID_SEKOLAH": 9.0
+    },
+    {
+        "NAMA SEKOLAH": "MA AL WASILAH LEMO",
+        "ID_SEKOLAH": 10.0
+    },
+    {
+        "NAMA SEKOLAH": "MA AL-IKHLAS UJUNG BONE",
+        "ID_SEKOLAH": 11.0
+    },
+    {
+        "NAMA SEKOLAH": "MA ANNUR NUSA",
+        "ID_SEKOLAH": 12.0
+    },
+    {
+        "NAMA SEKOLAH": "MA AS ADIYAH PUTRI SENGKANG",
+        "ID_SEKOLAH": 13.0
+    },
+    {
+        "NAMA SEKOLAH": "MA AS'ADIYAH PUTRI PUSAT SENGKANG",
+        "ID_SEKOLAH": 14.0
+    },
+    {
+        "NAMA SEKOLAH": "MA BILINGUAL MUSLIMAT NU SIDOARJO",
+        "ID_SEKOLAH": 15.0
+    },
+    {
+        "NAMA SEKOLAH": "MA DARUL KAMAL MANDALLE",
+        "ID_SEKOLAH": 16.0
+    },
+    {
+        "NAMA SEKOLAH": "MA DARUN NAJAH",
+        "ID_SEKOLAH": 17.0
+    },
+    {
+        "NAMA SEKOLAH": "MA DARUNNAJAH TIMAMPU",
+        "ID_SEKOLAH": 18.0
+    },
+    {
+        "NAMA SEKOLAH": "MA DDI NUR ANNAS",
+        "ID_SEKOLAH": 19.0
+    },
+    {
+        "NAMA SEKOLAH": "MA DDI NURUSSALAM LASSA LASSA",
+        "ID_SEKOLAH": 20.0
+    },
+    {
+        "NAMA SEKOLAH": "MA LAPOKAINSE",
+        "ID_SEKOLAH": 21.0
+    },
+    {
+        "NAMA SEKOLAH": "MA MA'HAD AL-ZAYTUN",
+        "ID_SEKOLAH": 22.0
+    },
+    {
+        "NAMA SEKOLAH": "MA N 3 PALEMBANG",
+        "ID_SEKOLAH": 23.0
+    },
+    {
+        "NAMA SEKOLAH": "MA NADHLATUL ULUM",
+        "ID_SEKOLAH": 24.0
+    },
+    {
+        "NAMA SEKOLAH": "MA NURUL BIRRRI",
+        "ID_SEKOLAH": 25.0
+    },
+    {
+        "NAMA SEKOLAH": "MA NURUL HIDAYAH MANIMPAHOI",
+        "ID_SEKOLAH": 26.0
+    },
+    {
+        "NAMA SEKOLAH": "MA NURUL JADID",
+        "ID_SEKOLAH": 27.0
+    },
+    {
+        "NAMA SEKOLAH": "MA PONPES DDI MATTOANGING",
+        "ID_SEKOLAH": 28.0
+    },
+    {
+        "NAMA SEKOLAH": "MA SAMPANO",
+        "ID_SEKOLAH": 29.0
+    },
+    {
+        "NAMA SEKOLAH": "MA SEKH YUSUF",
+        "ID_SEKOLAH": 30.0
+    },
+    {
+        "NAMA SEKOLAH": "MA SULTAN HASANUDDIN",
+        "ID_SEKOLAH": 31.0
+    },
+    {
+        "NAMA SEKOLAH": "MA TANAMON",
+        "ID_SEKOLAH": 32.0
+    },
+    {
+        "NAMA SEKOLAH": "MA. HJ. HANIAH",
+        "ID_SEKOLAH": 33.0
+    },
+    {
+        "NAMA SEKOLAH": "MAD.ALIYAH MUHAMMADIYAH",
+        "ID_SEKOLAH": 34.0
+    },
+    {
+        "NAMA SEKOLAH": "MADDRASAH ALIYAHN 1 FLORES TIMUR",
+        "ID_SEKOLAH": 35.0
+    },
+    {
+        "NAMA SEKOLAH": "MADDRASAH ALIYAHN FLORES TIMUR",
+        "ID_SEKOLAH": 36.0
+    },
+    {
+        "NAMA SEKOLAH": "MADRASAH MADANI ALAUDDIN PAO-PAO",
+        "ID_SEKOLAH": 37.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN (MAN) 1 KENDARI",
+        "ID_SEKOLAH": 38.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 BANGGAI",
+        "ID_SEKOLAH": 39.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 BANJARMASIN",
+        "ID_SEKOLAH": 40.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 BARRU",
+        "ID_SEKOLAH": 41.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 BAUBAU",
+        "ID_SEKOLAH": 42.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 BONE",
+        "ID_SEKOLAH": 43.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 BULUKUMBA",
+        "ID_SEKOLAH": 44.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 ENREKANG",
+        "ID_SEKOLAH": 45.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KENDARI",
+        "ID_SEKOLAH": 46.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTA BANDUNG",
+        "ID_SEKOLAH": 47.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTA BANJARMASIN",
+        "ID_SEKOLAH": 48.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTA BEKASI",
+        "ID_SEKOLAH": 49.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTA BIMA",
+        "ID_SEKOLAH": 50.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTA GORONTALO",
+        "ID_SEKOLAH": 51.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTA MAKASSAR",
+        "ID_SEKOLAH": 52.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTA PRABUMULIH",
+        "ID_SEKOLAH": 53.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 KOTAMOBAGU",
+        "ID_SEKOLAH": 54.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 LAMPUNG SELATAN",
+        "ID_SEKOLAH": 55.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 MADIUN",
+        "ID_SEKOLAH": 56.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 MAKASSAR",
+        "ID_SEKOLAH": 57.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 MAMUJU",
+        "ID_SEKOLAH": 58.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 MANGGARAI",
+        "ID_SEKOLAH": 59.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 MATARAM",
+        "ID_SEKOLAH": 60.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 PASAMAN",
+        "ID_SEKOLAH": 61.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 PEKANBARU",
+        "ID_SEKOLAH": 62.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 PESISIR SELATAN",
+        "ID_SEKOLAH": 63.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 POLEWALI MANDAR",
+        "ID_SEKOLAH": 64.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 PONTIANAK",
+        "ID_SEKOLAH": 65.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 SAMARINDA",
+        "ID_SEKOLAH": 66.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 SIJUNJUNG",
+        "ID_SEKOLAH": 67.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 SINJAI",
+        "ID_SEKOLAH": 68.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 SINJAI UTARA",
+        "ID_SEKOLAH": 69.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 SOPPENG",
+        "ID_SEKOLAH": 70.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 TALASALAPANG",
+        "ID_SEKOLAH": 71.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1 TANGERANG",
+        "ID_SEKOLAH": 72.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 1. SINJAI UTARA",
+        "ID_SEKOLAH": 73.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 BANGGAI",
+        "ID_SEKOLAH": 74.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 BARRU",
+        "ID_SEKOLAH": 75.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 BENGKALIS",
+        "ID_SEKOLAH": 76.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 BONE",
+        "ID_SEKOLAH": 77.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 BUKITTINGGI",
+        "ID_SEKOLAH": 78.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 BULUKUMBA",
+        "ID_SEKOLAH": 79.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 KOLAKA",
+        "ID_SEKOLAH": 80.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 KOTA BIMA",
+        "ID_SEKOLAH": 81.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 KOTA BIMA NTB",
+        "ID_SEKOLAH": 82.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 KOTA MAKASSAR",
+        "ID_SEKOLAH": 83.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 KOTA PADANG",
+        "ID_SEKOLAH": 84.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 KOTA PADANG PANJANG",
+        "ID_SEKOLAH": 85.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 KOTA PAREPARE",
+        "ID_SEKOLAH": 86.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 MAKASSAR",
+        "ID_SEKOLAH": 87.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 MODEL",
+        "ID_SEKOLAH": 88.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 MODEL MEDAN",
+        "ID_SEKOLAH": 89.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 MODEL PALU",
+        "ID_SEKOLAH": 90.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 OKU SELATAN",
+        "ID_SEKOLAH": 91.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 PADANGSIDIMPUAN",
+        "ID_SEKOLAH": 92.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 PAREPARE",
+        "ID_SEKOLAH": 93.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 POLEWALI MANDAR",
+        "ID_SEKOLAH": 94.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 POSO",
+        "ID_SEKOLAH": 95.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 SAMARINDA",
+        "ID_SEKOLAH": 96.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 SINJAI",
+        "ID_SEKOLAH": 97.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 SOPPENG",
+        "ID_SEKOLAH": 98.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 SURAKARTA",
+        "ID_SEKOLAH": 99.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 TANAH DATAR",
+        "ID_SEKOLAH": 100.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 2 WATAMPONE",
+        "ID_SEKOLAH": 101.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 BIRINGKANAYA",
+        "ID_SEKOLAH": 102.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 BONE",
+        "ID_SEKOLAH": 103.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 BONE (MAN LAPPARIAJA)",
+        "ID_SEKOLAH": 104.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 BONE/MAN LAPPARIAJA",
+        "ID_SEKOLAH": 105.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 JEMBER",
+        "ID_SEKOLAH": 106.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 KEDIRI",
+        "ID_SEKOLAH": 107.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 KOTA MAKASSAR",
+        "ID_SEKOLAH": 108.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 MAKASSAR",
+        "ID_SEKOLAH": 109.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 3 MEDAN",
+        "ID_SEKOLAH": 110.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 5 ACEH UTARA",
+        "ID_SEKOLAH": 111.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN 9 JAKARTA",
+        "ID_SEKOLAH": 112.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN AMBON",
+        "ID_SEKOLAH": 113.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN BARAKA",
+        "ID_SEKOLAH": 114.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN BINAMU JENEPONTO",
+        "ID_SEKOLAH": 115.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN BONTANG",
+        "ID_SEKOLAH": 116.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN ENREKANG",
+        "ID_SEKOLAH": 117.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN FAKFAK",
+        "ID_SEKOLAH": 118.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN GOWA",
+        "ID_SEKOLAH": 119.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN I PALU",
+        "ID_SEKOLAH": 120.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN INSAN CENDEKIA ACEH TIMUR",
+        "ID_SEKOLAH": 121.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+        "ID_SEKOLAH": 122.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN INSAN CENDEKIA GOWA",
+        "ID_SEKOLAH": 123.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN INSAN CENDEKIA KOTA KENDARI",
+        "ID_SEKOLAH": 124.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN INSAN CENDEKIA PASER",
+        "ID_SEKOLAH": 125.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN JENEPONTO",
+        "ID_SEKOLAH": 126.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN KEPULAUAN SELAYAR",
+        "ID_SEKOLAH": 127.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN KOTA LHOKSEUMAWE",
+        "ID_SEKOLAH": 128.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN KOTA PARIAMAN",
+        "ID_SEKOLAH": 129.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN KOTA SORONG",
+        "ID_SEKOLAH": 130.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN LAMPA POLEWALI",
+        "ID_SEKOLAH": 131.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN LAPPARIAJA",
+        "ID_SEKOLAH": 132.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN LUWU",
+        "ID_SEKOLAH": 133.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN LUWUK",
+        "ID_SEKOLAH": 134.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN MADELLO BARRU",
+        "ID_SEKOLAH": 135.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN MAKALE",
+        "ID_SEKOLAH": 136.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN MAMUJU",
+        "ID_SEKOLAH": 137.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN MODEL 1 MANADO",
+        "ID_SEKOLAH": 138.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN PALOPO",
+        "ID_SEKOLAH": 139.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN PANGKAJENE KEPULAUAN",
+        "ID_SEKOLAH": 140.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN PANGKEP",
+        "ID_SEKOLAH": 141.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN PINRANG",
+        "ID_SEKOLAH": 142.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN POLEWALI",
+        "ID_SEKOLAH": 143.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN SAKATIGA",
+        "ID_SEKOLAH": 144.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN SAUSU",
+        "ID_SEKOLAH": 145.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN SIDENRENG RAPPANG",
+        "ID_SEKOLAH": 146.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN SIMALUNGUN",
+        "ID_SEKOLAH": 147.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN SULI",
+        "ID_SEKOLAH": 148.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN TANETE BULUKUMBA",
+        "ID_SEKOLAH": 149.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN TEMANGGUNG",
+        "ID_SEKOLAH": 150.0
+    },
+    {
+        "NAMA SEKOLAH": "MAN WAJO",
+        "ID_SEKOLAH": 151.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS ABNAUL AMIR",
+        "ID_SEKOLAH": 152.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AINUS SYAMSI",
+        "ID_SEKOLAH": 153.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL - BUKHARI",
+        "ID_SEKOLAH": 154.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL BADAR BILALANG",
+        "ID_SEKOLAH": 155.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL HIKMAH RANTEANGIN",
+        "ID_SEKOLAH": 156.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL IKHLAS",
+        "ID_SEKOLAH": 157.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL IKHLAS UJUNG",
+        "ID_SEKOLAH": 158.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL ITTIHAD",
+        "ID_SEKOLAH": 159.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL MUBARAK DDI TOBARAKKA",
+        "ID_SEKOLAH": 160.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-AMANAH",
+        "ID_SEKOLAH": 161.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-AMIN",
+        "ID_SEKOLAH": 162.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-FAKHRIYAH",
+        "ID_SEKOLAH": 163.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-FATH",
+        "ID_SEKOLAH": 164.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-HUSAINY KOTA BIMA",
+        "ID_SEKOLAH": 165.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-IHSAN KAJUARA",
+        "ID_SEKOLAH": 166.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-IKHLAS SIOMPU BARAT",
+        "ID_SEKOLAH": 167.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-IKHLAS UJUNG",
+        "ID_SEKOLAH": 168.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-IKHLAS UJUNG BONE",
+        "ID_SEKOLAH": 169.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-MUBARAK DDI TOBARAKKA",
+        "ID_SEKOLAH": 170.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AL-QAMAR",
+        "ID_SEKOLAH": 171.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AN NAHDLAH LAYANG",
+        "ID_SEKOLAH": 172.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AN NAHDLAH SUDIANG",
+        "ID_SEKOLAH": 173.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AN-NAHDHAH",
+        "ID_SEKOLAH": 174.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS AN-NURIYAH",
+        "ID_SEKOLAH": 175.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS ANNUR NUSA",
+        "ID_SEKOLAH": 176.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS ASADIYAH 170 LAYANG",
+        "ID_SEKOLAH": 177.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS ASH-SHALIHIN",
+        "ID_SEKOLAH": 178.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS ATS-TSABAT",
+        "ID_SEKOLAH": 179.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS BABUL ILMY",
+        "ID_SEKOLAH": 180.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL ARQAM",
+        "ID_SEKOLAH": 181.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL FALLAAH UNISMUH",
+        "ID_SEKOLAH": 182.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL HIKMAH",
+        "ID_SEKOLAH": 183.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL I`TISHAM EMBO",
+        "ID_SEKOLAH": 184.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL QALAM",
+        "ID_SEKOLAH": 185.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL ULUM",
+        "ID_SEKOLAH": 186.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL ULUM AMESSANGENG",
+        "ID_SEKOLAH": 187.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUL ULUM SIPAHO",
+        "ID_SEKOLAH": 188.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DARUSSHALIHIN BERRU",
+        "ID_SEKOLAH": 189.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI BARU-BARU TANGA",
+        "ID_SEKOLAH": 190.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI GALLA RAYA",
+        "ID_SEKOLAH": 191.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI GUSUNG",
+        "ID_SEKOLAH": 192.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI KABALLANGAN",
+        "ID_SEKOLAH": 193.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI LIL BANAT",
+        "ID_SEKOLAH": 194.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI NURUSSALAM LASSA-LASSA",
+        "ID_SEKOLAH": 195.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI PADANGLAMPE",
+        "ID_SEKOLAH": 196.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI PARIA",
+        "ID_SEKOLAH": 197.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI PATTOJO",
+        "ID_SEKOLAH": 198.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI TAKKALASI",
+        "ID_SEKOLAH": 199.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS DDI TELLU LIMPOE",
+        "ID_SEKOLAH": 200.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS GUPPI BUNTU BARANA",
+        "ID_SEKOLAH": 201.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS GUPPI GANDENG",
+        "ID_SEKOLAH": 202.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS GUPPI SAMATA",
+        "ID_SEKOLAH": 203.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS HARISUL KHAIRAAT OME",
+        "ID_SEKOLAH": 204.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS HJ. HANIAH",
+        "ID_SEKOLAH": 205.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS IMMIM",
+        "ID_SEKOLAH": 206.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS KANCINAA",
+        "ID_SEKOLAH": 207.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS LITA",
+        "ID_SEKOLAH": 208.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS LUBUK MALAKO",
+        "ID_SEKOLAH": 209.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MA HAD HADITS AL JUNAIDIYAH BIRU",
+        "ID_SEKOLAH": 210.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MA`ARIF BULUKUMBA",
+        "ID_SEKOLAH": 211.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MAARIF LASEPANG",
+        "ID_SEKOLAH": 212.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MADANI",
+        "ID_SEKOLAH": 213.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MADANI ALAUDDIN",
+        "ID_SEKOLAH": 214.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MADANI ALAUDDIN PAO-PAO",
+        "ID_SEKOLAH": 215.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MANONGKOKI",
+        "ID_SEKOLAH": 216.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MIFTAHUL ULUM ANGGANA",
+        "ID_SEKOLAH": 217.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MISBAHUNNUR",
+        "ID_SEKOLAH": 218.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUALLIMIN",
+        "ID_SEKOLAH": 219.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUALLIMIN MUHAMMADIYAH MAKASSAR",
+        "ID_SEKOLAH": 220.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUHAMMADIYAH BONTORITA",
+        "ID_SEKOLAH": 221.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUHAMMADIYAH CAB. MAMAJANG",
+        "ID_SEKOLAH": 222.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUHAMMADIYAH DATARANG",
+        "ID_SEKOLAH": 223.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUHAMMADIYAH KALOSI",
+        "ID_SEKOLAH": 224.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUHAMMADIYAH LIMBUNG",
+        "ID_SEKOLAH": 225.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUHAMMADIYAH MALUA",
+        "ID_SEKOLAH": 226.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MUHAMMADIYAH SENGKANG",
+        "ID_SEKOLAH": 227.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS MULTITEKNIK ASIH PUTERA",
+        "ID_SEKOLAH": 228.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS NAHDLATUL ULUM",
+        "ID_SEKOLAH": 229.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS NUR LATHIFAH LENGKE-LENGKESE",
+        "ID_SEKOLAH": 230.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS NURUL RAHMAT",
+        "ID_SEKOLAH": 231.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PERGIS GANRA",
+        "ID_SEKOLAH": 232.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PESANTREN MIZANUL`ULUM",
+        "ID_SEKOLAH": 233.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PESTN. PEMB. MUHAMMADIYAH",
+        "ID_SEKOLAH": 234.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS POMPANUA",
+        "ID_SEKOLAH": 235.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PP MODERN DINIYAH PASIR",
+        "ID_SEKOLAH": 236.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PP YASRIB LAPAJUNG",
+        "ID_SEKOLAH": 237.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PP.BABUL KHAER BULUKUMBA",
+        "ID_SEKOLAH": 238.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PPM TANA TORAJA",
+        "ID_SEKOLAH": 239.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PUTRA DDI MANGKOSO",
+        "ID_SEKOLAH": 240.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS PUTRI DDI MANGKOSO",
+        "ID_SEKOLAH": 241.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS RAHMATUL ASRI",
+        "ID_SEKOLAH": 242.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS RAHMATUL ASRI MAROANGIN",
+        "ID_SEKOLAH": 243.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS SULTAN HASANUDDIN",
+        "ID_SEKOLAH": 244.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS UKHUWAH ISLAMIYAH",
+        "ID_SEKOLAH": 245.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS UMMUL MUKMININ",
+        "ID_SEKOLAH": 246.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS USHULUDDIN SINGKAWANG",
+        "ID_SEKOLAH": 247.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS YADI BONTOCINA",
+        "ID_SEKOLAH": 248.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS YAPIS AL-OESMANIYYAH",
+        "ID_SEKOLAH": 249.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS YPIQ AL-MUZAHWIRAH",
+        "ID_SEKOLAH": 250.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS. MUHAMMADIYAH KALOSI",
+        "ID_SEKOLAH": 251.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS. PP. RAUDHATUL HASANAH",
+        "ID_SEKOLAH": 252.0
+    },
+    {
+        "NAMA SEKOLAH": "MAS.NAHDLATUL ULUM",
+        "ID_SEKOLAH": 253.0
+    },
+    {
+        "NAMA SEKOLAH": "NAHDLATUL ULUM",
+        "ID_SEKOLAH": 254.0
+    },
+    {
+        "NAMA SEKOLAH": "PKBM GLOBAL MANDIRI",
+        "ID_SEKOLAH": 255.0
+    },
+    {
+        "NAMA SEKOLAH": "PONDOK QUR'AN BERKAH BOGOR",
+        "ID_SEKOLAH": 256.0
+    },
+    {
+        "NAMA SEKOLAH": "PONPES MAS AL IKHLAS",
+        "ID_SEKOLAH": 257.0
+    },
+    {
+        "NAMA SEKOLAH": "PP MA AL-URWATUL WUTSQAA",
+        "ID_SEKOLAH": 258.0
+    },
+    {
+        "NAMA SEKOLAH": "PPM RAHMATUL ASRI",
+        "ID_SEKOLAH": 259.0
+    },
+    {
+        "NAMA SEKOLAH": "SEKOLAH INDONESIA KOTA KINABALU",
+        "ID_SEKOLAH": 260.0
+    },
+    {
+        "NAMA SEKOLAH": "SEKOLAH INDONESIA KOTA KINABALU TINGKAT SMA",
+        "ID_SEKOLAH": 261.0
+    },
+    {
+        "NAMA SEKOLAH": "SEKOLAH MENENGAH ATAS ISLAM TERPADU IBNU SINA MAKASSAR",
+        "ID_SEKOLAH": 262.0
+    },
+    {
+        "NAMA SEKOLAH": "SKB UJUNG PANDANG",
+        "ID_SEKOLAH": 263.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA",
+        "ID_SEKOLAH": 264.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 1 KOLAKA UTARA",
+        "ID_SEKOLAH": 265.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 1 MAKASSAR",
+        "ID_SEKOLAH": 266.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 1 PITUMPANUA / SMAN 6 WAJO",
+        "ID_SEKOLAH": 267.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 1 TANETE RIAJA",
+        "ID_SEKOLAH": 268.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 10 AMBON",
+        "ID_SEKOLAH": 269.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 12 MAROS",
+        "ID_SEKOLAH": 270.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 12 WAJO",
+        "ID_SEKOLAH": 271.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 15 WAJO",
+        "ID_SEKOLAH": 272.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 2 ENREKANG",
+        "ID_SEKOLAH": 273.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 2 SIDRAP",
+        "ID_SEKOLAH": 274.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 2 WAJO",
+        "ID_SEKOLAH": 275.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 21 BONE",
+        "ID_SEKOLAH": 276.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 3 AMBON",
+        "ID_SEKOLAH": 277.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 3 WAJO",
+        "ID_SEKOLAH": 278.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 4 BANTAENG",
+        "ID_SEKOLAH": 279.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 4 LUWU TIMUR",
+        "ID_SEKOLAH": 280.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 4 PALOPO",
+        "ID_SEKOLAH": 281.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 4 PANGKEP",
+        "ID_SEKOLAH": 282.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 45 UNGGULAN SOSSOK",
+        "ID_SEKOLAH": 283.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 5 ENREKANG",
+        "ID_SEKOLAH": 284.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 6 WAJO",
+        "ID_SEKOLAH": 285.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 7 PINRANG",
+        "ID_SEKOLAH": 286.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA 7 WAJO",
+        "ID_SEKOLAH": 287.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ADDARAEN",
+        "ID_SEKOLAH": 288.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ADVENT MAKASSAR",
+        "ID_SEKOLAH": 289.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ADVENT MEBALI",
+        "ID_SEKOLAH": 290.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA AKSARA BAJENG",
+        "ID_SEKOLAH": 291.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA AL HIDAYAH",
+        "ID_SEKOLAH": 292.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA AL MINHAJ",
+        "ID_SEKOLAH": 293.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA AL-MA'HADUL ISLAMI",
+        "ID_SEKOLAH": 294.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA AL-MADINA",
+        "ID_SEKOLAH": 295.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ALEXANDRIA ISLAMIC SCHOOL",
+        "ID_SEKOLAH": 296.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA AMMANAGAPPA",
+        "ID_SEKOLAH": 297.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ANGKASA MAROS",
+        "ID_SEKOLAH": 298.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ATHIRAH 2",
+        "ID_SEKOLAH": 299.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA BABUSSALAM PASSANDERANG",
+        "ID_SEKOLAH": 300.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA BUDHAYA II SANTO AGUSTINUS",
+        "ID_SEKOLAH": 301.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA BUDI UTOMO PERAK",
+        "ID_SEKOLAH": 302.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA BUKIT ASAM TANJUNG ENIM",
+        "ID_SEKOLAH": 303.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA BUQ'ATUN MUBARAKAH",
+        "ID_SEKOLAH": 304.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA BUQ'TUN MUBARAKAH",
+        "ID_SEKOLAH": 305.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA CITRA MULIA MAKASSAR",
+        "ID_SEKOLAH": 306.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA COKROAMINOTO",
+        "ID_SEKOLAH": 307.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA COKROAMINOTO TAMALANREA",
+        "ID_SEKOLAH": 308.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA DAARUT TAUHIID BOARDING SCHOOL",
+        "ID_SEKOLAH": 309.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA DARUNNAJAH",
+        "ID_SEKOLAH": 310.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA DATUK RIBANDANG",
+        "ID_SEKOLAH": 311.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA FIRDAUS JEMBRANA",
+        "ID_SEKOLAH": 312.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA FRATER MAKASSAR",
+        "ID_SEKOLAH": 313.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA FRATER PALOPO",
+        "ID_SEKOLAH": 314.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA GAMALIEL MAKASSAR",
+        "ID_SEKOLAH": 315.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA GIKI 3 SURABAYA",
+        "ID_SEKOLAH": 316.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA HANG TUAH 1 SURABAYA",
+        "ID_SEKOLAH": 317.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA HANG TUAH TARAKAN",
+        "ID_SEKOLAH": 318.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IBNU HAJAR BOARDING SCHOOL",
+        "ID_SEKOLAH": 319.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IMMANUEL BATU",
+        "ID_SEKOLAH": 320.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA INDOCEMENT",
+        "ID_SEKOLAH": 321.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA INSAN CENDEKIA MANDIRI BOARDING SCHOOL",
+        "ID_SEKOLAH": 322.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA INSAN CENDEKIA SYECH YUSUF",
+        "ID_SEKOLAH": 323.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM AL AZHAR 12 MAKASSAR",
+        "ID_SEKOLAH": 324.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM AL-AZHAR 12 MAKASSAR",
+        "ID_SEKOLAH": 325.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM ATHIRAH 1 MAKASSAR",
+        "ID_SEKOLAH": 326.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM ATHIRAH BUKIT BARUGA",
+        "ID_SEKOLAH": 327.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM AZ-ZAHRAH PALEMBANG",
+        "ID_SEKOLAH": 328.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM PB. SOEDIRMAN",
+        "ID_SEKOLAH": 329.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM SULTAN AGUNG 3",
+        "ID_SEKOLAH": 330.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM TERPADU",
+        "ID_SEKOLAH": 331.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM TERPADU AR-RISALAH PAOK LOMBOK",
+        "ID_SEKOLAH": 332.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM TERPADU WAHDAH",
+        "ID_SEKOLAH": 333.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM TERPADU WAHDAH ISLAMIYAH",
+        "ID_SEKOLAH": 334.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM TERPADU WAHDAH ISLAMIYAH MAKASSAR",
+        "ID_SEKOLAH": 335.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM TERPADU YABIS BONTANG",
+        "ID_SEKOLAH": 336.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAM TERPADUWAHDAH ISLAMIYAH",
+        "ID_SEKOLAH": 337.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISLAMIC INTERNATIONAL SCHOOL PSM",
+        "ID_SEKOLAH": 338.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ISTIQAMAH",
+        "ID_SEKOLAH": 339.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IT AL BINAA",
+        "ID_SEKOLAH": 340.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IT AL-FITYAN SCHOOL GOWA",
+        "ID_SEKOLAH": 341.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IT BINA AMAL",
+        "ID_SEKOLAH": 342.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IT WAHDAH",
+        "ID_SEKOLAH": 343.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IT WAHDAH ISLAMIYAH",
+        "ID_SEKOLAH": 344.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA IT WAHDAH ISLAMIYAH MAKASSAR",
+        "ID_SEKOLAH": 345.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA ITCI PPU",
+        "ID_SEKOLAH": 346.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KARTIKA XX-1 MAKASSAR",
+        "ID_SEKOLAH": 347.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KARTIKA XXI MAKASSAR",
+        "ID_SEKOLAH": 348.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KASIH",
+        "ID_SEKOLAH": 349.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KATOLIK CENDERAWASIH",
+        "ID_SEKOLAH": 350.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KATOLIK CENDERAWASIH MAKASSAR",
+        "ID_SEKOLAH": 351.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KATOLIK MAKALE",
+        "ID_SEKOLAH": 352.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KATOLIK RAJAWALI",
+        "ID_SEKOLAH": 353.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KATOLIK RAJAWALI MAKASSAR",
+        "ID_SEKOLAH": 354.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KATOLIK RANTEPAO",
+        "ID_SEKOLAH": 355.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KATOLIK REX MUNDI MANADO",
+        "ID_SEKOLAH": 356.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KEMALA BHAYANGKARI",
+        "ID_SEKOLAH": 357.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KOSGORO KOTA BOGOR",
+        "ID_SEKOLAH": 358.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KRISTEN 2 RANTEPAO",
+        "ID_SEKOLAH": 359.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KRISTEN 2 RENTEPAO",
+        "ID_SEKOLAH": 360.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KRISTEN BARANA",
+        "ID_SEKOLAH": 361.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KRISTEN ELIM MAKASSAR",
+        "ID_SEKOLAH": 362.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA KRISTEN PALOPO",
+        "ID_SEKOLAH": 363.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA LABORATORIUM UPI",
+        "ID_SEKOLAH": 364.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA LABSCHOOL UNTAD PALU",
+        "ID_SEKOLAH": 365.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MALAHAYATI",
+        "ID_SEKOLAH": 366.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MODERN AL-RIFA'IE",
+        "ID_SEKOLAH": 367.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 1",
+        "ID_SEKOLAH": 368.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 1 UNISMUH MAKASSAR",
+        "ID_SEKOLAH": 369.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 1 UNISMUH MAKASSARR",
+        "ID_SEKOLAH": 370.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 2",
+        "ID_SEKOLAH": 371.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 2 AL-MUJAHIDIN",
+        "ID_SEKOLAH": 372.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 3 MAKASSAR",
+        "ID_SEKOLAH": 373.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 7 MAKASSAR",
+        "ID_SEKOLAH": 374.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH 7 SURABAYA",
+        "ID_SEKOLAH": 375.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH CILEUNGSI",
+        "ID_SEKOLAH": 376.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH KALOSI5",
+        "ID_SEKOLAH": 377.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH LIMBUNG",
+        "ID_SEKOLAH": 378.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH PANGKAJENE",
+        "ID_SEKOLAH": 379.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADIYAH PINRANG",
+        "ID_SEKOLAH": 380.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUHAMMADYA KALOSI",
+        "ID_SEKOLAH": 381.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA MUTIARA 17 AGUSTUS",
+        "ID_SEKOLAH": 382.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 02 PALEMBANG",
+        "ID_SEKOLAH": 383.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 09 PALEMBANG",
+        "ID_SEKOLAH": 384.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 1 BULUKUMBA",
+        "ID_SEKOLAH": 385.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 1 DAMPAL UTARA",
+        "ID_SEKOLAH": 386.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 1 SENTANI",
+        "ID_SEKOLAH": 387.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 1 ULU BARUMUN",
+        "ID_SEKOLAH": 388.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 12 PALEMBANG",
+        "ID_SEKOLAH": 389.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 14 PALEMBANG",
+        "ID_SEKOLAH": 390.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 17 KABUPATEN TANGERANG",
+        "ID_SEKOLAH": 391.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 19 PALEMBANG",
+        "ID_SEKOLAH": 392.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 2 DUMAI",
+        "ID_SEKOLAH": 393.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 2 MAMUJU",
+        "ID_SEKOLAH": 394.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 22 PALEMBANG",
+        "ID_SEKOLAH": 395.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 4 BERAU",
+        "ID_SEKOLAH": 396.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 5 TIDORE KEPULAUAN",
+        "ID_SEKOLAH": 397.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA N 7 ENREKANG",
+        "ID_SEKOLAH": 398.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NASIONAL MAKASSAR",
+        "ID_SEKOLAH": 399.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEG 15 MAKASSAR",
+        "ID_SEKOLAH": 400.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGER 1 MAWASANGKA TENGAH",
+        "ID_SEKOLAH": 401.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGRI 1 SELAYAR",
+        "ID_SEKOLAH": 402.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGRI 12 MAKASSAR",
+        "ID_SEKOLAH": 403.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGRI 12 MAROS",
+        "ID_SEKOLAH": 404.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGRI 18 MAKASSAR",
+        "ID_SEKOLAH": 405.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGRI 3 MAKASSAR",
+        "ID_SEKOLAH": 406.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGRI 5 GOWA",
+        "ID_SEKOLAH": 407.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NEGRI MODEL TERPADU MADANI",
+        "ID_SEKOLAH": 408.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA NGERI 7 MAKASSAR",
+        "ID_SEKOLAH": 409.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PASUNDAN 3 BANDUNG",
+        "ID_SEKOLAH": 410.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PATRA MANDIRI 2 PALEMBANG",
+        "ID_SEKOLAH": 411.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PELITA RANTEPAO",
+        "ID_SEKOLAH": 412.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PERGURUAN CIKINI JAKARTA",
+        "ID_SEKOLAH": 413.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PERGURUAN RAKYAT 1",
+        "ID_SEKOLAH": 414.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGII 2",
+        "ID_SEKOLAH": 415.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGRI 1 PADANG",
+        "ID_SEKOLAH": 416.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGRI 2 KOTA BEKASI",
+        "ID_SEKOLAH": 417.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGRI 2 PALEMBANG",
+        "ID_SEKOLAH": 418.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGRI 3 BOGOR",
+        "ID_SEKOLAH": 419.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGRI 4 JAKARTA TIMUR",
+        "ID_SEKOLAH": 420.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGRI CICALENGKA",
+        "ID_SEKOLAH": 421.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PGRI GE`TENGAN",
+        "ID_SEKOLAH": 422.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PLUS BUDI UTOMO MAKASSAR",
+        "ID_SEKOLAH": 423.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PLUS MELATI SAMARINDA",
+        "ID_SEKOLAH": 424.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PLUS PGRI CIBINONG",
+        "ID_SEKOLAH": 425.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PPM RAHMATUL ASRI",
+        "ID_SEKOLAH": 426.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA PRESIDENT",
+        "ID_SEKOLAH": 427.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA S SANTO PAULUS",
+        "ID_SEKOLAH": 428.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA SEMEN PADANG",
+        "ID_SEKOLAH": 429.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA SEMEN TONASA",
+        "ID_SEKOLAH": 430.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA SENTOSA BHAKTI BATURAJA",
+        "ID_SEKOLAH": 431.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA SMART EKSELENSIA INDONESIA",
+        "ID_SEKOLAH": 432.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA SRIJAYA NEGARA",
+        "ID_SEKOLAH": 433.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA SUMATRA 40 BANDUNG",
+        "ID_SEKOLAH": 434.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TADIKA PERTIWI",
+        "ID_SEKOLAH": 435.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TARUNA MANDARA",
+        "ID_SEKOLAH": 436.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TARUNA SUMATERA BARAT",
+        "ID_SEKOLAH": 437.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TRENSAINS TEBUIRENG",
+        "ID_SEKOLAH": 438.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TRI TUNGGAL 45",
+        "ID_SEKOLAH": 439.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TRI TUNGGAL 45 MAKASSAR",
+        "ID_SEKOLAH": 440.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TUNAS BANGSA",
+        "ID_SEKOLAH": 441.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA TUT WURI HANDAYANI",
+        "ID_SEKOLAH": 442.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA UMMUL MUKMININ",
+        "ID_SEKOLAH": 443.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA UNGGULAN AMANATUL UMMAH",
+        "ID_SEKOLAH": 444.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA WAHDAH ISLAMIYAH MAKASSAR",
+        "ID_SEKOLAH": 445.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA WAHYU MAKASSAR",
+        "ID_SEKOLAH": 446.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA YADIKA 7",
+        "ID_SEKOLAH": 447.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA YP UNILA",
+        "ID_SEKOLAH": 448.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA YPI TUNAS BANGSA PALEMBANG",
+        "ID_SEKOLAH": 449.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA YPPK ADHI LUHUR",
+        "ID_SEKOLAH": 450.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA YPS SOROAKO",
+        "ID_SEKOLAH": 451.0
+    },
+    {
+        "NAMA SEKOLAH": "SMA.3 PALOPO",
+        "ID_SEKOLAH": 452.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAIT AL-ISHLAH",
+        "ID_SEKOLAH": 453.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAIT AR-RAHMAH",
+        "ID_SEKOLAH": 454.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAIT PESANTREN NURURRAHMAN",
+        "ID_SEKOLAH": 455.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAIT UMMUL QURO BOGOR",
+        "ID_SEKOLAH": 456.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAK FRATERAN MAUMERE",
+        "ID_SEKOLAH": 457.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAK SANTO YOSEPH DENPASAR",
+        "ID_SEKOLAH": 458.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAK ST. THOMAS AQUINAS RUTENG",
+        "ID_SEKOLAH": 459.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 01 BOMBANA",
+        "ID_SEKOLAH": 460.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 01 LANGGUDU",
+        "ID_SEKOLAH": 461.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 01 MAMUJU",
+        "ID_SEKOLAH": 462.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 01 SUNGAYANG",
+        "ID_SEKOLAH": 463.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 02",
+        "ID_SEKOLAH": 464.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 02 BATU",
+        "ID_SEKOLAH": 465.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 02 BATUSANGKAR",
+        "ID_SEKOLAH": 466.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 02N AGUNG",
+        "ID_SEKOLAH": 467.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 03 BOMBANA",
+        "ID_SEKOLAH": 468.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 03 PALEMBANG",
+        "ID_SEKOLAH": 469.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 03 PRABUMULIH",
+        "ID_SEKOLAH": 470.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 04 PALEMBANG",
+        "ID_SEKOLAH": 471.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 05 MAKASSAR",
+        "ID_SEKOLAH": 472.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 05 MUKOMUKO",
+        "ID_SEKOLAH": 473.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 06 MAKASSAR",
+        "ID_SEKOLAH": 474.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 08 MAKASSAR",
+        "ID_SEKOLAH": 475.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 (SSN) MAROS",
+        "ID_SEKOLAH": 476.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ABUNG KUNANG",
+        "ID_SEKOLAH": 477.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 AFULU",
+        "ID_SEKOLAH": 478.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 AIR BATU",
+        "ID_SEKOLAH": 479.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 AIR JOMAN",
+        "ID_SEKOLAH": 480.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 AIRPURA",
+        "ID_SEKOLAH": 481.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 AMANUBAN TIMUR",
+        "ID_SEKOLAH": 482.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 AMPANA KOTA",
+        "ID_SEKOLAH": 483.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 AMUNTAI",
+        "ID_SEKOLAH": 484.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ANGGANA",
+        "ID_SEKOLAH": 485.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ANGGERAJA",
+        "ID_SEKOLAH": 486.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ANGKONA",
+        "ID_SEKOLAH": 487.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ANYER",
+        "ID_SEKOLAH": 488.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ARALLE",
+        "ID_SEKOLAH": 489.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ASOLOGAIMA",
+        "ID_SEKOLAH": 490.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BABALAN",
+        "ID_SEKOLAH": 491.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BABAT SUPAT",
+        "ID_SEKOLAH": 492.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BABELAN",
+        "ID_SEKOLAH": 493.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BAJENG",
+        "ID_SEKOLAH": 494.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BAJENG BARAT",
+        "ID_SEKOLAH": 495.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BALIKPAPAN",
+        "ID_SEKOLAH": 496.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BALLA",
+        "ID_SEKOLAH": 497.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BAMBANG",
+        "ID_SEKOLAH": 498.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANDAR",
+        "ID_SEKOLAH": 499.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANGGAI",
+        "ID_SEKOLAH": 500.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANGKINANG KOTA",
+        "ID_SEKOLAH": 501.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANJARAN",
+        "ID_SEKOLAH": 502.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANJARHARJO",
+        "ID_SEKOLAH": 503.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANTAENG",
+        "ID_SEKOLAH": 504.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANTAN",
+        "ID_SEKOLAH": 505.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANTIMURUNG",
+        "ID_SEKOLAH": 506.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANUHAMPU",
+        "ID_SEKOLAH": 507.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BANYUASIN I",
+        "ID_SEKOLAH": 508.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BARAKA",
+        "ID_SEKOLAH": 509.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BARAT",
+        "ID_SEKOLAH": 510.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BARRU",
+        "ID_SEKOLAH": 511.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BARUS",
+        "ID_SEKOLAH": 512.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BATANG KAPAS",
+        "ID_SEKOLAH": 513.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BATANGTORU",
+        "ID_SEKOLAH": 514.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BATAUGA",
+        "ID_SEKOLAH": 515.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BATU",
+        "ID_SEKOLAH": 516.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BATU AMPAR",
+        "ID_SEKOLAH": 517.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BATU SOPANG",
+        "ID_SEKOLAH": 518.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BAU-BAU",
+        "ID_SEKOLAH": 519.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BAUBAU",
+        "ID_SEKOLAH": 520.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BAURENO",
+        "ID_SEKOLAH": 521.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BAWOLATO",
+        "ID_SEKOLAH": 522.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BERBEK",
+        "ID_SEKOLAH": 523.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BETUNG",
+        "ID_SEKOLAH": 524.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BIAK",
+        "ID_SEKOLAH": 525.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BINAMU",
+        "ID_SEKOLAH": 526.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BINTAN TIMUR",
+        "ID_SEKOLAH": 527.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BINTAUNA",
+        "ID_SEKOLAH": 528.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BLANGKEJEREN",
+        "ID_SEKOLAH": 529.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BOLO",
+        "ID_SEKOLAH": 530.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BONE",
+        "ID_SEKOLAH": 531.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BONE-BONE",
+        "ID_SEKOLAH": 532.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BONEGUNU",
+        "ID_SEKOLAH": 533.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BONTOMARANNU",
+        "ID_SEKOLAH": 534.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BOSAR MALIGAS",
+        "ID_SEKOLAH": 535.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BRINGIN",
+        "ID_SEKOLAH": 536.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BUDONG-BUDONG",
+        "ID_SEKOLAH": 537.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BUKIT BATU",
+        "ID_SEKOLAH": 538.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BULUKUMBA",
+        "ID_SEKOLAH": 539.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BUMI RAYA",
+        "ID_SEKOLAH": 540.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BUNGIN",
+        "ID_SEKOLAH": 541.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BUNGKU TENGAH",
+        "ID_SEKOLAH": 542.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BUNTU PANE",
+        "ID_SEKOLAH": 543.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BUNYU",
+        "ID_SEKOLAH": 544.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 BURU",
+        "ID_SEKOLAH": 545.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CAMPALAGIAN",
+        "ID_SEKOLAH": 546.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CEPOGO",
+        "ID_SEKOLAH": 547.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CEPU",
+        "ID_SEKOLAH": 548.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CIANJUR",
+        "ID_SEKOLAH": 549.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CILEUNGSI",
+        "ID_SEKOLAH": 550.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CIMAHI",
+        "ID_SEKOLAH": 551.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CIMALAKA",
+        "ID_SEKOLAH": 552.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CIPARAY",
+        "ID_SEKOLAH": 553.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CISEENG",
+        "ID_SEKOLAH": 554.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CIWIDEY",
+        "ID_SEKOLAH": 555.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 CURIO",
+        "ID_SEKOLAH": 556.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 DAMPAL SELATAN",
+        "ID_SEKOLAH": 557.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 DEWANTARA",
+        "ID_SEKOLAH": 558.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 DOLOKSANGGUL",
+        "ID_SEKOLAH": 559.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 DOLOPO",
+        "ID_SEKOLAH": 560.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 DRAMAGA",
+        "ID_SEKOLAH": 561.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 DUA KOTO",
+        "ID_SEKOLAH": 562.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 DUMAI",
+        "ID_SEKOLAH": 563.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 ENREKANG",
+        "ID_SEKOLAH": 564.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GALANG",
+        "ID_SEKOLAH": 565.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GAMBIRAN",
+        "ID_SEKOLAH": 566.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GARUT",
+        "ID_SEKOLAH": 567.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GEDANGAN",
+        "ID_SEKOLAH": 568.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GEDEG",
+        "ID_SEKOLAH": 569.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GIANYAR",
+        "ID_SEKOLAH": 570.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GORONTALO",
+        "ID_SEKOLAH": 571.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GOWA",
+        "ID_SEKOLAH": 572.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GUNTUR",
+        "ID_SEKOLAH": 573.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GUNUNG TALANG",
+        "ID_SEKOLAH": 574.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GUNUNG TULEH",
+        "ID_SEKOLAH": 575.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GUNUNGSITOLI",
+        "ID_SEKOLAH": 576.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 GUNUNGSITOLI UTARA",
+        "ID_SEKOLAH": 577.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 HALMAHERA TIMUR",
+        "ID_SEKOLAH": 578.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 HARAU",
+        "ID_SEKOLAH": 579.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 HILIRAN GUMANTI",
+        "ID_SEKOLAH": 580.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 IV KOTO",
+        "ID_SEKOLAH": 581.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 JATI AGUNG",
+        "ID_SEKOLAH": 582.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 JAWAI",
+        "ID_SEKOLAH": 583.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 JEJAWI",
+        "ID_SEKOLAH": 584.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 JENEPONTO",
+        "ID_SEKOLAH": 585.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KABANGKA",
+        "ID_SEKOLAH": 586.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KAJUARA",
+        "ID_SEKOLAH": 587.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KALEDUPA",
+        "ID_SEKOLAH": 588.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KALUKKU",
+        "ID_SEKOLAH": 589.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KARANGAN",
+        "ID_SEKOLAH": 590.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KARANGTENGAH",
+        "ID_SEKOLAH": 591.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KAROSSA",
+        "ID_SEKOLAH": 592.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KEC. GUGUAK",
+        "ID_SEKOLAH": 593.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KEC. SITUJUAH LIMO NAGARI",
+        "ID_SEKOLAH": 594.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KEC. SULIKI",
+        "ID_SEKOLAH": 595.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KEDUNGREJA",
+        "ID_SEKOLAH": 596.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KEFAMENANU",
+        "ID_SEKOLAH": 597.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KENDAL",
+        "ID_SEKOLAH": 598.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KENDARI",
+        "ID_SEKOLAH": 599.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KISARAN",
+        "ID_SEKOLAH": 600.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KLEGO",
+        "ID_SEKOLAH": 601.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KLUET TIMUR",
+        "ID_SEKOLAH": 602.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KODEOHA",
+        "ID_SEKOLAH": 603.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KOLAKA",
+        "ID_SEKOLAH": 604.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KONAWE SELATAN",
+        "ID_SEKOLAH": 605.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KOTA BIMA",
+        "ID_SEKOLAH": 606.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KOTA PINANG",
+        "ID_SEKOLAH": 607.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KOTA SERANG",
+        "ID_SEKOLAH": 608.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KOTA TERNATE",
+        "ID_SEKOLAH": 609.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KUDUS",
+        "ID_SEKOLAH": 610.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KULISUSU",
+        "ID_SEKOLAH": 611.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 KUPANG TENGAH",
+        "ID_SEKOLAH": 612.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LADONGI",
+        "ID_SEKOLAH": 613.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LAGUBOTI",
+        "ID_SEKOLAH": 614.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LAHAT",
+        "ID_SEKOLAH": 615.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LAMASI",
+        "ID_SEKOLAH": 616.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LANGGUDU",
+        "ID_SEKOLAH": 617.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LANGSA",
+        "ID_SEKOLAH": 618.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LARANGAN",
+        "ID_SEKOLAH": 619.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LASUSUA",
+        "ID_SEKOLAH": 620.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LATAMBAGA",
+        "ID_SEKOLAH": 621.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LECES",
+        "ID_SEKOLAH": 622.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LEIHITU",
+        "ID_SEKOLAH": 623.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LEMBAH GUMANTI",
+        "ID_SEKOLAH": 624.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LEMBAH MELINTANG",
+        "ID_SEKOLAH": 625.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LEMBANG JAYA",
+        "ID_SEKOLAH": 626.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LEMBO",
+        "ID_SEKOLAH": 627.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LENGAYANG",
+        "ID_SEKOLAH": 628.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LEUWILIANG",
+        "ID_SEKOLAH": 629.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LIBURENG",
+        "ID_SEKOLAH": 630.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LIMBOTO",
+        "ID_SEKOLAH": 631.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LINGGANG BIGUNG",
+        "ID_SEKOLAH": 632.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LINTANG KANAN",
+        "ID_SEKOLAH": 633.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LINTAU BUO",
+        "ID_SEKOLAH": 634.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LOA JANAN",
+        "ID_SEKOLAH": 635.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LOA KULU",
+        "ID_SEKOLAH": 636.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LOGHIA",
+        "ID_SEKOLAH": 637.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LUBUK BASUNG",
+        "ID_SEKOLAH": 638.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LUBUK PAKAM",
+        "ID_SEKOLAH": 639.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LUHAK NAN DUO",
+        "ID_SEKOLAH": 640.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LUWU",
+        "ID_SEKOLAH": 641.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LUWU TIMUR",
+        "ID_SEKOLAH": 642.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LUWU UTARA",
+        "ID_SEKOLAH": 643.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 LUWUK",
+        "ID_SEKOLAH": 644.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAGINTI",
+        "ID_SEKOLAH": 645.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAIWA",
+        "ID_SEKOLAH": 646.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAJENE",
+        "ID_SEKOLAH": 647.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAKARTI JAYA",
+        "ID_SEKOLAH": 648.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAKASSAR",
+        "ID_SEKOLAH": 649.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MALANGKE BARAT",
+        "ID_SEKOLAH": 650.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MALIGANO",
+        "ID_SEKOLAH": 651.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MALUNDA",
+        "ID_SEKOLAH": 652.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAMASA",
+        "ID_SEKOLAH": 653.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAMOSALATO",
+        "ID_SEKOLAH": 654.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAMUJU",
+        "ID_SEKOLAH": 655.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MANDAU KEC.MANDAU",
+        "ID_SEKOLAH": 656.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MANDE",
+        "ID_SEKOLAH": 657.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MANGKUTANA",
+        "ID_SEKOLAH": 658.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MANOKWARI",
+        "ID_SEKOLAH": 659.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAPPEDECENG",
+        "ID_SEKOLAH": 660.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MARE",
+        "ID_SEKOLAH": 661.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MARIKIT",
+        "ID_SEKOLAH": 662.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MARIORIWAWO",
+        "ID_SEKOLAH": 663.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAROS",
+        "ID_SEKOLAH": 664.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MASAMA",
+        "ID_SEKOLAH": 665.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MASAMBA",
+        "ID_SEKOLAH": 666.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MATARAM",
+        "ID_SEKOLAH": 667.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAUMERE",
+        "ID_SEKOLAH": 668.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MAWASANGKA",
+        "ID_SEKOLAH": 669.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MEJOBO",
+        "ID_SEKOLAH": 670.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MENJALIN",
+        "ID_SEKOLAH": 671.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MERANTI",
+        "ID_SEKOLAH": 672.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MERAUKE",
+        "ID_SEKOLAH": 673.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MIMIKA",
+        "ID_SEKOLAH": 674.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MINAS",
+        "ID_SEKOLAH": 675.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MUARA BADAK",
+        "ID_SEKOLAH": 676.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MUARA BATU",
+        "ID_SEKOLAH": 677.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MUARA JAWA",
+        "ID_SEKOLAH": 678.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MUARA PINANG",
+        "ID_SEKOLAH": 679.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 MULIA",
+        "ID_SEKOLAH": 680.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NAN SABARIS",
+        "ID_SEKOLAH": 681.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NAPABALANO",
+        "ID_SEKOLAH": 682.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NEGARA",
+        "ID_SEKOLAH": 683.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NGABANG",
+        "ID_SEKOLAH": 684.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NGIMBANG",
+        "ID_SEKOLAH": 685.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NGLAMES",
+        "ID_SEKOLAH": 686.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NOSU",
+        "ID_SEKOLAH": 687.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NUNUKAN",
+        "ID_SEKOLAH": 688.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 NUNUKAN SELATAN",
+        "ID_SEKOLAH": 689.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PADANG BOLAK",
+        "ID_SEKOLAH": 690.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PADANG GELUGUR",
+        "ID_SEKOLAH": 691.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PAGAI SELATAN",
+        "ID_SEKOLAH": 692.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PAHAE JULU",
+        "ID_SEKOLAH": 693.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PAKUE",
+        "ID_SEKOLAH": 694.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PALIBELO",
+        "ID_SEKOLAH": 695.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PALIMANAN",
+        "ID_SEKOLAH": 696.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PALLANGGA",
+        "ID_SEKOLAH": 697.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PALOPO",
+        "ID_SEKOLAH": 698.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PALU",
+        "ID_SEKOLAH": 699.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PAMONA TIMUR",
+        "ID_SEKOLAH": 700.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PAMONA UTARA",
+        "ID_SEKOLAH": 701.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PANCUR BATU",
+        "ID_SEKOLAH": 702.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PANGALE",
+        "ID_SEKOLAH": 703.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PANGARIBUAN",
+        "ID_SEKOLAH": 704.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PANGGUL",
+        "ID_SEKOLAH": 705.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PANGKEP",
+        "ID_SEKOLAH": 706.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PANYIPATAN",
+        "ID_SEKOLAH": 707.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PARANGLOE",
+        "ID_SEKOLAH": 708.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PAREPARE",
+        "ID_SEKOLAH": 709.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PARIGI",
+        "ID_SEKOLAH": 710.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PASANGKAYU",
+        "ID_SEKOLAH": 711.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PASARWAJO",
+        "ID_SEKOLAH": 712.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PASIR BELENGKONG",
+        "ID_SEKOLAH": 713.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PASUI",
+        "ID_SEKOLAH": 714.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PAYAKUMBUH",
+        "ID_SEKOLAH": 715.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PELANGIRAN",
+        "ID_SEKOLAH": 716.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PENAJAM PASER UTARA",
+        "ID_SEKOLAH": 717.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PENDOPO BARAT",
+        "ID_SEKOLAH": 718.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PETIR",
+        "ID_SEKOLAH": 719.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PINRANG",
+        "ID_SEKOLAH": 720.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PITU RIASE",
+        "ID_SEKOLAH": 721.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PLAMPANG",
+        "ID_SEKOLAH": 722.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 POLEWALI",
+        "ID_SEKOLAH": 723.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 POMALAA",
+        "ID_SEKOLAH": 724.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 POSO",
+        "ID_SEKOLAH": 725.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PULAU LAUT TIMUR",
+        "ID_SEKOLAH": 726.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PULAU PINANG",
+        "ID_SEKOLAH": 727.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PURI",
+        "ID_SEKOLAH": 728.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 PURWOSARI",
+        "ID_SEKOLAH": 729.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RAHA",
+        "ID_SEKOLAH": 730.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RAJA AMPAT",
+        "ID_SEKOLAH": 731.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RAMBANG DANGKU",
+        "ID_SEKOLAH": 732.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RANAH BATAHAN",
+        "ID_SEKOLAH": 733.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RANAH PESISIR",
+        "ID_SEKOLAH": 734.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RANTAU ALAI",
+        "ID_SEKOLAH": 735.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RANTAU PANJANG",
+        "ID_SEKOLAH": 736.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RANTAU UTARA",
+        "ID_SEKOLAH": 737.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RAO UTARA",
+        "ID_SEKOLAH": 738.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RASAU JAYA",
+        "ID_SEKOLAH": 739.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RENGASDENGKLOK",
+        "ID_SEKOLAH": 740.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 RUPAT UTARA",
+        "ID_SEKOLAH": 741.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SABBANG",
+        "ID_SEKOLAH": 742.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SAMATURU",
+        "ID_SEKOLAH": 743.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SAMBAS",
+        "ID_SEKOLAH": 744.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SAMPOLAWA",
+        "ID_SEKOLAH": 745.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SANANA",
+        "ID_SEKOLAH": 746.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SANGATTA SELATAN",
+        "ID_SEKOLAH": 747.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SANGKULIRANG",
+        "ID_SEKOLAH": 748.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SAPE",
+        "ID_SEKOLAH": 749.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SARJO",
+        "ID_SEKOLAH": 750.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SARMI",
+        "ID_SEKOLAH": 751.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SARUDU",
+        "ID_SEKOLAH": 752.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SAWAHLUNTO",
+        "ID_SEKOLAH": 753.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SEBATIK",
+        "ID_SEKOLAH": 754.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SEBUKU",
+        "ID_SEKOLAH": 755.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SECANGGANG",
+        "ID_SEKOLAH": 756.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SEI SUKA",
+        "ID_SEKOLAH": 757.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SEKARAN",
+        "ID_SEKOLAH": 758.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SEKAYU",
+        "ID_SEKOLAH": 759.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SELAT",
+        "ID_SEKOLAH": 760.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SELAYAR",
+        "ID_SEKOLAH": 761.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SENDANA",
+        "ID_SEKOLAH": 762.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SERUI",
+        "ID_SEKOLAH": 763.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SIDIKALANG",
+        "ID_SEKOLAH": 764.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SIDRAP",
+        "ID_SEKOLAH": 765.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SIEMPAT NEMPU HILIR",
+        "ID_SEKOLAH": 766.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SIJUNJUNG",
+        "ID_SEKOLAH": 767.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SILAUT",
+        "ID_SEKOLAH": 768.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SIMPANG KANAN",
+        "ID_SEKOLAH": 769.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SINGARAJA",
+        "ID_SEKOLAH": 770.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SINGKAWANG",
+        "ID_SEKOLAH": 771.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SINJAI",
+        "ID_SEKOLAH": 772.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SINJAI UTARA",
+        "ID_SEKOLAH": 773.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SIPAHUTAR",
+        "ID_SEKOLAH": 774.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SITIUNG",
+        "ID_SEKOLAH": 775.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SOLOK",
+        "ID_SEKOLAH": 776.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SOPPENG",
+        "ID_SEKOLAH": 777.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SOPPENG RIAJA (SMA 2 BARRU )",
+        "ID_SEKOLAH": 778.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 STABAT",
+        "ID_SEKOLAH": 779.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUBANG",
+        "ID_SEKOLAH": 780.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUKOHARJO",
+        "ID_SEKOLAH": 781.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUMARORONG",
+        "ID_SEKOLAH": 782.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUMBER",
+        "ID_SEKOLAH": 783.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUMBUL",
+        "ID_SEKOLAH": 784.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUNGAI APIT",
+        "ID_SEKOLAH": 785.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUNGAI GERINGGING",
+        "ID_SEKOLAH": 786.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUNGAI LIMAU",
+        "ID_SEKOLAH": 787.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUNGAI PINYUH",
+        "ID_SEKOLAH": 788.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUNGGUMINASA",
+        "ID_SEKOLAH": 789.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 SUSUT",
+        "ID_SEKOLAH": 790.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TABANAN",
+        "ID_SEKOLAH": 791.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAJURHALANG",
+        "ID_SEKOLAH": 792.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAKALAR",
+        "ID_SEKOLAH": 793.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TALIABU TIMUR SELATAN",
+        "ID_SEKOLAH": 794.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAMBANG ULANG",
+        "ID_SEKOLAH": 795.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAMBUN UTARA",
+        "ID_SEKOLAH": 796.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAMPAKSIRING",
+        "ID_SEKOLAH": 797.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TANA TORAJA",
+        "ID_SEKOLAH": 798.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TANAH PINEM",
+        "ID_SEKOLAH": 799.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TANETE RIAJA",
+        "ID_SEKOLAH": 800.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TANGGETADA",
+        "ID_SEKOLAH": 801.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TANJUNG HARAPAN",
+        "ID_SEKOLAH": 802.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TANJUNG MORAWA",
+        "ID_SEKOLAH": 803.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAPALANG",
+        "ID_SEKOLAH": 804.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAPUNG HILIR",
+        "ID_SEKOLAH": 805.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TARAKAN",
+        "ID_SEKOLAH": 806.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TAWANGSARI",
+        "ID_SEKOLAH": 807.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TEBING TINGGI",
+        "ID_SEKOLAH": 808.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TEGINENENG",
+        "ID_SEKOLAH": 809.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TELUK BATANG",
+        "ID_SEKOLAH": 810.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TELUK KUANTAN",
+        "ID_SEKOLAH": 811.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TEMBILAHAN HULU",
+        "ID_SEKOLAH": 812.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TEMPILANG",
+        "ID_SEKOLAH": 813.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TIKEP",
+        "ID_SEKOLAH": 814.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TIKKE RAYA",
+        "ID_SEKOLAH": 815.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TINANGKUNG",
+        "ID_SEKOLAH": 816.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TIRAWUTA",
+        "ID_SEKOLAH": 817.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOBADAK",
+        "ID_SEKOLAH": 818.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOHO",
+        "ID_SEKOLAH": 819.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOILI",
+        "ID_SEKOLAH": 820.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOLI-TOLI",
+        "ID_SEKOLAH": 821.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOLITOLI",
+        "ID_SEKOLAH": 822.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOMMO",
+        "ID_SEKOLAH": 823.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOMPOBULU",
+        "ID_SEKOLAH": 824.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TOPOYO",
+        "ID_SEKOLAH": 825.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TORAJA UTARA",
+        "ID_SEKOLAH": 826.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TRENGGALEK",
+        "ID_SEKOLAH": 827.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TULUNGAGUNG",
+        "ID_SEKOLAH": 828.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TUMIJAJAR",
+        "ID_SEKOLAH": 829.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TUNJUNGAN",
+        "ID_SEKOLAH": 830.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 TURATEA",
+        "ID_SEKOLAH": 831.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 UJAN MAS",
+        "ID_SEKOLAH": 832.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 UNAAHA",
+        "ID_SEKOLAH": 833.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 V KOTO TIMUR",
+        "ID_SEKOLAH": 834.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WAJO",
+        "ID_SEKOLAH": 835.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WALENRANG",
+        "ID_SEKOLAH": 836.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WAMENA",
+        "ID_SEKOLAH": 837.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WANGI-WANGI",
+        "ID_SEKOLAH": 838.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WARU",
+        "ID_SEKOLAH": 839.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WASUPONDA",
+        "ID_SEKOLAH": 840.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WATUBANGGA",
+        "ID_SEKOLAH": 841.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WOLO",
+        "ID_SEKOLAH": 842.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WONOAYU",
+        "ID_SEKOLAH": 843.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WONOMULYO",
+        "ID_SEKOLAH": 844.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1 WUNDULAKO",
+        "ID_SEKOLAH": 845.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10",
+        "ID_SEKOLAH": 846.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 BANDUNG",
+        "ID_SEKOLAH": 847.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 BERAU",
+        "ID_SEKOLAH": 848.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 BONE",
+        "ID_SEKOLAH": 849.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 BORONG",
+        "ID_SEKOLAH": 850.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 BULUKUMBA",
+        "ID_SEKOLAH": 851.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 ENREKANG",
+        "ID_SEKOLAH": 852.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 GOWA",
+        "ID_SEKOLAH": 853.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 JENEPONTO",
+        "ID_SEKOLAH": 854.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 LUWU",
+        "ID_SEKOLAH": 855.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 LUWU TIMUR",
+        "ID_SEKOLAH": 856.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 LUWU UTARA",
+        "ID_SEKOLAH": 857.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 MAKASSAR",
+        "ID_SEKOLAH": 858.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 MAROS",
+        "ID_SEKOLAH": 859.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 PADANG",
+        "ID_SEKOLAH": 860.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 PINRANG",
+        "ID_SEKOLAH": 861.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 SIDRAP",
+        "ID_SEKOLAH": 862.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 SIJUNJUNG",
+        "ID_SEKOLAH": 863.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 SINJAI",
+        "ID_SEKOLAH": 864.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 10 WAJO",
+        "ID_SEKOLAH": 865.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 107 JAKARTA",
+        "ID_SEKOLAH": 866.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 AMBON",
+        "ID_SEKOLAH": 867.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 BONE",
+        "ID_SEKOLAH": 868.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 BULUKUMBA",
+        "ID_SEKOLAH": 869.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 ENREKANG",
+        "ID_SEKOLAH": 870.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 GOWA",
+        "ID_SEKOLAH": 871.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 JENEPONTO",
+        "ID_SEKOLAH": 872.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 LUWU",
+        "ID_SEKOLAH": 873.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 LUWU TIMUR",
+        "ID_SEKOLAH": 874.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 LUWU UTARA",
+        "ID_SEKOLAH": 875.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 LUWU UTARA/SMAN 1 MALANGKE",
+        "ID_SEKOLAH": 876.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 MAKASSAR",
+        "ID_SEKOLAH": 877.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 MAROS",
+        "ID_SEKOLAH": 878.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 MEDAN",
+        "ID_SEKOLAH": 879.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 PANGKEP",
+        "ID_SEKOLAH": 880.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 PINRANG",
+        "ID_SEKOLAH": 881.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 SAMARINDA",
+        "ID_SEKOLAH": 882.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 SIDRAP",
+        "ID_SEKOLAH": 883.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 SINJAI",
+        "ID_SEKOLAH": 884.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 11 WAJO",
+        "ID_SEKOLAH": 885.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 110 JAKARTA",
+        "ID_SEKOLAH": 886.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 112 JAKARTA",
+        "ID_SEKOLAH": 887.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 115 JAKARTA",
+        "ID_SEKOLAH": 888.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 BERAU",
+        "ID_SEKOLAH": 889.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 BONE",
+        "ID_SEKOLAH": 890.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 BULUKUMBA",
+        "ID_SEKOLAH": 891.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 ENREKANG",
+        "ID_SEKOLAH": 892.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 GOWA",
+        "ID_SEKOLAH": 893.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 LUWU",
+        "ID_SEKOLAH": 894.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 LUWU TIMUR",
+        "ID_SEKOLAH": 895.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 MAKASSAR",
+        "ID_SEKOLAH": 896.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 MAROS",
+        "ID_SEKOLAH": 897.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 MEDAN",
+        "ID_SEKOLAH": 898.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 SIJUNJUNG",
+        "ID_SEKOLAH": 899.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 SINJAI",
+        "ID_SEKOLAH": 900.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 SURABAYA",
+        "ID_SEKOLAH": 901.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 TANA TORAJA",
+        "ID_SEKOLAH": 902.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 12 WAJO",
+        "ID_SEKOLAH": 903.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 BANDUNG",
+        "ID_SEKOLAH": 904.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 BERAU",
+        "ID_SEKOLAH": 905.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 BONE",
+        "ID_SEKOLAH": 906.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 BULUKUMBA",
+        "ID_SEKOLAH": 907.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 DEPOK",
+        "ID_SEKOLAH": 908.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 GOWA",
+        "ID_SEKOLAH": 909.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 JAKARTA",
+        "ID_SEKOLAH": 910.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 LUWU",
+        "ID_SEKOLAH": 911.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 LUWU UTARA",
+        "ID_SEKOLAH": 912.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 MAKASSAR",
+        "ID_SEKOLAH": 913.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 MAROS",
+        "ID_SEKOLAH": 914.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 MEDAN",
+        "ID_SEKOLAH": 915.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 PANGKEP",
+        "ID_SEKOLAH": 916.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 SAMARINDA",
+        "ID_SEKOLAH": 917.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 SEMARANG",
+        "ID_SEKOLAH": 918.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 SINJAI",
+        "ID_SEKOLAH": 919.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 TAKALAR",
+        "ID_SEKOLAH": 920.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 13 WAJO",
+        "ID_SEKOLAH": 921.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 BANDAR LAMPUNG",
+        "ID_SEKOLAH": 922.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 BONE",
+        "ID_SEKOLAH": 923.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 BULUKUMBA",
+        "ID_SEKOLAH": 924.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 GOWA",
+        "ID_SEKOLAH": 925.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 JENEPONTO",
+        "ID_SEKOLAH": 926.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 LUWU",
+        "ID_SEKOLAH": 927.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 MAKASSAR",
+        "ID_SEKOLAH": 928.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 MAROS",
+        "ID_SEKOLAH": 929.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 MEDAN",
+        "ID_SEKOLAH": 930.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 PADANG",
+        "ID_SEKOLAH": 931.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 SAMARINDA",
+        "ID_SEKOLAH": 932.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 SINJAI",
+        "ID_SEKOLAH": 933.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 SURABAYA",
+        "ID_SEKOLAH": 934.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 14 WAJO",
+        "ID_SEKOLAH": 935.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 BONE",
+        "ID_SEKOLAH": 936.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 GOWA",
+        "ID_SEKOLAH": 937.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 LUWU",
+        "ID_SEKOLAH": 938.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 MAKASSAR",
+        "ID_SEKOLAH": 939.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 MALUKU TENGAH",
+        "ID_SEKOLAH": 940.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 PADANG",
+        "ID_SEKOLAH": 941.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 PANGKEP",
+        "ID_SEKOLAH": 942.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 TANGERANG",
+        "ID_SEKOLAH": 943.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 15 WAJO",
+        "ID_SEKOLAH": 944.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 16",
+        "ID_SEKOLAH": 945.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 16 BATAM",
+        "ID_SEKOLAH": 946.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 16 BONE",
+        "ID_SEKOLAH": 947.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 16 BULUKUMBA",
+        "ID_SEKOLAH": 948.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 16 MAKASSAR",
+        "ID_SEKOLAH": 949.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 16 PADANG",
+        "ID_SEKOLAH": 950.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 BANDUNG",
+        "ID_SEKOLAH": 951.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 BATAM",
+        "ID_SEKOLAH": 952.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 BEKASI",
+        "ID_SEKOLAH": 953.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 BONE",
+        "ID_SEKOLAH": 954.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 BULUKUMBA",
+        "ID_SEKOLAH": 955.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 JAKARTA",
+        "ID_SEKOLAH": 956.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 MAKASSAR",
+        "ID_SEKOLAH": 957.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 MEDAN",
+        "ID_SEKOLAH": 958.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 17 SAMARINDA",
+        "ID_SEKOLAH": 959.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 18 BANDUNG",
+        "ID_SEKOLAH": 960.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 18 BONE",
+        "ID_SEKOLAH": 961.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 18 BULUKUMBA",
+        "ID_SEKOLAH": 962.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 18 GARUT",
+        "ID_SEKOLAH": 963.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 18 GOWA",
+        "ID_SEKOLAH": 964.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 18 LUWU",
+        "ID_SEKOLAH": 965.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 18 MAKASSAR",
+        "ID_SEKOLAH": 966.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 19 BONE",
+        "ID_SEKOLAH": 967.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 19 BULUKUMBA",
+        "ID_SEKOLAH": 968.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 19 GARUT",
+        "ID_SEKOLAH": 969.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 19 GOWA",
+        "ID_SEKOLAH": 970.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 19 MAKASSAR",
+        "ID_SEKOLAH": 971.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 19 PANGKEP",
+        "ID_SEKOLAH": 972.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 19 SURABAYA",
+        "ID_SEKOLAH": 973.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1PASUI",
+        "ID_SEKOLAH": 974.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1PINRANG",
+        "ID_SEKOLAH": 975.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 1WAJO",
+        "ID_SEKOLAH": 976.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 ABAB",
+        "ID_SEKOLAH": 977.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BAGAN SINEMBAH",
+        "ID_SEKOLAH": 978.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BALIKPAPAN",
+        "ID_SEKOLAH": 979.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BANDUNG",
+        "ID_SEKOLAH": 980.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BANGKO",
+        "ID_SEKOLAH": 981.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BANTAENG",
+        "ID_SEKOLAH": 982.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BARABAI",
+        "ID_SEKOLAH": 983.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BARRU",
+        "ID_SEKOLAH": 984.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BATAUGA",
+        "ID_SEKOLAH": 985.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BAU-BAU",
+        "ID_SEKOLAH": 986.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BAUBAU",
+        "ID_SEKOLAH": 987.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BAYANG",
+        "ID_SEKOLAH": 988.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BENGKALIS",
+        "ID_SEKOLAH": 989.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BERAU",
+        "ID_SEKOLAH": 990.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BIAU",
+        "ID_SEKOLAH": 991.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BONE",
+        "ID_SEKOLAH": 992.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BONTANG",
+        "ID_SEKOLAH": 993.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BUKITTINGGI",
+        "ID_SEKOLAH": 994.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 BULUKUMBA",
+        "ID_SEKOLAH": 995.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 CIAMIS",
+        "ID_SEKOLAH": 996.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 CIANJUR",
+        "ID_SEKOLAH": 997.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 DEMAK",
+        "ID_SEKOLAH": 998.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 DONGGO",
+        "ID_SEKOLAH": 999.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 ENREKANG",
+        "ID_SEKOLAH": 1000.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 GOWA",
+        "ID_SEKOLAH": 1001.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 JENEPONTO",
+        "ID_SEKOLAH": 1002.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 JOMBANG",
+        "ID_SEKOLAH": 1003.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KABUPATEN SORONG",
+        "ID_SEKOLAH": 1004.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KALEDUPA",
+        "ID_SEKOLAH": 1005.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KAPONTORI",
+        "ID_SEKOLAH": 1006.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KAROSSA",
+        "ID_SEKOLAH": 1007.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KENDARI",
+        "ID_SEKOLAH": 1008.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KISARAN",
+        "ID_SEKOLAH": 1009.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KOLAKA",
+        "ID_SEKOLAH": 1010.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KONSEL",
+        "ID_SEKOLAH": 1011.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KOTABARU",
+        "ID_SEKOLAH": 1012.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KOTABUMI",
+        "ID_SEKOLAH": 1013.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KULISUSU UTARA",
+        "ID_SEKOLAH": 1014.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 KUPANG",
+        "ID_SEKOLAH": 1015.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LAMBU",
+        "ID_SEKOLAH": 1016.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LAMONGAN",
+        "ID_SEKOLAH": 1017.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LANGGUDU",
+        "ID_SEKOLAH": 1018.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LENGAYANG",
+        "ID_SEKOLAH": 1019.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LIBURENG",
+        "ID_SEKOLAH": 1020.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LUBUK BASUNG",
+        "ID_SEKOLAH": 1021.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LUWU",
+        "ID_SEKOLAH": 1022.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LUWU TIMUR",
+        "ID_SEKOLAH": 1023.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LUWU UTARA",
+        "ID_SEKOLAH": 1024.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 LUWUK",
+        "ID_SEKOLAH": 1025.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MAJENE",
+        "ID_SEKOLAH": 1026.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MAKASSAR",
+        "ID_SEKOLAH": 1027.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MAMUJU",
+        "ID_SEKOLAH": 1028.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MANOKWARI",
+        "ID_SEKOLAH": 1029.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MAROS",
+        "ID_SEKOLAH": 1030.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MASAMBA",
+        "ID_SEKOLAH": 1031.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MATARAM",
+        "ID_SEKOLAH": 1032.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MEDAN",
+        "ID_SEKOLAH": 1033.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MENGWI",
+        "ID_SEKOLAH": 1034.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MERAUKE",
+        "ID_SEKOLAH": 1035.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MRANGGEN",
+        "ID_SEKOLAH": 1036.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MUARA BELITI",
+        "ID_SEKOLAH": 1037.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 MUARA WAHAU",
+        "ID_SEKOLAH": 1038.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 NGANJUK",
+        "ID_SEKOLAH": 1039.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PALOPO",
+        "ID_SEKOLAH": 1040.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PALU",
+        "ID_SEKOLAH": 1041.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PANGKALAN BUN",
+        "ID_SEKOLAH": 1042.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PANGKATAN",
+        "ID_SEKOLAH": 1043.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PANGKEP",
+        "ID_SEKOLAH": 1044.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PAREPARE",
+        "ID_SEKOLAH": 1045.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PARIAMAN",
+        "ID_SEKOLAH": 1046.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PASANGKAYU",
+        "ID_SEKOLAH": 1047.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PAYAKUMBUH",
+        "ID_SEKOLAH": 1048.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PEMATANGSIANTAR",
+        "ID_SEKOLAH": 1049.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PINRANG",
+        "ID_SEKOLAH": 1050.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PLUS PANYABUNGAN",
+        "ID_SEKOLAH": 1051.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 PLUS SIPIROK",
+        "ID_SEKOLAH": 1052.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 POLEWALI",
+        "ID_SEKOLAH": 1053.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 RAHA",
+        "ID_SEKOLAH": 1054.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 RUTENG PURANG",
+        "ID_SEKOLAH": 1055.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SAMPIT",
+        "ID_SEKOLAH": 1056.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SANGATTA UTARA",
+        "ID_SEKOLAH": 1057.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SANGGAU",
+        "ID_SEKOLAH": 1058.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SEKAYAM",
+        "ID_SEKOLAH": 1059.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SELAYAR",
+        "ID_SEKOLAH": 1060.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SENGAH TEMILA",
+        "ID_SEKOLAH": 1061.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SERUI",
+        "ID_SEKOLAH": 1062.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SIAK HULU",
+        "ID_SEKOLAH": 1063.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SIBORONGBORONG",
+        "ID_SEKOLAH": 1064.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SIDOARJO",
+        "ID_SEKOLAH": 1065.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SIDRAP",
+        "ID_SEKOLAH": 1066.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SINGKEP",
+        "ID_SEKOLAH": 1067.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SINJAI",
+        "ID_SEKOLAH": 1068.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SOPPENG",
+        "ID_SEKOLAH": 1069.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SORONG",
+        "ID_SEKOLAH": 1070.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 SUNGAI AMBAWANG",
+        "ID_SEKOLAH": 1071.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TABANAN",
+        "ID_SEKOLAH": 1072.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TAKALAR",
+        "ID_SEKOLAH": 1073.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TANA TORAJA",
+        "ID_SEKOLAH": 1074.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TANAH PUTIH",
+        "ID_SEKOLAH": 1075.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TANGGUL",
+        "ID_SEKOLAH": 1076.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TOBADAK",
+        "ID_SEKOLAH": 1077.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TOLI-TOLI",
+        "ID_SEKOLAH": 1078.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TORAJA UTARA",
+        "ID_SEKOLAH": 1079.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TUBAN",
+        "ID_SEKOLAH": 1080.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 TUKKA",
+        "ID_SEKOLAH": 1081.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 UNGARAN",
+        "ID_SEKOLAH": 1082.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 UNGGULAN TALANG UBI",
+        "ID_SEKOLAH": 1083.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 VII KOTO SUNGAI SARIK",
+        "ID_SEKOLAH": 1084.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 WAJO",
+        "ID_SEKOLAH": 1085.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2 WANGI-WANGI",
+        "ID_SEKOLAH": 1086.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 20 BATAM",
+        "ID_SEKOLAH": 1087.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 20 BONE",
+        "ID_SEKOLAH": 1088.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 20 JAKARTA",
+        "ID_SEKOLAH": 1089.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 20 MAKASSAR",
+        "ID_SEKOLAH": 1090.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 20 PANGKEP",
+        "ID_SEKOLAH": 1091.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 21 BONE",
+        "ID_SEKOLAH": 1092.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 21 GOWA",
+        "ID_SEKOLAH": 1093.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 21 MAKASSAR",
+        "ID_SEKOLAH": 1094.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 21 PALEMBANG",
+        "ID_SEKOLAH": 1095.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 21MAKASSAR",
+        "ID_SEKOLAH": 1096.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 22 BONE",
+        "ID_SEKOLAH": 1097.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 22 GARUT",
+        "ID_SEKOLAH": 1098.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 22 GOWA",
+        "ID_SEKOLAH": 1099.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 22 MAKASSAR",
+        "ID_SEKOLAH": 1100.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 23 BANDUNG",
+        "ID_SEKOLAH": 1101.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 24 BONE",
+        "ID_SEKOLAH": 1102.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 25 BONE",
+        "ID_SEKOLAH": 1103.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 26 BANDUNG",
+        "ID_SEKOLAH": 1104.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 26 BONE",
+        "ID_SEKOLAH": 1105.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 28 KABUPATEN TANGERANG",
+        "ID_SEKOLAH": 1106.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 2SIDRAP",
+        "ID_SEKOLAH": 1107.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3",
+        "ID_SEKOLAH": 1108.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 BALIKPAPAN",
+        "ID_SEKOLAH": 1109.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 BANTAENG",
+        "ID_SEKOLAH": 1110.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 BARRU",
+        "ID_SEKOLAH": 1111.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 BERAU",
+        "ID_SEKOLAH": 1112.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 BONE",
+        "ID_SEKOLAH": 1113.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 BONTANG",
+        "ID_SEKOLAH": 1114.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 BULUKUMBA",
+        "ID_SEKOLAH": 1115.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 CIBINONG",
+        "ID_SEKOLAH": 1116.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 DEMAK",
+        "ID_SEKOLAH": 1117.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 ENREKANG",
+        "ID_SEKOLAH": 1118.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 GARUT",
+        "ID_SEKOLAH": 1119.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 GOWA",
+        "ID_SEKOLAH": 1120.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 JAYAPURA",
+        "ID_SEKOLAH": 1121.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 JENEPONTO",
+        "ID_SEKOLAH": 1122.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 KALUKKU",
+        "ID_SEKOLAH": 1123.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 KONAWE SELATAN",
+        "ID_SEKOLAH": 1124.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 KOTA BLITAR",
+        "ID_SEKOLAH": 1125.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 KUPANG",
+        "ID_SEKOLAH": 1126.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 LUWI TIMUR",
+        "ID_SEKOLAH": 1127.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 LUWU",
+        "ID_SEKOLAH": 1128.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 LUWU TIMUR",
+        "ID_SEKOLAH": 1129.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 LUWU UTARA",
+        "ID_SEKOLAH": 1130.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 MAGELANG",
+        "ID_SEKOLAH": 1131.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 MAKASSAR",
+        "ID_SEKOLAH": 1132.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 MAMUJU",
+        "ID_SEKOLAH": 1133.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 MAROS",
+        "ID_SEKOLAH": 1134.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 MARTAPURA",
+        "ID_SEKOLAH": 1135.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 NABIRE",
+        "ID_SEKOLAH": 1136.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PADANG",
+        "ID_SEKOLAH": 1137.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PADANGSIDIMPUAN",
+        "ID_SEKOLAH": 1138.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PAINAN",
+        "ID_SEKOLAH": 1139.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PALOPO",
+        "ID_SEKOLAH": 1140.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PALU",
+        "ID_SEKOLAH": 1141.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PANGKEP",
+        "ID_SEKOLAH": 1142.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PAREPARE",
+        "ID_SEKOLAH": 1143.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PATI",
+        "ID_SEKOLAH": 1144.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PEMATANGSIANTAR",
+        "ID_SEKOLAH": 1145.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 PINRANG",
+        "ID_SEKOLAH": 1146.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 POLEWALI",
+        "ID_SEKOLAH": 1147.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 POSO",
+        "ID_SEKOLAH": 1148.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 RANTAU UTARA",
+        "ID_SEKOLAH": 1149.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SAMPOLAWA",
+        "ID_SEKOLAH": 1150.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SELAYAR",
+        "ID_SEKOLAH": 1151.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SIDRAP",
+        "ID_SEKOLAH": 1152.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SINJAI",
+        "ID_SEKOLAH": 1153.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SOLOK",
+        "ID_SEKOLAH": 1154.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SOPPENG",
+        "ID_SEKOLAH": 1155.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SUBANG",
+        "ID_SEKOLAH": 1156.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SUMATERA BARAT",
+        "ID_SEKOLAH": 1157.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SUNGAI PENUH",
+        "ID_SEKOLAH": 1158.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 SURABAYA",
+        "ID_SEKOLAH": 1159.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 TAKALAR",
+        "ID_SEKOLAH": 1160.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 TANA TORAJA",
+        "ID_SEKOLAH": 1161.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 TANJUNG RAJA",
+        "ID_SEKOLAH": 1162.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 TAPUNG",
+        "ID_SEKOLAH": 1163.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 TEBO",
+        "ID_SEKOLAH": 1164.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 TOLITOLI",
+        "ID_SEKOLAH": 1165.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 TORAJA UTARA",
+        "ID_SEKOLAH": 1166.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 3 WAJO",
+        "ID_SEKOLAH": 1167.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 39 JAKARTA",
+        "ID_SEKOLAH": 1168.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4",
+        "ID_SEKOLAH": 1169.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 BALIKPAPAN",
+        "ID_SEKOLAH": 1170.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 BANTAENG",
+        "ID_SEKOLAH": 1171.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 BARRU",
+        "ID_SEKOLAH": 1172.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 BAU-BAU",
+        "ID_SEKOLAH": 1173.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 BONE",
+        "ID_SEKOLAH": 1174.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 BUKITTINGGI",
+        "ID_SEKOLAH": 1175.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 BULUKUMBA",
+        "ID_SEKOLAH": 1176.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 CIBINONG",
+        "ID_SEKOLAH": 1177.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 DENPASAR",
+        "ID_SEKOLAH": 1178.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 ENREKANG",
+        "ID_SEKOLAH": 1179.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 GOWA",
+        "ID_SEKOLAH": 1180.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 JAKARTA",
+        "ID_SEKOLAH": 1181.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 JAYAPURA",
+        "ID_SEKOLAH": 1182.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 JEMBER",
+        "ID_SEKOLAH": 1183.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 KARIMUN",
+        "ID_SEKOLAH": 1184.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 KENDARI",
+        "ID_SEKOLAH": 1185.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 KONAWE SELATAN",
+        "ID_SEKOLAH": 1186.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 KOTA JAMBI",
+        "ID_SEKOLAH": 1187.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 KOTA SERANG",
+        "ID_SEKOLAH": 1188.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 KUPANG",
+        "ID_SEKOLAH": 1189.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 LUWU",
+        "ID_SEKOLAH": 1190.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 LUWU TIMUR",
+        "ID_SEKOLAH": 1191.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 LUWU UTARA",
+        "ID_SEKOLAH": 1192.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 MAKASSAR",
+        "ID_SEKOLAH": 1193.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 MALUKU TENGAH",
+        "ID_SEKOLAH": 1194.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 MAROS",
+        "ID_SEKOLAH": 1195.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 MEDAN",
+        "ID_SEKOLAH": 1196.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 OGAN KOMERING ULU",
+        "ID_SEKOLAH": 1197.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 PALOPO",
+        "ID_SEKOLAH": 1198.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 PANGKEP",
+        "ID_SEKOLAH": 1199.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 PAREPARE",
+        "ID_SEKOLAH": 1200.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 PARIAMAN",
+        "ID_SEKOLAH": 1201.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 PINRANG",
+        "ID_SEKOLAH": 1202.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 RAHA",
+        "ID_SEKOLAH": 1203.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 SEMARANG",
+        "ID_SEKOLAH": 1204.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 SIDRAP",
+        "ID_SEKOLAH": 1205.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 SINJAI",
+        "ID_SEKOLAH": 1206.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 SOPPENG",
+        "ID_SEKOLAH": 1207.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 TAKALAR",
+        "ID_SEKOLAH": 1208.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 TANA TORAJA",
+        "ID_SEKOLAH": 1209.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 TORAJA UTARA",
+        "ID_SEKOLAH": 1210.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 TUALANG",
+        "ID_SEKOLAH": 1211.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 WAJO",
+        "ID_SEKOLAH": 1212.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 4 WANGI-WANGI",
+        "ID_SEKOLAH": 1213.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 41 JAKARTA",
+        "ID_SEKOLAH": 1214.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5",
+        "ID_SEKOLAH": 1215.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 AMBON",
+        "ID_SEKOLAH": 1216.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BALIKPAPAN",
+        "ID_SEKOLAH": 1217.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BANTAENG",
+        "ID_SEKOLAH": 1218.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BARRU",
+        "ID_SEKOLAH": 1219.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BATAM",
+        "ID_SEKOLAH": 1220.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BENGKALIS",
+        "ID_SEKOLAH": 1221.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BERAU",
+        "ID_SEKOLAH": 1222.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BONE",
+        "ID_SEKOLAH": 1223.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BUKITTINGGI",
+        "ID_SEKOLAH": 1224.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 BULUKUMBA",
+        "ID_SEKOLAH": 1225.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 CIMAHI",
+        "ID_SEKOLAH": 1226.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 ENREKANG",
+        "ID_SEKOLAH": 1227.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 GOWA",
+        "ID_SEKOLAH": 1228.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 GOWA (SMAN 2 TINGGIMONCONG)",
+        "ID_SEKOLAH": 1229.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 JAKARTA",
+        "ID_SEKOLAH": 1230.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 JENEPONTO",
+        "ID_SEKOLAH": 1231.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 KENDARI",
+        "ID_SEKOLAH": 1232.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 KUPANG",
+        "ID_SEKOLAH": 1233.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 LUWU",
+        "ID_SEKOLAH": 1234.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 LUWU TIMUR",
+        "ID_SEKOLAH": 1235.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 MAKASSAR",
+        "ID_SEKOLAH": 1236.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 MALANG",
+        "ID_SEKOLAH": 1237.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 MAROS",
+        "ID_SEKOLAH": 1238.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 MEDAN",
+        "ID_SEKOLAH": 1239.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 PADANG",
+        "ID_SEKOLAH": 1240.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 PALOPO",
+        "ID_SEKOLAH": 1241.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 PALU",
+        "ID_SEKOLAH": 1242.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 PAREPARE",
+        "ID_SEKOLAH": 1243.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 PINRANG",
+        "ID_SEKOLAH": 1244.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 SIDRAP",
+        "ID_SEKOLAH": 1245.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 SINJAI",
+        "ID_SEKOLAH": 1246.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 SOLOK SELATAN",
+        "ID_SEKOLAH": 1247.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 SOPPENG",
+        "ID_SEKOLAH": 1248.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 TAKALAR",
+        "ID_SEKOLAH": 1249.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 TAMBUN SELATAN",
+        "ID_SEKOLAH": 1250.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 TANA TORAJA",
+        "ID_SEKOLAH": 1251.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 TIDORE KEPULAUAN",
+        "ID_SEKOLAH": 1252.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 TORAJA UTARA",
+        "ID_SEKOLAH": 1253.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 5 WAJO",
+        "ID_SEKOLAH": 1254.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 BANDUNG",
+        "ID_SEKOLAH": 1255.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 BANTAENG",
+        "ID_SEKOLAH": 1256.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 BARRU",
+        "ID_SEKOLAH": 1257.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 BEKASI",
+        "ID_SEKOLAH": 1258.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 BONE",
+        "ID_SEKOLAH": 1259.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 BONTOA MAROS",
+        "ID_SEKOLAH": 1260.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 BULUKUMBA",
+        "ID_SEKOLAH": 1261.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 CIMAHI",
+        "ID_SEKOLAH": 1262.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 DEPOK",
+        "ID_SEKOLAH": 1263.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 ENREKANG",
+        "ID_SEKOLAH": 1264.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 GOWA",
+        "ID_SEKOLAH": 1265.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 JAKARTA",
+        "ID_SEKOLAH": 1266.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 JENEPONTO",
+        "ID_SEKOLAH": 1267.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 KENDARI",
+        "ID_SEKOLAH": 1268.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 KOTA BEKASI",
+        "ID_SEKOLAH": 1269.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 KOTA JAMBI",
+        "ID_SEKOLAH": 1270.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 LUWU TIMUR",
+        "ID_SEKOLAH": 1271.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 LUWU UTARA",
+        "ID_SEKOLAH": 1272.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 MAKASSAR",
+        "ID_SEKOLAH": 1273.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 MAROS",
+        "ID_SEKOLAH": 1274.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 PALOPO",
+        "ID_SEKOLAH": 1275.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 PANGKEP",
+        "ID_SEKOLAH": 1276.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 PINRANG",
+        "ID_SEKOLAH": 1277.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 PPU",
+        "ID_SEKOLAH": 1278.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 SELAYAR",
+        "ID_SEKOLAH": 1279.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 SIDRAP",
+        "ID_SEKOLAH": 1280.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 SINJAI",
+        "ID_SEKOLAH": 1281.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 SOPPENG",
+        "ID_SEKOLAH": 1282.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 TAKALAR",
+        "ID_SEKOLAH": 1283.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 TANA TORAJA",
+        "ID_SEKOLAH": 1284.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 TANJUNG JABUNG TIMUR",
+        "ID_SEKOLAH": 1285.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 TORAJA UTARA",
+        "ID_SEKOLAH": 1286.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 6 WAJO",
+        "ID_SEKOLAH": 1287.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 62 JAKARTA",
+        "ID_SEKOLAH": 1288.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 BANDUNG",
+        "ID_SEKOLAH": 1289.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 BONE",
+        "ID_SEKOLAH": 1290.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 BULUKUMBA",
+        "ID_SEKOLAH": 1291.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 ENREKANG",
+        "ID_SEKOLAH": 1292.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 JENEPONTO",
+        "ID_SEKOLAH": 1293.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 KOTA BENGKULU",
+        "ID_SEKOLAH": 1294.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 KUPANG",
+        "ID_SEKOLAH": 1295.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 LUWU",
+        "ID_SEKOLAH": 1296.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 LUWU TIMUR",
+        "ID_SEKOLAH": 1297.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 LUWU TIMUR (EX.SMAN 1 BURAU)",
+        "ID_SEKOLAH": 1298.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 LUWU UTARA",
+        "ID_SEKOLAH": 1299.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 MAKASSAR",
+        "ID_SEKOLAH": 1300.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 MALLAWA - MAROS",
+        "ID_SEKOLAH": 1301.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 MAROS",
+        "ID_SEKOLAH": 1302.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 PALU",
+        "ID_SEKOLAH": 1303.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 PINRANG",
+        "ID_SEKOLAH": 1304.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 PRABUMULIH",
+        "ID_SEKOLAH": 1305.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 SAMARINDA",
+        "ID_SEKOLAH": 1306.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 SIDRAP",
+        "ID_SEKOLAH": 1307.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 SINJAI",
+        "ID_SEKOLAH": 1308.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 SOPPENG",
+        "ID_SEKOLAH": 1309.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 TAKALAR",
+        "ID_SEKOLAH": 1310.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 TAMBUN SELATAN",
+        "ID_SEKOLAH": 1311.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 TANA TORAJA",
+        "ID_SEKOLAH": 1312.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 TORAJA UTARA",
+        "ID_SEKOLAH": 1313.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 7 WAJO",
+        "ID_SEKOLAH": 1314.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 BATAM",
+        "ID_SEKOLAH": 1315.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 BONE",
+        "ID_SEKOLAH": 1316.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 BULUKUMBA",
+        "ID_SEKOLAH": 1317.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 DEPOK",
+        "ID_SEKOLAH": 1318.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 ENREKANG",
+        "ID_SEKOLAH": 1319.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 GARUT",
+        "ID_SEKOLAH": 1320.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 GOWA",
+        "ID_SEKOLAH": 1321.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 JENEPONTO",
+        "ID_SEKOLAH": 1322.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 KOTA TERNATE",
+        "ID_SEKOLAH": 1323.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 LUWU TIMUR",
+        "ID_SEKOLAH": 1324.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 MAKASSAR",
+        "ID_SEKOLAH": 1325.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 MAKSSAR",
+        "ID_SEKOLAH": 1326.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 MANDAI - MAROS",
+        "ID_SEKOLAH": 1327.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 MAROS",
+        "ID_SEKOLAH": 1328.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 PANGKEP",
+        "ID_SEKOLAH": 1329.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 PINRANG",
+        "ID_SEKOLAH": 1330.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 SELAYAR",
+        "ID_SEKOLAH": 1331.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 SIDRAP",
+        "ID_SEKOLAH": 1332.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 SINJAI",
+        "ID_SEKOLAH": 1333.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 SOPPENG",
+        "ID_SEKOLAH": 1334.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 TAKALAR",
+        "ID_SEKOLAH": 1335.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 TANA TORAJA",
+        "ID_SEKOLAH": 1336.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 8 WAJO",
+        "ID_SEKOLAH": 1337.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 BEKASI",
+        "ID_SEKOLAH": 1338.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 BONE",
+        "ID_SEKOLAH": 1339.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 BULUKUMBA",
+        "ID_SEKOLAH": 1340.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 ENREKANG",
+        "ID_SEKOLAH": 1341.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 GOWA",
+        "ID_SEKOLAH": 1342.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 JENEPONTO",
+        "ID_SEKOLAH": 1343.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 KENDARI",
+        "ID_SEKOLAH": 1344.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 KOTA JAMBI",
+        "ID_SEKOLAH": 1345.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 LUWU",
+        "ID_SEKOLAH": 1346.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 LUWU TIMUR",
+        "ID_SEKOLAH": 1347.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 LUWU UTARA",
+        "ID_SEKOLAH": 1348.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 MAKASSAR",
+        "ID_SEKOLAH": 1349.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 MANDAU",
+        "ID_SEKOLAH": 1350.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 MAROS",
+        "ID_SEKOLAH": 1351.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 PADANG",
+        "ID_SEKOLAH": 1352.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 PANGKEP",
+        "ID_SEKOLAH": 1353.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 PINRANG",
+        "ID_SEKOLAH": 1354.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 SELAYAR",
+        "ID_SEKOLAH": 1355.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 SEMARANG",
+        "ID_SEKOLAH": 1356.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 SIDRAP",
+        "ID_SEKOLAH": 1357.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 SINJAI",
+        "ID_SEKOLAH": 1358.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 TANA TORAJA",
+        "ID_SEKOLAH": 1359.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 TANGERANG SELATAN",
+        "ID_SEKOLAH": 1360.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 TANJUNG JABUNG TIMUR",
+        "ID_SEKOLAH": 1361.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 TASIKMALAYA",
+        "ID_SEKOLAH": 1362.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 TORAJA UTARA",
+        "ID_SEKOLAH": 1363.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 9 WAJO",
+        "ID_SEKOLAH": 1364.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 92 JAKARTA",
+        "ID_SEKOLAH": 1365.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN 99 JAKARTA",
+        "ID_SEKOLAH": 1366.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN BANGUN JAYA",
+        "ID_SEKOLAH": 1367.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN BHAKTI MULYA BUNGA MAYANG",
+        "ID_SEKOLAH": 1368.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN BINAAN KHUSUS KOTA DUMAI",
+        "ID_SEKOLAH": 1369.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN KELUBAGOLIT",
+        "ID_SEKOLAH": 1370.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN KHUSUS KEBERBAKATAN OLAHRAGA",
+        "ID_SEKOLAH": 1371.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN KHUSUS KEBERBAKATAN OLAHRAGA PROVINSI SULAWESI SELATAN",
+        "ID_SEKOLAH": 1372.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN MATAKALI",
+        "ID_SEKOLAH": 1373.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN MEGANG SAKTI",
+        "ID_SEKOLAH": 1374.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN MODAL BANGSA ARUN",
+        "ID_SEKOLAH": 1375.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN MODEL TERPADU MADANI",
+        "ID_SEKOLAH": 1376.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN MODEL TERPADU MADANI PALU",
+        "ID_SEKOLAH": 1377.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN MUARA KELINGI",
+        "ID_SEKOLAH": 1378.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN NEGRI 8 ENREKANG",
+        "ID_SEKOLAH": 1379.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN PLUS SUKOWONO",
+        "ID_SEKOLAH": 1380.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN RUPIT",
+        "ID_SEKOLAH": 1381.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN SIWALIMA AMBON",
+        "ID_SEKOLAH": 1382.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN SURULANGUN",
+        "ID_SEKOLAH": 1383.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN TUGUMULYO",
+        "ID_SEKOLAH": 1384.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN UMBULSARI",
+        "ID_SEKOLAH": 1385.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN UNGGUL SUBULUSSALAM",
+        "ID_SEKOLAH": 1386.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN. 1 AEK KUO",
+        "ID_SEKOLAH": 1387.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN1 PANGKALAN KERINCI",
+        "ID_SEKOLAH": 1388.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN13 SIJUNJUNG",
+        "ID_SEKOLAH": 1389.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN13MAKASSAR",
+        "ID_SEKOLAH": 1390.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAN21BONE",
+        "ID_SEKOLAH": 1391.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ABDI SEJATI PERDAGANGAN",
+        "ID_SEKOLAH": 1392.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ADVENT",
+        "ID_SEKOLAH": 1393.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL - BAHRAH",
+        "ID_SEKOLAH": 1394.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL KHAIRAAT KOTA TERNATE",
+        "ID_SEKOLAH": 1395.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL QUR AN BABUSSALAM",
+        "ID_SEKOLAH": 1396.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL-AZHAR MANDIRI PALU",
+        "ID_SEKOLAH": 1397.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL-BAHRAH",
+        "ID_SEKOLAH": 1398.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL-HIKMAH MEDAN",
+        "ID_SEKOLAH": 1399.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL-IHSAN LEKOPANCING",
+        "ID_SEKOLAH": 1400.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL-KHAIRAAT BUNGINTIMBE",
+        "ID_SEKOLAH": 1401.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AL-MULTAZAM MOJOANYAR",
+        "ID_SEKOLAH": 1402.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AMANAH NUSANTARA",
+        "ID_SEKOLAH": 1403.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ANGKASA",
+        "ID_SEKOLAH": 1404.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ANGKASA MAROS",
+        "ID_SEKOLAH": 1405.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ANTONIUS BANGUN MULIA MEDAN",
+        "ID_SEKOLAH": 1406.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS AS SYUJA IYAH",
+        "ID_SEKOLAH": 1407.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS BARRANG LOMPO",
+        "ID_SEKOLAH": 1408.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS BATARA GURU BAU BAU",
+        "ID_SEKOLAH": 1409.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS BERSAMA BERASTAGI",
+        "ID_SEKOLAH": 1410.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS BINTANG TIMUR 1 BALIGE",
+        "ID_SEKOLAH": 1411.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS BONERATE",
+        "ID_SEKOLAH": 1412.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS BUDI MURNI3 MEDAN",
+        "ID_SEKOLAH": 1413.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS CENGKARENG 1",
+        "ID_SEKOLAH": 1414.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS CITRA BANGSA",
+        "ID_SEKOLAH": 1415.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS COKROAMINOTO TAMALANREA",
+        "ID_SEKOLAH": 1416.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS DARUL FALAH ENREKANG",
+        "ID_SEKOLAH": 1417.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS DATOK SULAIMAN PALOPO",
+        "ID_SEKOLAH": 1418.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS DDI MAROS",
+        "ID_SEKOLAH": 1419.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS DDI PINRANG",
+        "ID_SEKOLAH": 1420.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS DF ENREKANG",
+        "ID_SEKOLAH": 1421.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS DHARMA BHAKTI SIBORONGBORONG",
+        "ID_SEKOLAH": 1422.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS DHARMA PATRA SEI LEPAN P. BERANDAN",
+        "ID_SEKOLAH": 1423.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ELLIM",
+        "ID_SEKOLAH": 1424.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS FRATER MAKASSAR",
+        "ID_SEKOLAH": 1425.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS GAMALIEL",
+        "ID_SEKOLAH": 1426.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS HANDAYANI",
+        "ID_SEKOLAH": 1427.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS HANG TUAH",
+        "ID_SEKOLAH": 1428.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS HARAPAN UTAMA",
+        "ID_SEKOLAH": 1429.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ILMIAH KENDARI",
+        "ID_SEKOLAH": 1430.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ISLAM ATHIRAH",
+        "ID_SEKOLAH": 1431.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ISLAM TERPADU AL BIRUNI MAKASSAR",
+        "ID_SEKOLAH": 1432.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS ISLAMIC CENTRE PAKENJENG",
+        "ID_SEKOLAH": 1433.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS IT AL FITYAN SCHOOL",
+        "ID_SEKOLAH": 1434.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS IT AL-FITYAN SCHOOL GOWA",
+        "ID_SEKOLAH": 1435.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS IT DAARUL HIKMAH",
+        "ID_SEKOLAH": 1436.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS JAYA SUTI ABADI",
+        "ID_SEKOLAH": 1437.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KAE WOHA",
+        "ID_SEKOLAH": 1438.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KAMPUS NOMMENSEN",
+        "ID_SEKOLAH": 1439.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KARTIKA XX - I MAKASSAR",
+        "ID_SEKOLAH": 1440.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KARTIKA XX-1 MAKASSAR",
+        "ID_SEKOLAH": 1441.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KARYA PENGALIHAN",
+        "ID_SEKOLAH": 1442.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KATOLIK BINTANG LAUT",
+        "ID_SEKOLAH": 1443.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KATOLIK MAKALE",
+        "ID_SEKOLAH": 1444.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KATOLIK MESSAWA",
+        "ID_SEKOLAH": 1445.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KATOLIK ST. ALBERTUS",
+        "ID_SEKOLAH": 1446.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KRISTEN BARANA",
+        "ID_SEKOLAH": 1447.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KRISTEN MAKALE",
+        "ID_SEKOLAH": 1448.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KRISTEN PALOPO",
+        "ID_SEKOLAH": 1449.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KRISTEN PLUS SERITI",
+        "ID_SEKOLAH": 1450.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KRISTEN RANTEPAO",
+        "ID_SEKOLAH": 1451.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS KRISTEN YAYASAN PKPM",
+        "ID_SEKOLAH": 1452.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS LASINRANG PINRANG",
+        "ID_SEKOLAH": 1453.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS LPP YBW UMI MAKASSAR",
+        "ID_SEKOLAH": 1454.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MAHA PUTRA TELLO",
+        "ID_SEKOLAH": 1455.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MANDIRI MAKASSAR",
+        "ID_SEKOLAH": 1456.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MASEHI GBKP BERASTAGI",
+        "ID_SEKOLAH": 1457.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MATARI ALLO",
+        "ID_SEKOLAH": 1458.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS METHODIST 1 MEDAN",
+        "ID_SEKOLAH": 1459.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUH KALOSI",
+        "ID_SEKOLAH": 1460.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH",
+        "ID_SEKOLAH": 1461.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH 13 JAKARTA",
+        "ID_SEKOLAH": 1462.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH 2 MAKASSAR",
+        "ID_SEKOLAH": 1463.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH 3 MAKASSAR",
+        "ID_SEKOLAH": 1464.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH 7 MAKASSAR",
+        "ID_SEKOLAH": 1465.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH ENREKANG",
+        "ID_SEKOLAH": 1466.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH KALOSI",
+        "ID_SEKOLAH": 1467.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH LIMBUNG",
+        "ID_SEKOLAH": 1468.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH MAKASSAR",
+        "ID_SEKOLAH": 1469.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH PANGKAJENE",
+        "ID_SEKOLAH": 1470.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUHAMMADIYAH RAPPANG",
+        "ID_SEKOLAH": 1471.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS MUTIARA ISLAMI PLUS",
+        "ID_SEKOLAH": 1472.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS NABIL HUSEIN",
+        "ID_SEKOLAH": 1473.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS NURMILAD BOARDING SCHOOL",
+        "ID_SEKOLAH": 1474.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PELITA RANTEPAO",
+        "ID_SEKOLAH": 1475.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PEMDA BAHOROK",
+        "ID_SEKOLAH": 1476.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PERGIS YAPKI MAROS",
+        "ID_SEKOLAH": 1477.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PESANTREN DATOK SULAIMAN PALOPO",
+        "ID_SEKOLAH": 1478.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PESANTREN IMMIM MINASATE NE",
+        "ID_SEKOLAH": 1479.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PESANTREN PUTRI YATAMA MANDIRI",
+        "ID_SEKOLAH": 1480.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PGRI SUNGGUMINASA",
+        "ID_SEKOLAH": 1481.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PLUS AL-ASHRI GLOBAL MANDIRI",
+        "ID_SEKOLAH": 1482.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PLUS BUDI UTOMO MAKASSAR",
+        "ID_SEKOLAH": 1483.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PLUS EFARINA",
+        "ID_SEKOLAH": 1484.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PPM RAHMATUL ASRI",
+        "ID_SEKOLAH": 1485.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS PRIMBANA",
+        "ID_SEKOLAH": 1486.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS R.A KARTINI SEI RAMPAH",
+        "ID_SEKOLAH": 1487.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SANTA LUSIA",
+        "ID_SEKOLAH": 1488.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SANTO PETRUS SIDIKALANG",
+        "ID_SEKOLAH": 1489.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SANUR MONCONGLOE",
+        "ID_SEKOLAH": 1490.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SATRIA KENDARI",
+        "ID_SEKOLAH": 1491.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SATRIA MAKASSAR",
+        "ID_SEKOLAH": 1492.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SEMEN TONASA",
+        "ID_SEKOLAH": 1493.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SINGOSARI DELI TUA",
+        "ID_SEKOLAH": 1494.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SUGAR GROUP B MATARAM",
+        "ID_SEKOLAH": 1495.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS SUKMA BANGSA LHOKSEUMAWE",
+        "ID_SEKOLAH": 1496.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS TELADAN MEDAN",
+        "ID_SEKOLAH": 1497.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS TRI TUNGGAL 45 MAKASSAR",
+        "ID_SEKOLAH": 1498.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS TUT WURI HANDAYANI",
+        "ID_SEKOLAH": 1499.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS UMMUL MUKMININ",
+        "ID_SEKOLAH": 1500.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS UNGGUL AR-RAHMAN",
+        "ID_SEKOLAH": 1501.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YAN SMIT",
+        "ID_SEKOLAH": 1502.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YAPIP MAKASSAR SUNGGUMINASA",
+        "ID_SEKOLAH": 1503.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YAYASAN PENDIDIKAN VIDYA DAHANA PATRA",
+        "ID_SEKOLAH": 1504.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YKPP DUMAI",
+        "ID_SEKOLAH": 1505.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YPK 2 BIAK",
+        "ID_SEKOLAH": 1506.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YPK MERAUKE",
+        "ID_SEKOLAH": 1507.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YPPK SANTO THOMAS WAMENA",
+        "ID_SEKOLAH": 1508.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YPPK TIGA RAJA TIMIKA",
+        "ID_SEKOLAH": 1509.0
+    },
+    {
+        "NAMA SEKOLAH": "SMAS YPS SOROAKO",
+        "ID_SEKOLAH": 1510.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK",
+        "ID_SEKOLAH": 1511.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK (SMKK) TUT WURI HANDAYANI",
+        "ID_SEKOLAH": 1512.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK (STM) BARAMULI PINRANG",
+        "ID_SEKOLAH": 1513.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK (STM) KARTIKA WIRABUANA-1",
+        "ID_SEKOLAH": 1514.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK (STM) MUHAMMADIYAH 4 TALLO",
+        "ID_SEKOLAH": 1515.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK (STM) N 3 BUDURAN",
+        "ID_SEKOLAH": 1516.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK - SMTI MAKASSAR",
+        "ID_SEKOLAH": 1517.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK 1 LIBURENG",
+        "ID_SEKOLAH": 1518.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK 1 WAJO",
+        "ID_SEKOLAH": 1519.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK 10 MAKASSAR",
+        "ID_SEKOLAH": 1520.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK 2 BONE",
+        "ID_SEKOLAH": 1521.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK 2 ENREKANG",
+        "ID_SEKOLAH": 1522.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK 3N TANAH GROGOT",
+        "ID_SEKOLAH": 1523.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK ABDURRAHMAN WAHID KARANGGENENG",
+        "ID_SEKOLAH": 1524.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK ANANDA MITRA INDUSTRI DELTAMAS",
+        "ID_SEKOLAH": 1525.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK ANDIKA MEBALI",
+        "ID_SEKOLAH": 1526.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK BARAMULI PINRANG",
+        "ID_SEKOLAH": 1527.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK BINA INSANI MAKASSAR",
+        "ID_SEKOLAH": 1528.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK BINA PUTRA",
+        "ID_SEKOLAH": 1529.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK BINAKARYA MANDIRI",
+        "ID_SEKOLAH": 1530.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK BONTOASA",
+        "ID_SEKOLAH": 1531.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK BUDI UTOMO",
+        "ID_SEKOLAH": 1532.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK DAARUT TAUHIID BOARDING SCHOOL BANDUNG",
+        "ID_SEKOLAH": 1533.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK DARUSSALAM MAKASSAR",
+        "ID_SEKOLAH": 1534.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK DHARMA BAHARI",
+        "ID_SEKOLAH": 1535.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK DKV YANURAF KHIDIRRAJA",
+        "ID_SEKOLAH": 1536.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK FARDILLAH MONCONGLOE",
+        "ID_SEKOLAH": 1537.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK FARMASI BHAKTI SEJAHTERA",
+        "ID_SEKOLAH": 1538.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK GAFUR YAHYA MAMUJU",
+        "ID_SEKOLAH": 1539.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK HANDAYANI SUNGGUMINASA",
+        "ID_SEKOLAH": 1540.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK INTEGRAL HIDAYATULLAH",
+        "ID_SEKOLAH": 1541.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK ISLAMIC VILLAGE",
+        "ID_SEKOLAH": 1542.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KARTIKA V-1 BALIKPAPAN",
+        "ID_SEKOLAH": 1543.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KARTIKA WIRABUANA XX-1",
+        "ID_SEKOLAH": 1544.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KARTIKA WIRABUANA-1",
+        "ID_SEKOLAH": 1545.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KARTIKA XX-1",
+        "ID_SEKOLAH": 1546.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KARTIKA XX-1 MAKASSAR",
+        "ID_SEKOLAH": 1547.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KARYA GUNA 2",
+        "ID_SEKOLAH": 1548.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KARYA TEKNIK WATANSOPPENG",
+        "ID_SEKOLAH": 1549.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KESEHATAN BHAKTI KENCANA BL LIMBANGAN",
+        "ID_SEKOLAH": 1550.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KESEHATAN BINA MARTA MARTAPURA",
+        "ID_SEKOLAH": 1551.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KESEHATAN TERPADU MEGA REZKY MAKASSAR",
+        "ID_SEKOLAH": 1552.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KESEHATAN TNI AL MAKASSAR",
+        "ID_SEKOLAH": 1553.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KOSGORO PAREPARE",
+        "ID_SEKOLAH": 1554.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KRISTEN BITTUANG",
+        "ID_SEKOLAH": 1555.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KRISTEN MAKALE",
+        "ID_SEKOLAH": 1556.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KRISTEN PELANGI MAKALE",
+        "ID_SEKOLAH": 1557.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KRISTEN SANGALLA",
+        "ID_SEKOLAH": 1558.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KRISTEN SERITI",
+        "ID_SEKOLAH": 1559.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KRISTEN TAGARI",
+        "ID_SEKOLAH": 1560.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK KRISTEN TAGARI RANTEPAO",
+        "ID_SEKOLAH": 1561.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK LANIANG MAKASSAR",
+        "ID_SEKOLAH": 1562.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MADINATULQURAN",
+        "ID_SEKOLAH": 1563.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MASTAR MAKASSAR",
+        "ID_SEKOLAH": 1564.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUHAMMADIYAH 1",
+        "ID_SEKOLAH": 1565.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUHAMMADIYAH 2 BONTOALA",
+        "ID_SEKOLAH": 1566.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUHAMMADIYAH 2 BONTOALA MAKASSAR",
+        "ID_SEKOLAH": 1567.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUHAMMADIYAH 2 SURABAYA",
+        "ID_SEKOLAH": 1568.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUHAMMADIYAH BUNGORO",
+        "ID_SEKOLAH": 1569.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUHAMMADIYAH MARIORIWAWO",
+        "ID_SEKOLAH": 1570.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUHAMMADIYAH WATANSOPPENG",
+        "ID_SEKOLAH": 1571.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK MUTIARA ILMU MAKASSAR",
+        "ID_SEKOLAH": 1572.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK N 1 BUKITTINGGI",
+        "ID_SEKOLAH": 1573.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK N 1 SANGATTA UTARA",
+        "ID_SEKOLAH": 1574.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK N 1 SARUDIK",
+        "ID_SEKOLAH": 1575.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK N 1 TANA TORAJA",
+        "ID_SEKOLAH": 1576.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK N 2 BALEENDAH",
+        "ID_SEKOLAH": 1577.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK N 2 SANGATTA UTARA",
+        "ID_SEKOLAH": 1578.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK N 6 LANGSA",
+        "ID_SEKOLAH": 1579.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK NABIL HUSEIN",
+        "ID_SEKOLAH": 1580.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK NASIONAL MAKASSAR",
+        "ID_SEKOLAH": 1581.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK NEG 2 ENREKANG",
+        "ID_SEKOLAH": 1582.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK NEGRI 01 MAKASSAR",
+        "ID_SEKOLAH": 1583.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK NEGRI 2MAKASSAR",
+        "ID_SEKOLAH": 1584.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK NEGRI 5 MAKASSAR",
+        "ID_SEKOLAH": 1585.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK NNEGERI 1 KOTA SORONG",
+        "ID_SEKOLAH": 1586.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PANGERAN ANTASARI BALIKPAPAN",
+        "ID_SEKOLAH": 1587.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PARIWISATA MATALLO RANTEPAO",
+        "ID_SEKOLAH": 1588.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PASUNDAN 2 BANJARAN",
+        "ID_SEKOLAH": 1589.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PENERBANGAN ANGKASA BOGOR",
+        "ID_SEKOLAH": 1590.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PENERBANGAN HASANUDDIN",
+        "ID_SEKOLAH": 1591.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PENERBANGAN HASANUDDIN MAKASSAR",
+        "ID_SEKOLAH": 1592.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PENERBANGAN TECHNO TERAPAN MAKASSAR",
+        "ID_SEKOLAH": 1593.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PERKAPALAN HANG TUAH TANJUNG UBAN",
+        "ID_SEKOLAH": 1594.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PESANTREN EMAS TIGA DIMENSI",
+        "ID_SEKOLAH": 1595.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PGRI ENREKANG",
+        "ID_SEKOLAH": 1596.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PKP 1",
+        "ID_SEKOLAH": 1597.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PLUS INDONESIA TIMUR MAKASSAR",
+        "ID_SEKOLAH": 1598.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PLUS PGRI 1 CIBINONG",
+        "ID_SEKOLAH": 1599.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PONDOK PESANTREN MUHAMMADIYAH BUAKKANG",
+        "ID_SEKOLAH": 1600.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PRASETYA MAKASSAR",
+        "ID_SEKOLAH": 1601.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK PRIMA TIARA MAKASSAR",
+        "ID_SEKOLAH": 1602.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK SAMUDERA NUSANTARA MAKASSAR",
+        "ID_SEKOLAH": 1603.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK SANGKURIANG 1 CIMAHI",
+        "ID_SEKOLAH": 1604.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK SEKOLAH INDONESIA KOTA KINABALU",
+        "ID_SEKOLAH": 1605.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK SMTI MAKASSAR",
+        "ID_SEKOLAH": 1606.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK SULTAN HASANUDDIN",
+        "ID_SEKOLAH": 1607.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK SYARIF HIDAYATULLAH MUARA BADAK",
+        "ID_SEKOLAH": 1608.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK SYEKH YUSUF",
+        "ID_SEKOLAH": 1609.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TARUNA PERSADA DUMAI",
+        "ID_SEKOLAH": 1610.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TEKNOLOGI AN-NAS MANDAI",
+        "ID_SEKOLAH": 1611.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TEKNOLOGI TRI TUNGGAL 45 MAKASSAR",
+        "ID_SEKOLAH": 1612.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TELKOM JAKARTA",
+        "ID_SEKOLAH": 1613.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TELKOM KENDARI",
+        "ID_SEKOLAH": 1614.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TELKOM MAKASSAR",
+        "ID_SEKOLAH": 1615.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TRI TUNGGAL 45 MAKASSAR",
+        "ID_SEKOLAH": 1616.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK TRIDHARMA MAROS",
+        "ID_SEKOLAH": 1617.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK WAHYU 1 MAKASSAR",
+        "ID_SEKOLAH": 1618.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YAPMI I MAKASSAR",
+        "ID_SEKOLAH": 1619.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YAPMI MAKASSAR",
+        "ID_SEKOLAH": 1620.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YAPPENDA",
+        "ID_SEKOLAH": 1621.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YAPTA TAKALAR",
+        "ID_SEKOLAH": 1622.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YKPP BONTANG",
+        "ID_SEKOLAH": 1623.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YP RIGOMASI BONTANG",
+        "ID_SEKOLAH": 1624.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YPKP SENTANI",
+        "ID_SEKOLAH": 1625.0
+    },
+    {
+        "NAMA SEKOLAH": "SMK YPMNU BINA BAKTI WANITA",
+        "ID_SEKOLAH": 1626.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 01 BOMBANA",
+        "ID_SEKOLAH": 1627.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 02 SUNGAI PENUH",
+        "ID_SEKOLAH": 1628.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 03",
+        "ID_SEKOLAH": 1629.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 03 BOMBANA",
+        "ID_SEKOLAH": 1630.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 03 MAKASSAR",
+        "ID_SEKOLAH": 1631.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 05 BOMBANA",
+        "ID_SEKOLAH": 1632.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 05 MAKASSAR",
+        "ID_SEKOLAH": 1633.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1",
+        "ID_SEKOLAH": 1634.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 AIR PUTIH",
+        "ID_SEKOLAH": 1635.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 AIRMADIDI",
+        "ID_SEKOLAH": 1636.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 ARALLE",
+        "ID_SEKOLAH": 1637.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BALIKPAPAN",
+        "ID_SEKOLAH": 1638.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BANTAENG",
+        "ID_SEKOLAH": 1639.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BARRU",
+        "ID_SEKOLAH": 1640.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BATAM",
+        "ID_SEKOLAH": 1641.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BAULA",
+        "ID_SEKOLAH": 1642.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BENTENG",
+        "ID_SEKOLAH": 1643.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BIAU",
+        "ID_SEKOLAH": 1644.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BOALEMO",
+        "ID_SEKOLAH": 1645.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BOKAT",
+        "ID_SEKOLAH": 1646.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BONE",
+        "ID_SEKOLAH": 1647.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BONTANG",
+        "ID_SEKOLAH": 1648.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BULUKUMBA",
+        "ID_SEKOLAH": 1649.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 BUNGA RAYA",
+        "ID_SEKOLAH": 1650.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 CERME",
+        "ID_SEKOLAH": 1651.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 CIBINONG",
+        "ID_SEKOLAH": 1652.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 ENREKANG",
+        "ID_SEKOLAH": 1653.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 GORONTALO",
+        "ID_SEKOLAH": 1654.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 GOWA",
+        "ID_SEKOLAH": 1655.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 JAKARTA",
+        "ID_SEKOLAH": 1656.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 JENEPONTO",
+        "ID_SEKOLAH": 1657.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 KAROSSA",
+        "ID_SEKOLAH": 1658.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 KEDAWUNG",
+        "ID_SEKOLAH": 1659.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 KENDARI",
+        "ID_SEKOLAH": 1660.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 KOLAKA",
+        "ID_SEKOLAH": 1661.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 KOTA SORONG",
+        "ID_SEKOLAH": 1662.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 KUPANG",
+        "ID_SEKOLAH": 1663.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LASUSUA",
+        "ID_SEKOLAH": 1664.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LIMBUNG",
+        "ID_SEKOLAH": 1665.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LINTAU BUO",
+        "ID_SEKOLAH": 1666.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LOBALAIN",
+        "ID_SEKOLAH": 1667.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LOEA",
+        "ID_SEKOLAH": 1668.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LUWU TIMUR",
+        "ID_SEKOLAH": 1669.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LUWU UTARA",
+        "ID_SEKOLAH": 1670.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 LUWUK",
+        "ID_SEKOLAH": 1671.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MAJENE",
+        "ID_SEKOLAH": 1672.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MAKASSAR",
+        "ID_SEKOLAH": 1673.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MAMASA",
+        "ID_SEKOLAH": 1674.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MAMUJU",
+        "ID_SEKOLAH": 1675.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MAROS",
+        "ID_SEKOLAH": 1676.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MARUGE",
+        "ID_SEKOLAH": 1677.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MEPANGA",
+        "ID_SEKOLAH": 1678.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MEPANNGA",
+        "ID_SEKOLAH": 1679.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 MIMIKA",
+        "ID_SEKOLAH": 1680.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 NUNUKAN",
+        "ID_SEKOLAH": 1681.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PADANG",
+        "ID_SEKOLAH": 1682.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PALOPO",
+        "ID_SEKOLAH": 1683.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PAMONA SELATAN",
+        "ID_SEKOLAH": 1684.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PAMONA UTARA",
+        "ID_SEKOLAH": 1685.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PANCA RIJANG",
+        "ID_SEKOLAH": 1686.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PANGKEP",
+        "ID_SEKOLAH": 1687.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PANTAI CERMIN",
+        "ID_SEKOLAH": 1688.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PAPALANG",
+        "ID_SEKOLAH": 1689.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PAREPARE",
+        "ID_SEKOLAH": 1690.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PARINGIN",
+        "ID_SEKOLAH": 1691.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PASARWAJO",
+        "ID_SEKOLAH": 1692.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 PINRANG",
+        "ID_SEKOLAH": 1693.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 POLEWALI",
+        "ID_SEKOLAH": 1694.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 POSO PESISIR",
+        "ID_SEKOLAH": 1695.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 RAHA",
+        "ID_SEKOLAH": 1696.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 RANGAS",
+        "ID_SEKOLAH": 1697.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 RANGAS MAMUJU",
+        "ID_SEKOLAH": 1698.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 RANTEPAO",
+        "ID_SEKOLAH": 1699.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SAJOANGING",
+        "ID_SEKOLAH": 1700.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SALUPUTTI",
+        "ID_SEKOLAH": 1701.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SARJO",
+        "ID_SEKOLAH": 1702.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SEBATIK BARAT",
+        "ID_SEKOLAH": 1703.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SELAYAR",
+        "ID_SEKOLAH": 1704.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SESENAPADANG",
+        "ID_SEKOLAH": 1705.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SIBOLGA",
+        "ID_SEKOLAH": 1706.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SIDENRENG",
+        "ID_SEKOLAH": 1707.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SIDRAP",
+        "ID_SEKOLAH": 1708.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SIMPANG KIRI",
+        "ID_SEKOLAH": 1709.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SINJAI",
+        "ID_SEKOLAH": 1710.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SOMBA OPU",
+        "ID_SEKOLAH": 1711.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SOPPENG",
+        "ID_SEKOLAH": 1712.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 SUMARORONG",
+        "ID_SEKOLAH": 1713.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TAKALAR",
+        "ID_SEKOLAH": 1714.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TANA TORAJA",
+        "ID_SEKOLAH": 1715.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TANIMBAR SELATAN",
+        "ID_SEKOLAH": 1716.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TANJUNG",
+        "ID_SEKOLAH": 1717.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TARAKAN",
+        "ID_SEKOLAH": 1718.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TINAMBUNG",
+        "ID_SEKOLAH": 1719.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TOBADAK",
+        "ID_SEKOLAH": 1720.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TOJO BARAT",
+        "ID_SEKOLAH": 1721.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TOLITOLI",
+        "ID_SEKOLAH": 1722.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TONGKUNO",
+        "ID_SEKOLAH": 1723.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 TORAJA UTARA",
+        "ID_SEKOLAH": 1724.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 WAJO",
+        "ID_SEKOLAH": 1725.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 WATAMPONE",
+        "ID_SEKOLAH": 1726.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 WATANSOPPENG",
+        "ID_SEKOLAH": 1727.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1 WAWO",
+        "ID_SEKOLAH": 1728.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 10 MAKASSAR",
+        "ID_SEKOLAH": 1729.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 10 MAKASSAR(SMKN 1 SULSEL)",
+        "ID_SEKOLAH": 1730.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 10 SURABAYA",
+        "ID_SEKOLAH": 1731.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 11 BULUKUMBA",
+        "ID_SEKOLAH": 1732.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 11 LUWU",
+        "ID_SEKOLAH": 1733.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 11 MAKASSAR",
+        "ID_SEKOLAH": 1734.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 12 JAKARTA",
+        "ID_SEKOLAH": 1735.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 13 MEDAN",
+        "ID_SEKOLAH": 1736.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 14 JAKARTA",
+        "ID_SEKOLAH": 1737.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 14 SAMARINDA",
+        "ID_SEKOLAH": 1738.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 1SINJAI",
+        "ID_SEKOLAH": 1739.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2",
+        "ID_SEKOLAH": 1740.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BALEENDAH",
+        "ID_SEKOLAH": 1741.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BALIKPAPAN",
+        "ID_SEKOLAH": 1742.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BANJARBARU",
+        "ID_SEKOLAH": 1743.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BARRU",
+        "ID_SEKOLAH": 1744.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BAUBAU",
+        "ID_SEKOLAH": 1745.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BERAU",
+        "ID_SEKOLAH": 1746.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BONE",
+        "ID_SEKOLAH": 1747.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BONTANG",
+        "ID_SEKOLAH": 1748.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BUDURAN SIDOARJO",
+        "ID_SEKOLAH": 1749.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 BULUKUMBA",
+        "ID_SEKOLAH": 1750.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 DOMPU",
+        "ID_SEKOLAH": 1751.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 ENREKANG",
+        "ID_SEKOLAH": 1752.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 GOWA",
+        "ID_SEKOLAH": 1753.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 JENEPONTO",
+        "ID_SEKOLAH": 1754.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 KAIMANA",
+        "ID_SEKOLAH": 1755.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 KENDARI",
+        "ID_SEKOLAH": 1756.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 KOTA BEKASI",
+        "ID_SEKOLAH": 1757.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 KOTA KOMBA",
+        "ID_SEKOLAH": 1758.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 LUWU",
+        "ID_SEKOLAH": 1759.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 LUWU TIMUR",
+        "ID_SEKOLAH": 1760.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 LUWU TIMUR (SMKN 1 TOMONI)",
+        "ID_SEKOLAH": 1761.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 LUWU UTARA",
+        "ID_SEKOLAH": 1762.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 MAJENE",
+        "ID_SEKOLAH": 1763.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 MAKALE",
+        "ID_SEKOLAH": 1764.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 MAKASSAR",
+        "ID_SEKOLAH": 1765.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 MAROS",
+        "ID_SEKOLAH": 1766.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 MAWASANGKA",
+        "ID_SEKOLAH": 1767.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 PALOPO",
+        "ID_SEKOLAH": 1768.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 PALU",
+        "ID_SEKOLAH": 1769.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 PANGKEP",
+        "ID_SEKOLAH": 1770.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 PARE-PARE",
+        "ID_SEKOLAH": 1771.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 PAREPARE",
+        "ID_SEKOLAH": 1772.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 PEKANBARU",
+        "ID_SEKOLAH": 1773.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 PINRANG",
+        "ID_SEKOLAH": 1774.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 POMALAA",
+        "ID_SEKOLAH": 1775.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 RAHA",
+        "ID_SEKOLAH": 1776.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 RANTAU UTARA",
+        "ID_SEKOLAH": 1777.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 SAMPIT",
+        "ID_SEKOLAH": 1778.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 SIDRAP",
+        "ID_SEKOLAH": 1779.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 SIMPANG EMPAT",
+        "ID_SEKOLAH": 1780.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 SIMPANG KIRI",
+        "ID_SEKOLAH": 1781.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 SINJAI",
+        "ID_SEKOLAH": 1782.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 SOMBA OPU",
+        "ID_SEKOLAH": 1783.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 SOPPENG",
+        "ID_SEKOLAH": 1784.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 TAKALAR",
+        "ID_SEKOLAH": 1785.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 TANA TORAJA",
+        "ID_SEKOLAH": 1786.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 TENGGARONG",
+        "ID_SEKOLAH": 1787.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 TORAJA UTARA",
+        "ID_SEKOLAH": 1788.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 WAJO",
+        "ID_SEKOLAH": 1789.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 WALENRANG",
+        "ID_SEKOLAH": 1790.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 2 WATAMPONE",
+        "ID_SEKOLAH": 1791.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BALIKPAPAN",
+        "ID_SEKOLAH": 1792.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BANTAENG",
+        "ID_SEKOLAH": 1793.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BARRU",
+        "ID_SEKOLAH": 1794.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BATAM",
+        "ID_SEKOLAH": 1795.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BAU-BAU",
+        "ID_SEKOLAH": 1796.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BAUBAU",
+        "ID_SEKOLAH": 1797.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BONE",
+        "ID_SEKOLAH": 1798.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BONTANG",
+        "ID_SEKOLAH": 1799.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 BULUKUMBA",
+        "ID_SEKOLAH": 1800.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 ENREKANG",
+        "ID_SEKOLAH": 1801.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 GOWA",
+        "ID_SEKOLAH": 1802.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 JAYAPURA",
+        "ID_SEKOLAH": 1803.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 LUWU",
+        "ID_SEKOLAH": 1804.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 MAKASSAR",
+        "ID_SEKOLAH": 1805.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 MANDAU",
+        "ID_SEKOLAH": 1806.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 MATARAM",
+        "ID_SEKOLAH": 1807.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 MAUMERE",
+        "ID_SEKOLAH": 1808.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 PALU",
+        "ID_SEKOLAH": 1809.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 PANGKEP",
+        "ID_SEKOLAH": 1810.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 PAREPARE",
+        "ID_SEKOLAH": 1811.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 PINRANG",
+        "ID_SEKOLAH": 1812.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 SIDRAP",
+        "ID_SEKOLAH": 1813.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 SINJAI",
+        "ID_SEKOLAH": 1814.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 SOLOK SELATAN",
+        "ID_SEKOLAH": 1815.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 SOPPENG",
+        "ID_SEKOLAH": 1816.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 SORONG",
+        "ID_SEKOLAH": 1817.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 TAKALAR",
+        "ID_SEKOLAH": 1818.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 TORAJA UTARA",
+        "ID_SEKOLAH": 1819.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 3 WAJO",
+        "ID_SEKOLAH": 1820.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 BULUKUMBA",
+        "ID_SEKOLAH": 1821.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 ENREKANG",
+        "ID_SEKOLAH": 1822.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 GORONTALO",
+        "ID_SEKOLAH": 1823.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 GOWA",
+        "ID_SEKOLAH": 1824.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 JENEPONTO",
+        "ID_SEKOLAH": 1825.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 KENDARI",
+        "ID_SEKOLAH": 1826.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 MAKASSAR",
+        "ID_SEKOLAH": 1827.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 PANGKEP",
+        "ID_SEKOLAH": 1828.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 PENAJAM PASER UTARA",
+        "ID_SEKOLAH": 1829.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 PINRANG",
+        "ID_SEKOLAH": 1830.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 SEMARANG",
+        "ID_SEKOLAH": 1831.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 SOPPENG",
+        "ID_SEKOLAH": 1832.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4 WAJO",
+        "ID_SEKOLAH": 1833.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 43 JAKARTA",
+        "ID_SEKOLAH": 1834.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 49 JAKARTA",
+        "ID_SEKOLAH": 1835.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 4ENREKANG",
+        "ID_SEKOLAH": 1836.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 BANTAENG",
+        "ID_SEKOLAH": 1837.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 BARRU",
+        "ID_SEKOLAH": 1838.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 BERAU",
+        "ID_SEKOLAH": 1839.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 BONE",
+        "ID_SEKOLAH": 1840.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 BULUKUMBA",
+        "ID_SEKOLAH": 1841.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 ENREKANG",
+        "ID_SEKOLAH": 1842.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 GOWA",
+        "ID_SEKOLAH": 1843.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 JENEPONTO",
+        "ID_SEKOLAH": 1844.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 LUWU",
+        "ID_SEKOLAH": 1845.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 MAJENE",
+        "ID_SEKOLAH": 1846.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 MAKASSAR",
+        "ID_SEKOLAH": 1847.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 MEDAN",
+        "ID_SEKOLAH": 1848.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 PANGKEP",
+        "ID_SEKOLAH": 1849.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 PINRANG",
+        "ID_SEKOLAH": 1850.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 SELAYAR",
+        "ID_SEKOLAH": 1851.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 SIDRAP",
+        "ID_SEKOLAH": 1852.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 SOLOK SELATAN",
+        "ID_SEKOLAH": 1853.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 TAKALAR",
+        "ID_SEKOLAH": 1854.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 TORAJA UTARA",
+        "ID_SEKOLAH": 1855.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 5 WAJO",
+        "ID_SEKOLAH": 1856.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 51 JAKARTA",
+        "ID_SEKOLAH": 1857.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 54 JAKARTA",
+        "ID_SEKOLAH": 1858.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 57 JAKARTA",
+        "ID_SEKOLAH": 1859.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 BERAU",
+        "ID_SEKOLAH": 1860.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 BONE",
+        "ID_SEKOLAH": 1861.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 BULUKUMBA",
+        "ID_SEKOLAH": 1862.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 MAKASSAR",
+        "ID_SEKOLAH": 1863.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 PINRANG",
+        "ID_SEKOLAH": 1864.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 SAMARINDA",
+        "ID_SEKOLAH": 1865.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 SIDRAP",
+        "ID_SEKOLAH": 1866.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 TAKALAR",
+        "ID_SEKOLAH": 1867.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 6 WAJO",
+        "ID_SEKOLAH": 1868.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 BANDUNG",
+        "ID_SEKOLAH": 1869.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 BONE",
+        "ID_SEKOLAH": 1870.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 BULUKUMBA",
+        "ID_SEKOLAH": 1871.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 LUWU",
+        "ID_SEKOLAH": 1872.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 MAKASSAR",
+        "ID_SEKOLAH": 1873.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 MALANG",
+        "ID_SEKOLAH": 1874.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 PALOPO",
+        "ID_SEKOLAH": 1875.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 PANGKEP",
+        "ID_SEKOLAH": 1876.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 PINRANG",
+        "ID_SEKOLAH": 1877.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 SELAYAR",
+        "ID_SEKOLAH": 1878.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 7 SIDRAP",
+        "ID_SEKOLAH": 1879.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 8 BULUKUMBA",
+        "ID_SEKOLAH": 1880.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 8 JENEPONTO",
+        "ID_SEKOLAH": 1881.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 8 MAJENE",
+        "ID_SEKOLAH": 1882.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 8 MAKASSAR",
+        "ID_SEKOLAH": 1883.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 8 PADANG",
+        "ID_SEKOLAH": 1884.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 8 PINRANG",
+        "ID_SEKOLAH": 1885.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 9 BULUKUMBA",
+        "ID_SEKOLAH": 1886.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 9 JENEPONTO",
+        "ID_SEKOLAH": 1887.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 9 LUWU",
+        "ID_SEKOLAH": 1888.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 9 MERANGIN",
+        "ID_SEKOLAH": 1889.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 9 PANGKEP",
+        "ID_SEKOLAH": 1890.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN 9 PINRANG",
+        "ID_SEKOLAH": 1891.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN BINAAN PROVINSI SUMATERA UTARA",
+        "ID_SEKOLAH": 1892.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN KAROSSA",
+        "ID_SEKOLAH": 1893.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN LABUANG",
+        "ID_SEKOLAH": 1894.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN O5 MAKASSAR",
+        "ID_SEKOLAH": 1895.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN PAKU",
+        "ID_SEKOLAH": 1896.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN PAPALANG",
+        "ID_SEKOLAH": 1897.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN REA TIMUR / SPPN POLMAN",
+        "ID_SEKOLAH": 1898.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN SULBAR",
+        "ID_SEKOLAH": 1899.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN TAPANGO",
+        "ID_SEKOLAH": 1900.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN TEKNOLOGI INDUSTRI MAKASSAR",
+        "ID_SEKOLAH": 1901.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN TOPOYO",
+        "ID_SEKOLAH": 1902.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN1 MERBAU",
+        "ID_SEKOLAH": 1903.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN1PINRANG",
+        "ID_SEKOLAH": 1904.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN2 TATOR",
+        "ID_SEKOLAH": 1905.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKN3 BULUKUMBA",
+        "ID_SEKOLAH": 1906.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKNN 8 JENEPONTO",
+        "ID_SEKOLAH": 1907.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS 45 KALOSI",
+        "ID_SEKOLAH": 1908.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS ABDI NUSANTARA",
+        "ID_SEKOLAH": 1909.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS AL-IKHLASH",
+        "ID_SEKOLAH": 1910.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS BARAMULI PINRANG",
+        "ID_SEKOLAH": 1911.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS BINA KARYA LARANTUKA",
+        "ID_SEKOLAH": 1912.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS BONTOASA",
+        "ID_SEKOLAH": 1913.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS BUDI BHAKTI MAMASA",
+        "ID_SEKOLAH": 1914.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS BUDI UTOMO SOROAKO",
+        "ID_SEKOLAH": 1915.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS BUNTU MASAKKE",
+        "ID_SEKOLAH": 1916.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS COKROAMINOTO KOTAMOBAGU",
+        "ID_SEKOLAH": 1917.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS DARUL ARQAM",
+        "ID_SEKOLAH": 1918.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS DARUSSALAM",
+        "ID_SEKOLAH": 1919.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS DARUSSALAM MAKASSAR",
+        "ID_SEKOLAH": 1920.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS ERAN BATU 3 SANGGALANGI",
+        "ID_SEKOLAH": 1921.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS FARDILLAH",
+        "ID_SEKOLAH": 1922.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS FARMASI NUSANTARA PALU",
+        "ID_SEKOLAH": 1923.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS FARMASI YAMASI",
+        "ID_SEKOLAH": 1924.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS GARUDAYA BONTONOMPO",
+        "ID_SEKOLAH": 1925.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS GUNUNG SARI 1 MAKASSAR",
+        "ID_SEKOLAH": 1926.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS HANDAYANI MAKASSAR",
+        "ID_SEKOLAH": 1927.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS HANDAYANI SUNGGUMINASA",
+        "ID_SEKOLAH": 1928.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS IT SMART INFORMATIKA",
+        "ID_SEKOLAH": 1929.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KARTIKA WIRABUANA 1 MAKASSAR",
+        "ID_SEKOLAH": 1930.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KARYA TEKNIK WATANSOPPENG",
+        "ID_SEKOLAH": 1931.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KATOLIK TUNAS BANGSA MIMIKA",
+        "ID_SEKOLAH": 1932.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KEPERAWATAN ALMUBARAK TOPOYO",
+        "ID_SEKOLAH": 1933.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KESEHATAN DURI",
+        "ID_SEKOLAH": 1934.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KESEHATAN LETRIS INDONESIA",
+        "ID_SEKOLAH": 1935.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KESEHATAN PLUS PRIMA MANDIRI SEJAHTERA",
+        "ID_SEKOLAH": 1936.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KRISTEN 1 TOMOHON",
+        "ID_SEKOLAH": 1937.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KRISTEN HARAPAN RANTEPAO",
+        "ID_SEKOLAH": 1938.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KRISTEN MAKALE",
+        "ID_SEKOLAH": 1939.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KRISTEN PALOPO",
+        "ID_SEKOLAH": 1940.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KRISTEN SERITI",
+        "ID_SEKOLAH": 1941.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS KRISTEN TAGARI RANTEPAO",
+        "ID_SEKOLAH": 1942.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS LAKIPADADA",
+        "ID_SEKOLAH": 1943.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS LANIANG MAKASSAR",
+        "ID_SEKOLAH": 1944.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS LATANRO ENREKANG",
+        "ID_SEKOLAH": 1945.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH 10",
+        "ID_SEKOLAH": 1946.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH 2 BONTOALA MAKASSAR",
+        "ID_SEKOLAH": 1947.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH 3 MAKASSAR",
+        "ID_SEKOLAH": 1948.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH 4 TALLO",
+        "ID_SEKOLAH": 1949.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH BUNGORO",
+        "ID_SEKOLAH": 1950.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH MARI ORI WAWO",
+        "ID_SEKOLAH": 1951.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH MARIORIWAWO",
+        "ID_SEKOLAH": 1952.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUHAMMADIYAH WATANSOPPENG",
+        "ID_SEKOLAH": 1953.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUTIARA BANGSA SEBATIK",
+        "ID_SEKOLAH": 1954.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUTIARA ILMU",
+        "ID_SEKOLAH": 1955.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS MUTIARA ILMU MAKASSAR",
+        "ID_SEKOLAH": 1956.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS NASIONAL",
+        "ID_SEKOLAH": 1957.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS NURUL QALAM MAKASSAR",
+        "ID_SEKOLAH": 1958.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PEMBANGUNAN MAKALE",
+        "ID_SEKOLAH": 1959.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PENERBANGAN AAG ADISUTJIPTO YOGYAKARTA",
+        "ID_SEKOLAH": 1960.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PENERBANGAN SPN DIRGANTARA",
+        "ID_SEKOLAH": 1961.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PESANTREN PEMBANGUNAN MUHAMMADIYAH",
+        "ID_SEKOLAH": 1962.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PGRI ENREKANG",
+        "ID_SEKOLAH": 1963.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PGRI MINASATENE",
+        "ID_SEKOLAH": 1964.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PRASETYA MAKASSAR",
+        "ID_SEKOLAH": 1965.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS PRIMANEGARA",
+        "ID_SEKOLAH": 1966.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS QOMARUL HIDAYAH 1",
+        "ID_SEKOLAH": 1967.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS SAMUDERA NUSANTARA MAKASSAR",
+        "ID_SEKOLAH": 1968.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS SANTA MATHILDA",
+        "ID_SEKOLAH": 1969.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS SANTO ANTONIUS MERAUKE",
+        "ID_SEKOLAH": 1970.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS SATRYA BUDI 1 PERDAGANGAN",
+        "ID_SEKOLAH": 1971.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS SMART KESEHATAN RANTEPAO TORAJA UTARA",
+        "ID_SEKOLAH": 1972.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS ST GABRIEL MAUMERE",
+        "ID_SEKOLAH": 1973.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS ST THOMAS MAUMERE",
+        "ID_SEKOLAH": 1974.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS SUNAN DRAJAT LAMONGAN",
+        "ID_SEKOLAH": 1975.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TAMAN HARAPAN",
+        "ID_SEKOLAH": 1976.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TAMAN SISWA 1 JAKARTA",
+        "ID_SEKOLAH": 1977.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TEKNOLOGI AN NAS",
+        "ID_SEKOLAH": 1978.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TEKNOLOGI INFORMATIKA BULUKUMBA",
+        "ID_SEKOLAH": 1979.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TEKNOLOGI SOMBA OPU",
+        "ID_SEKOLAH": 1980.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TELKOM SANDHY PUTRA MEDAN",
+        "ID_SEKOLAH": 1981.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TIRA RANTETAYO",
+        "ID_SEKOLAH": 1982.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TRI DHARMA MASSILA",
+        "ID_SEKOLAH": 1983.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TRI TUNGGAL 45 MAKASSAR",
+        "ID_SEKOLAH": 1984.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TRIDHARMA MKGR MAROS",
+        "ID_SEKOLAH": 1985.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TRISAKTI AROEPPALA",
+        "ID_SEKOLAH": 1986.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS TUNAS BANGSA",
+        "ID_SEKOLAH": 1987.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS WAHYU 1 MAKASSAR",
+        "ID_SEKOLAH": 1988.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS YAPIP MAKASSAR SUNGGUMINASA",
+        "ID_SEKOLAH": 1989.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS YAPMI MAKASSAR",
+        "ID_SEKOLAH": 1990.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS YPK BANJARBARU",
+        "ID_SEKOLAH": 1991.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS YPKK LIMBUNG",
+        "ID_SEKOLAH": 1992.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS YPLP PGRI 1 MAKASSAR",
+        "ID_SEKOLAH": 1993.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS YPPP WONOMULYO",
+        "ID_SEKOLAH": 1994.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKS YPS SAMARINDA",
+        "ID_SEKOLAH": 1995.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKT SOMBA UPO SUNGGUMINASA",
+        "ID_SEKOLAH": 1996.0
+    },
+    {
+        "NAMA SEKOLAH": "SMKT SOMBAOPU",
+        "ID_SEKOLAH": 1997.0
+    }
+]

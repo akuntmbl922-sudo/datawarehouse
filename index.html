@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panduan API Dimensi Data</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f4f4f9; }
+        .card { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        code { background: #eee; padding: 2px 5px; border-radius: 4px; font-family: monospace; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        .example { background: #272822; color: #f8f8f2; padding: 15px; border-radius: 5px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>API Documentation: Dimensi Data</h1>
+        <p>Selamat datang! API ini menyediakan data dimensi dalam format JSON.</p>
+        
+        <h3>🔗 Cara Akses</h3>
+        <p>Gunakan metode <code>GET</code> pada URL berikut: <code>[URL_SERVER]/api.php/[NAMA_TABEL]</code></p>
+
+        <h3>📋 Daftar Endpoint</h3>
+        <table>
+            <tr><th>Endpoint</th><th>Keterangan</th></tr>
+            <tr><td><code>/dim_jabatan</code></td><td>Data master jabatan</td></tr>
+            <tr><td><code>/dim_kabupaten_kota</code></td><td>Data master wilayah</td></tr>
+            <tr><td><code>/dim_lama_dapat_kerja</code></td><td>Data durasi kerja</td></tr>
+            <tr><td><code>/dim_sekolah</code></td><td>Data master sekolah</td></tr>
+            <tr><td><code>/dim_prodi</code></td><td>Data master program studi</td></tr>
+        </table>
+
+        <h3>⚡ Contoh Respon</h3>
+        <pre class="example">
+[
+    {
+        "ID_JABATAN": 1,
+        "Jabatan": "Staff IT"
+    },
+    {
+        "ID_JABATAN": 2,
+        "Jabatan": "Manager"
+    }
+]
+        </pre>
+    </div>
+</body>
+</html>

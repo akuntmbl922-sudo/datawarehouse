@@ -1,0 +1,1318 @@
+[
+    {
+        "KABUPATEN KOTA": "-",
+        "ID_KABUPATEN_KOTA": 1.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ACEH SELATAN",
+        "ID_KABUPATEN_KOTA": 2.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ACEH SINGKIL",
+        "ID_KABUPATEN_KOTA": 3.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ACEH TIMUR",
+        "ID_KABUPATEN_KOTA": 4.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ACEH UTARA",
+        "ID_KABUPATEN_KOTA": 5.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN AGAM",
+        "ID_KABUPATEN_KOTA": 6.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ASAHAN",
+        "ID_KABUPATEN_KOTA": 7.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BADUNG",
+        "ID_KABUPATEN_KOTA": 8.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANDUNG",
+        "ID_KABUPATEN_KOTA": 9.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANDUNG BARAT",
+        "ID_KABUPATEN_KOTA": 10.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANGGAI",
+        "ID_KABUPATEN_KOTA": 11.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANGGAI KEPULAUAN",
+        "ID_KABUPATEN_KOTA": 12.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANGGAI LAUT",
+        "ID_KABUPATEN_KOTA": 13.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANGKA BARAT",
+        "ID_KABUPATEN_KOTA": 14.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANGLI",
+        "ID_KABUPATEN_KOTA": 15.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANTAENG",
+        "ID_KABUPATEN_KOTA": 16.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANYU ASIN",
+        "ID_KABUPATEN_KOTA": 17.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANYUASIN",
+        "ID_KABUPATEN_KOTA": 18.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BANYUWANGI",
+        "ID_KABUPATEN_KOTA": 19.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BARRU",
+        "ID_KABUPATEN_KOTA": 20.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BATU BARA",
+        "ID_KABUPATEN_KOTA": 21.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BEKASI",
+        "ID_KABUPATEN_KOTA": 22.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BENGKALIS",
+        "ID_KABUPATEN_KOTA": 23.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BERAU",
+        "ID_KABUPATEN_KOTA": 24.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BIAK NUMFOR",
+        "ID_KABUPATEN_KOTA": 25.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BIMA",
+        "ID_KABUPATEN_KOTA": 26.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BINTAN",
+        "ID_KABUPATEN_KOTA": 27.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BLORA",
+        "ID_KABUPATEN_KOTA": 28.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BOALEMO",
+        "ID_KABUPATEN_KOTA": 29.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BOGOR",
+        "ID_KABUPATEN_KOTA": 30.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BOJONEGORO",
+        "ID_KABUPATEN_KOTA": 31.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BOLAANG MONGONDOW",
+        "ID_KABUPATEN_KOTA": 32.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BOMBANA",
+        "ID_KABUPATEN_KOTA": 33.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BONE",
+        "ID_KABUPATEN_KOTA": 34.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BOYOLALI",
+        "ID_KABUPATEN_KOTA": 35.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BREBES",
+        "ID_KABUPATEN_KOTA": 36.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BULELENG",
+        "ID_KABUPATEN_KOTA": 37.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BULUKUMBA",
+        "ID_KABUPATEN_KOTA": 38.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BULUNGAN",
+        "ID_KABUPATEN_KOTA": 39.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BUOL",
+        "ID_KABUPATEN_KOTA": 40.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BURU",
+        "ID_KABUPATEN_KOTA": 41.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BUTON",
+        "ID_KABUPATEN_KOTA": 42.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BUTON SELATAN",
+        "ID_KABUPATEN_KOTA": 43.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BUTON TENGAH",
+        "ID_KABUPATEN_KOTA": 44.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN BUTON UTARA",
+        "ID_KABUPATEN_KOTA": 45.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN CIAMIS",
+        "ID_KABUPATEN_KOTA": 46.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN CIANJUR",
+        "ID_KABUPATEN_KOTA": 47.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN CILACAP",
+        "ID_KABUPATEN_KOTA": 48.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN CIREBON",
+        "ID_KABUPATEN_KOTA": 49.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN DAIRI",
+        "ID_KABUPATEN_KOTA": 50.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN DELI SERDANG",
+        "ID_KABUPATEN_KOTA": 51.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN DEMAK",
+        "ID_KABUPATEN_KOTA": 52.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN DHARMASRAYA",
+        "ID_KABUPATEN_KOTA": 53.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN DOMPU",
+        "ID_KABUPATEN_KOTA": 54.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN DONGGALA",
+        "ID_KABUPATEN_KOTA": 55.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN EMPAT LAWANG",
+        "ID_KABUPATEN_KOTA": 56.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ENREKANG",
+        "ID_KABUPATEN_KOTA": 57.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN FAKFAK",
+        "ID_KABUPATEN_KOTA": 58.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN FLORES TIMUR",
+        "ID_KABUPATEN_KOTA": 59.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN GARUT",
+        "ID_KABUPATEN_KOTA": 60.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN GAYO LUES",
+        "ID_KABUPATEN_KOTA": 61.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN GIANYAR",
+        "ID_KABUPATEN_KOTA": 62.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN GORONTALO",
+        "ID_KABUPATEN_KOTA": 63.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN GOWA",
+        "ID_KABUPATEN_KOTA": 64.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN GRESIK",
+        "ID_KABUPATEN_KOTA": 65.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN HALMAHERA TIMUR",
+        "ID_KABUPATEN_KOTA": 66.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN HULU SUNGAI TENGAH",
+        "ID_KABUPATEN_KOTA": 67.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN HULU SUNGAI UTARA",
+        "ID_KABUPATEN_KOTA": 68.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN HUMBANG HASUNDUTAN",
+        "ID_KABUPATEN_KOTA": 69.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN INDRAGIRI HILIR",
+        "ID_KABUPATEN_KOTA": 70.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN INDRAMAYU",
+        "ID_KABUPATEN_KOTA": 71.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN JAYA PURA",
+        "ID_KABUPATEN_KOTA": 72.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN JAYAPURA",
+        "ID_KABUPATEN_KOTA": 73.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN JAYAWIJAYA",
+        "ID_KABUPATEN_KOTA": 74.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN JEMBER",
+        "ID_KABUPATEN_KOTA": 75.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN JEMBRANA",
+        "ID_KABUPATEN_KOTA": 76.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN JENEPONTO",
+        "ID_KABUPATEN_KOTA": 77.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN JOMBANG",
+        "ID_KABUPATEN_KOTA": 78.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KAIMANA",
+        "ID_KABUPATEN_KOTA": 79.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KAMPAR",
+        "ID_KABUPATEN_KOTA": 80.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KARANG ASEM",
+        "ID_KABUPATEN_KOTA": 81.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KARAWANG",
+        "ID_KABUPATEN_KOTA": 82.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KARIMUN",
+        "ID_KABUPATEN_KOTA": 83.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KARO",
+        "ID_KABUPATEN_KOTA": 84.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KATINGAN",
+        "ID_KABUPATEN_KOTA": 85.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KAYONG UTARA",
+        "ID_KABUPATEN_KOTA": 86.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KEDIRI",
+        "ID_KABUPATEN_KOTA": 87.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KENDAL",
+        "ID_KABUPATEN_KOTA": 88.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KEPULAUAN MENTAWAI",
+        "ID_KABUPATEN_KOTA": 89.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KEPULAUAN MERANTI",
+        "ID_KABUPATEN_KOTA": 90.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KEPULAUAN SELAYAR",
+        "ID_KABUPATEN_KOTA": 91.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KEPULAUAN SULA",
+        "ID_KABUPATEN_KOTA": 92.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KEPULAUAN YAPEN",
+        "ID_KABUPATEN_KOTA": 93.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KOLAKA",
+        "ID_KABUPATEN_KOTA": 94.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KOLAKA TIMUR",
+        "ID_KABUPATEN_KOTA": 95.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KOLAKA UTARA",
+        "ID_KABUPATEN_KOTA": 96.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KONAWE",
+        "ID_KABUPATEN_KOTA": 97.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KONAWE SELATAN",
+        "ID_KABUPATEN_KOTA": 98.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KOTA BARU",
+        "ID_KABUPATEN_KOTA": 99.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KOTABARU",
+        "ID_KABUPATEN_KOTA": 100.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KOTAWARINGIN BARAT",
+        "ID_KABUPATEN_KOTA": 101.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KOTAWARINGIN TIMUR",
+        "ID_KABUPATEN_KOTA": 102.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KUANTAN SINGING",
+        "ID_KABUPATEN_KOTA": 103.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KUBU RAYA",
+        "ID_KABUPATEN_KOTA": 104.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KUDUS",
+        "ID_KABUPATEN_KOTA": 105.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KUPANG",
+        "ID_KABUPATEN_KOTA": 106.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KUTAI BARAT",
+        "ID_KABUPATEN_KOTA": 107.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KUTAI KARTANEGARA",
+        "ID_KABUPATEN_KOTA": 108.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN KUTAI TIMUR",
+        "ID_KABUPATEN_KOTA": 109.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LABUHAN BATU",
+        "ID_KABUPATEN_KOTA": 110.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LABUHAN BATU SELATAN",
+        "ID_KABUPATEN_KOTA": 111.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LABUHAN BATU UTARA",
+        "ID_KABUPATEN_KOTA": 112.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LABUHANBATU",
+        "ID_KABUPATEN_KOTA": 113.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LAHAT",
+        "ID_KABUPATEN_KOTA": 114.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LAMONGAN",
+        "ID_KABUPATEN_KOTA": 115.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LAMPUNG SELATAN",
+        "ID_KABUPATEN_KOTA": 116.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LAMPUNG TENGAH",
+        "ID_KABUPATEN_KOTA": 117.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LAMPUNG UTARA",
+        "ID_KABUPATEN_KOTA": 118.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LANDAK",
+        "ID_KABUPATEN_KOTA": 119.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LANGKAT",
+        "ID_KABUPATEN_KOTA": 120.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LEMBATA",
+        "ID_KABUPATEN_KOTA": 121.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LIMA PULUH KOTA",
+        "ID_KABUPATEN_KOTA": 122.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LINGGA",
+        "ID_KABUPATEN_KOTA": 123.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LOMBOK TIMUR",
+        "ID_KABUPATEN_KOTA": 124.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LUWU",
+        "ID_KABUPATEN_KOTA": 125.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LUWU TIMUR",
+        "ID_KABUPATEN_KOTA": 126.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN LUWU UTARA",
+        "ID_KABUPATEN_KOTA": 127.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MADIUN",
+        "ID_KABUPATEN_KOTA": 128.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAGETAN",
+        "ID_KABUPATEN_KOTA": 129.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAJENE",
+        "ID_KABUPATEN_KOTA": 130.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MALANG",
+        "ID_KABUPATEN_KOTA": 131.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MALUKU TENGAH",
+        "ID_KABUPATEN_KOTA": 132.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MALUKU TENGGARA",
+        "ID_KABUPATEN_KOTA": 133.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MALUKU TENGGARA BARAT",
+        "ID_KABUPATEN_KOTA": 134.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAMASA",
+        "ID_KABUPATEN_KOTA": 135.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAMUJU",
+        "ID_KABUPATEN_KOTA": 136.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAMUJU TENGAH",
+        "ID_KABUPATEN_KOTA": 137.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAMUJU UTARA",
+        "ID_KABUPATEN_KOTA": 138.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MANDAILING NATAL",
+        "ID_KABUPATEN_KOTA": 139.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MANGGARAI",
+        "ID_KABUPATEN_KOTA": 140.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MANGGARAI TIMUR",
+        "ID_KABUPATEN_KOTA": 141.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MANOKWARI",
+        "ID_KABUPATEN_KOTA": 142.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAPPI",
+        "ID_KABUPATEN_KOTA": 143.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MARAUKE",
+        "ID_KABUPATEN_KOTA": 144.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MAROS",
+        "ID_KABUPATEN_KOTA": 145.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MEMPAWAH",
+        "ID_KABUPATEN_KOTA": 146.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MERANGIN",
+        "ID_KABUPATEN_KOTA": 147.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MERAUKE",
+        "ID_KABUPATEN_KOTA": 148.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MIMIKA",
+        "ID_KABUPATEN_KOTA": 149.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MINAHASA SELATAN",
+        "ID_KABUPATEN_KOTA": 150.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MINAHASA UTARA",
+        "ID_KABUPATEN_KOTA": 151.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MOJOKERTO",
+        "ID_KABUPATEN_KOTA": 152.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MOROWALI",
+        "ID_KABUPATEN_KOTA": 153.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MOROWALI UTARA",
+        "ID_KABUPATEN_KOTA": 154.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MUARA ENIM",
+        "ID_KABUPATEN_KOTA": 155.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MUKOMUKO",
+        "ID_KABUPATEN_KOTA": 156.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MUNA",
+        "ID_KABUPATEN_KOTA": 157.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MUNA BARAT",
+        "ID_KABUPATEN_KOTA": 158.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MURUNG RAYA",
+        "ID_KABUPATEN_KOTA": 159.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MUSI BANYUASIN",
+        "ID_KABUPATEN_KOTA": 160.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MUSI RAWAS",
+        "ID_KABUPATEN_KOTA": 161.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN MUSI RAWAS UTARA",
+        "ID_KABUPATEN_KOTA": 162.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN NABIRE",
+        "ID_KABUPATEN_KOTA": 163.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN NGANJUK",
+        "ID_KABUPATEN_KOTA": 164.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN NIAS",
+        "ID_KABUPATEN_KOTA": 165.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN NIAS SELATAN",
+        "ID_KABUPATEN_KOTA": 166.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN NIAS UTARA",
+        "ID_KABUPATEN_KOTA": 167.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN NUNUKAN",
+        "ID_KABUPATEN_KOTA": 168.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN OGAN ILIR",
+        "ID_KABUPATEN_KOTA": 169.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN OGAN KOMERING ILIR",
+        "ID_KABUPATEN_KOTA": 170.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN OGAN KOMERING ULU",
+        "ID_KABUPATEN_KOTA": 171.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN OGAN KOMERING ULU SELATAN",
+        "ID_KABUPATEN_KOTA": 172.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN OGAN KOMERING ULU TIMUR",
+        "ID_KABUPATEN_KOTA": 173.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PADANG LAWAS",
+        "ID_KABUPATEN_KOTA": 174.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PADANG LAWAS UTARA",
+        "ID_KABUPATEN_KOTA": 175.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PADANG PARIAMAN",
+        "ID_KABUPATEN_KOTA": 176.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PANGKAJENE DAN KEPULAUAN",
+        "ID_KABUPATEN_KOTA": 177.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PANGKAJENE KEPULAUAN",
+        "ID_KABUPATEN_KOTA": 178.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PARIGI MOUTONG",
+        "ID_KABUPATEN_KOTA": 179.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PARIGI MUOTONG",
+        "ID_KABUPATEN_KOTA": 180.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PASAMAN",
+        "ID_KABUPATEN_KOTA": 181.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PASAMAN BARAT",
+        "ID_KABUPATEN_KOTA": 182.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PASER",
+        "ID_KABUPATEN_KOTA": 183.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PASURUAN",
+        "ID_KABUPATEN_KOTA": 184.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PATI",
+        "ID_KABUPATEN_KOTA": 185.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PELALAWAN",
+        "ID_KABUPATEN_KOTA": 186.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PENAJAM PASER UTARA",
+        "ID_KABUPATEN_KOTA": 187.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PENUKAL ABAB LEMATANG ILIR",
+        "ID_KABUPATEN_KOTA": 188.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PESAWARAN",
+        "ID_KABUPATEN_KOTA": 189.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PESISIR SELATAN",
+        "ID_KABUPATEN_KOTA": 190.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PINRANG",
+        "ID_KABUPATEN_KOTA": 191.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN POLEWALI",
+        "ID_KABUPATEN_KOTA": 192.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN POLEWALI MANDAR",
+        "ID_KABUPATEN_KOTA": 193.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN POSO",
+        "ID_KABUPATEN_KOTA": 194.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PRINGSEWU",
+        "ID_KABUPATEN_KOTA": 195.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN PROBOLINGGO",
+        "ID_KABUPATEN_KOTA": 196.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN RAJA AMPAT",
+        "ID_KABUPATEN_KOTA": 197.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ROKAN HILIR",
+        "ID_KABUPATEN_KOTA": 198.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN ROTE NDAO",
+        "ID_KABUPATEN_KOTA": 199.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN S I A K",
+        "ID_KABUPATEN_KOTA": 200.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SAMBAS",
+        "ID_KABUPATEN_KOTA": 201.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SANGGAU",
+        "ID_KABUPATEN_KOTA": 202.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SELAYAR",
+        "ID_KABUPATEN_KOTA": 203.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SEMARANG",
+        "ID_KABUPATEN_KOTA": 204.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SERAM BAGIAN TIMUR",
+        "ID_KABUPATEN_KOTA": 205.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SERANG",
+        "ID_KABUPATEN_KOTA": 206.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SERDANG BEDAGAI",
+        "ID_KABUPATEN_KOTA": 207.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SIDENRENG RAPPANG",
+        "ID_KABUPATEN_KOTA": 208.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SIDOARJO",
+        "ID_KABUPATEN_KOTA": 209.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SIJUNJUNG",
+        "ID_KABUPATEN_KOTA": 210.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SIKKA",
+        "ID_KABUPATEN_KOTA": 211.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SIMALUNGUN",
+        "ID_KABUPATEN_KOTA": 212.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SIMEULUE",
+        "ID_KABUPATEN_KOTA": 213.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SINJAI",
+        "ID_KABUPATEN_KOTA": 214.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SLEMAN",
+        "ID_KABUPATEN_KOTA": 215.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SOLOK",
+        "ID_KABUPATEN_KOTA": 216.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SOLOK SELATAN",
+        "ID_KABUPATEN_KOTA": 217.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SOPPENG",
+        "ID_KABUPATEN_KOTA": 218.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SORONG",
+        "ID_KABUPATEN_KOTA": 219.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SUBANG",
+        "ID_KABUPATEN_KOTA": 220.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SUKABUMI",
+        "ID_KABUPATEN_KOTA": 221.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SUKOHARJO",
+        "ID_KABUPATEN_KOTA": 222.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SUMBAWA",
+        "ID_KABUPATEN_KOTA": 223.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN SUMEDANG",
+        "ID_KABUPATEN_KOTA": 224.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TABALONG",
+        "ID_KABUPATEN_KOTA": 225.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TABANAN",
+        "ID_KABUPATEN_KOTA": 226.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TAKALAR",
+        "ID_KABUPATEN_KOTA": 227.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TANA TIDUNG",
+        "ID_KABUPATEN_KOTA": 228.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TANA TORAJA",
+        "ID_KABUPATEN_KOTA": 229.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TANAH BUMBU",
+        "ID_KABUPATEN_KOTA": 230.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TANAH DATAR",
+        "ID_KABUPATEN_KOTA": 231.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TANAH LAUT",
+        "ID_KABUPATEN_KOTA": 232.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TANGERANG",
+        "ID_KABUPATEN_KOTA": 233.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TANJUNG JABUNG TIMUR",
+        "ID_KABUPATEN_KOTA": 234.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TAPANULI SELATAN",
+        "ID_KABUPATEN_KOTA": 235.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TAPANULI TENGAH",
+        "ID_KABUPATEN_KOTA": 236.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TAPANULI UTARA",
+        "ID_KABUPATEN_KOTA": 237.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TEBO",
+        "ID_KABUPATEN_KOTA": 238.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TEMANGGUNG",
+        "ID_KABUPATEN_KOTA": 239.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TIMOR TENGAH SELATAN",
+        "ID_KABUPATEN_KOTA": 240.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TIMOR TENGAH UTARA",
+        "ID_KABUPATEN_KOTA": 241.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TOBA SAMOSIR",
+        "ID_KABUPATEN_KOTA": 242.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TOJO UNA-UNA",
+        "ID_KABUPATEN_KOTA": 243.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TOLI TOLI",
+        "ID_KABUPATEN_KOTA": 244.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TOLI-TOLI",
+        "ID_KABUPATEN_KOTA": 245.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TORAJA UTARA",
+        "ID_KABUPATEN_KOTA": 246.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TRENGGALEK",
+        "ID_KABUPATEN_KOTA": 247.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TUBAN",
+        "ID_KABUPATEN_KOTA": 248.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TULANG BAWANG BARAT",
+        "ID_KABUPATEN_KOTA": 249.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN TULUNGAGUNG",
+        "ID_KABUPATEN_KOTA": 250.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN WAJO",
+        "ID_KABUPATEN_KOTA": 251.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN WAKATOBI",
+        "ID_KABUPATEN_KOTA": 252.0
+    },
+    {
+        "KABUPATEN KOTA": "KABUPATEN WAY KANAN",
+        "ID_KABUPATEN_KOTA": 253.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA AMBON",
+        "ID_KABUPATEN_KOTA": 254.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA B A T A M",
+        "ID_KABUPATEN_KOTA": 255.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BALIKPAPAN",
+        "ID_KABUPATEN_KOTA": 256.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BANDAR LAMPUNG",
+        "ID_KABUPATEN_KOTA": 257.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BANDUNG",
+        "ID_KABUPATEN_KOTA": 258.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BANJAR BARU",
+        "ID_KABUPATEN_KOTA": 259.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BATU",
+        "ID_KABUPATEN_KOTA": 260.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BAU-BAU",
+        "ID_KABUPATEN_KOTA": 261.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BAUBAU",
+        "ID_KABUPATEN_KOTA": 262.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BEKASI",
+        "ID_KABUPATEN_KOTA": 263.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BENGKULU",
+        "ID_KABUPATEN_KOTA": 264.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BIMA",
+        "ID_KABUPATEN_KOTA": 265.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BLITAR",
+        "ID_KABUPATEN_KOTA": 266.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BOGOR",
+        "ID_KABUPATEN_KOTA": 267.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BONTANG",
+        "ID_KABUPATEN_KOTA": 268.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA BUKITTINGGI",
+        "ID_KABUPATEN_KOTA": 269.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA CIMAHI",
+        "ID_KABUPATEN_KOTA": 270.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA D U M A I",
+        "ID_KABUPATEN_KOTA": 271.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA DENPASAR",
+        "ID_KABUPATEN_KOTA": 272.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA DEPOK",
+        "ID_KABUPATEN_KOTA": 273.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA GORONTALO",
+        "ID_KABUPATEN_KOTA": 274.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA GUNUNGSITOLI",
+        "ID_KABUPATEN_KOTA": 275.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA JAKARTA BARAT",
+        "ID_KABUPATEN_KOTA": 276.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA JAKARTA PUSAT",
+        "ID_KABUPATEN_KOTA": 277.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA JAKARTA SELATAN",
+        "ID_KABUPATEN_KOTA": 278.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA JAKARTA TIMUR",
+        "ID_KABUPATEN_KOTA": 279.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA JAKARTA UTARA",
+        "ID_KABUPATEN_KOTA": 280.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA JAMBI",
+        "ID_KABUPATEN_KOTA": 281.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA JAYAPURA",
+        "ID_KABUPATEN_KOTA": 282.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA KENDARI",
+        "ID_KABUPATEN_KOTA": 283.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA KOTAMOBAGU",
+        "ID_KABUPATEN_KOTA": 284.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA KUPANG",
+        "ID_KABUPATEN_KOTA": 285.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA LANGSA",
+        "ID_KABUPATEN_KOTA": 286.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA LHOKSEUMAWE",
+        "ID_KABUPATEN_KOTA": 287.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MADIUN",
+        "ID_KABUPATEN_KOTA": 288.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MAGELANG",
+        "ID_KABUPATEN_KOTA": 289.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MAKASSAR",
+        "ID_KABUPATEN_KOTA": 290.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MALANG",
+        "ID_KABUPATEN_KOTA": 291.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MANADO",
+        "ID_KABUPATEN_KOTA": 292.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MATARAM",
+        "ID_KABUPATEN_KOTA": 293.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MEDAN",
+        "ID_KABUPATEN_KOTA": 294.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA MOJOKERTO",
+        "ID_KABUPATEN_KOTA": 295.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PADANG",
+        "ID_KABUPATEN_KOTA": 296.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PADANG PANJANG",
+        "ID_KABUPATEN_KOTA": 297.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PADANGSIDIMPUAN",
+        "ID_KABUPATEN_KOTA": 298.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PALEMBANG",
+        "ID_KABUPATEN_KOTA": 299.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PALOPO",
+        "ID_KABUPATEN_KOTA": 300.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PALU",
+        "ID_KABUPATEN_KOTA": 301.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PAREPARE",
+        "ID_KABUPATEN_KOTA": 302.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PARIAMAN",
+        "ID_KABUPATEN_KOTA": 303.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PAYAKUMBUH",
+        "ID_KABUPATEN_KOTA": 304.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PEKANBARU",
+        "ID_KABUPATEN_KOTA": 305.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PEMATANG SIANTAR",
+        "ID_KABUPATEN_KOTA": 306.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PONTIANAK",
+        "ID_KABUPATEN_KOTA": 307.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA PRABUMULIH",
+        "ID_KABUPATEN_KOTA": 308.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SAMARINDA",
+        "ID_KABUPATEN_KOTA": 309.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SAWAH LUNTO",
+        "ID_KABUPATEN_KOTA": 310.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SEMARANG",
+        "ID_KABUPATEN_KOTA": 311.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SERANG",
+        "ID_KABUPATEN_KOTA": 312.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SIBOLGA",
+        "ID_KABUPATEN_KOTA": 313.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SINGKAWANG",
+        "ID_KABUPATEN_KOTA": 314.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SOLOK",
+        "ID_KABUPATEN_KOTA": 315.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SORONG",
+        "ID_KABUPATEN_KOTA": 316.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SUBULUSSALAM",
+        "ID_KABUPATEN_KOTA": 317.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SUNGAI PENUH",
+        "ID_KABUPATEN_KOTA": 318.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SURABAYA",
+        "ID_KABUPATEN_KOTA": 319.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA SURAKARTA",
+        "ID_KABUPATEN_KOTA": 320.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA TANGERANG",
+        "ID_KABUPATEN_KOTA": 321.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA TANGERANG SELATAN",
+        "ID_KABUPATEN_KOTA": 322.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA TARAKAN",
+        "ID_KABUPATEN_KOTA": 323.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA TASIKMALAYA",
+        "ID_KABUPATEN_KOTA": 324.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA TEBING TINGGI",
+        "ID_KABUPATEN_KOTA": 325.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA TERNATE",
+        "ID_KABUPATEN_KOTA": 326.0
+    },
+    {
+        "KABUPATEN KOTA": "KOTA TIDORE KEPULAUAN",
+        "ID_KABUPATEN_KOTA": 327.0
+    },
+    {
+        "KABUPATEN KOTA": "MALAYSIA",
+        "ID_KABUPATEN_KOTA": 328.0
+    },
+    {
+        "KABUPATEN KOTA": "TORAJA UTARA",
+        "ID_KABUPATEN_KOTA": 329.0
+    }
+]

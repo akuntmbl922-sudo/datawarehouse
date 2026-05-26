@@ -1,0 +1,222 @@
+[
+    {
+        "Lama dapat kerja": null,
+        "ID_lama_dapat_kerja": 1.0
+    },
+    {
+        "Lama dapat kerja": "1 minggu setelah lulus",
+        "ID_lama_dapat_kerja": 2.0
+    },
+    {
+        "Lama dapat kerja": "1 tahun",
+        "ID_lama_dapat_kerja": 3.0
+    },
+    {
+        "Lama dapat kerja": "1 tahun ",
+        "ID_lama_dapat_kerja": 4.0
+    },
+    {
+        "Lama dapat kerja": "1 Tahun 1 Bulan",
+        "ID_lama_dapat_kerja": 5.0
+    },
+    {
+        "Lama dapat kerja": "1 tahun lebih setelah lulus",
+        "ID_lama_dapat_kerja": 6.0
+    },
+    {
+        "Lama dapat kerja": "1 tahun setelah lulus",
+        "ID_lama_dapat_kerja": 7.0
+    },
+    {
+        "Lama dapat kerja": "1 tahun Setelah Lulus ( Karena lookdown Covid19)",
+        "ID_lama_dapat_kerja": 8.0
+    },
+    {
+        "Lama dapat kerja": "1 tahun, tetapi mendapat panggilan kerja hanya 2 hari setelah daftar",
+        "ID_lama_dapat_kerja": 9.0
+    },
+    {
+        "Lama dapat kerja": "10 bulan",
+        "ID_lama_dapat_kerja": 10.0
+    },
+    {
+        "Lama dapat kerja": "10 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 11.0
+    },
+    {
+        "Lama dapat kerja": "10.0",
+        "ID_lama_dapat_kerja": 12.0
+    },
+    {
+        "Lama dapat kerja": "11 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 13.0
+    },
+    {
+        "Lama dapat kerja": "12 bulan",
+        "ID_lama_dapat_kerja": 14.0
+    },
+    {
+        "Lama dapat kerja": "12 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 15.0
+    },
+    {
+        "Lama dapat kerja": "13 bulan",
+        "ID_lama_dapat_kerja": 16.0
+    },
+    {
+        "Lama dapat kerja": "14 Hari setelah Lulus",
+        "ID_lama_dapat_kerja": 17.0
+    },
+    {
+        "Lama dapat kerja": "1thun",
+        "ID_lama_dapat_kerja": 18.0
+    },
+    {
+        "Lama dapat kerja": "2-4 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 19.0
+    },
+    {
+        "Lama dapat kerja": "4-6 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 20.0
+    },
+    {
+        "Lama dapat kerja": "6 (enam) bulan setelah lulus pada konsultan perencana dan pengawasan. Tahun 2002 hingga saat ini Aparatur Sipil Negara (ASN)",
+        "ID_lama_dapat_kerja": 21.0
+    },
+    {
+        "Lama dapat kerja": "8 bulan",
+        "ID_lama_dapat_kerja": 22.0
+    },
+    {
+        "Lama dapat kerja": "8-12 bulan",
+        "ID_lama_dapat_kerja": 23.0
+    },
+    {
+        "Lama dapat kerja": "8-12 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 24.0
+    },
+    {
+        "Lama dapat kerja": "8-9 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 25.0
+    },
+    {
+        "Lama dapat kerja": "9 bulan",
+        "ID_lama_dapat_kerja": 26.0
+    },
+    {
+        "Lama dapat kerja": "9 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 27.0
+    },
+    {
+        "Lama dapat kerja": "Buat Usaha Sendiri",
+        "ID_lama_dapat_kerja": 28.0
+    },
+    {
+        "Lama dapat kerja": "Dapat pekerjaan ketika sedangkan melanjutkan kuliah ahli jenjang di pnup",
+        "ID_lama_dapat_kerja": 29.0
+    },
+    {
+        "Lama dapat kerja": "Dapat pekerjaan sebelum lulus",
+        "ID_lama_dapat_kerja": 30.0
+    },
+    {
+        "Lama dapat kerja": "Dapat pekerjaan setelah 1 tahun",
+        "ID_lama_dapat_kerja": 31.0
+    },
+    {
+        "Lama dapat kerja": "Kelas Kerja Sama",
+        "ID_lama_dapat_kerja": 32.0
+    },
+    {
+        "Lama dapat kerja": "Kelas kerjasama PLN",
+        "ID_lama_dapat_kerja": 33.0
+    },
+    {
+        "Lama dapat kerja": "Kurang dari 1 minggu setelah lulus",
+        "ID_lama_dapat_kerja": 34.0
+    },
+    {
+        "Lama dapat kerja": "Kurang dari 2 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 35.0
+    },
+    {
+        "Lama dapat kerja": "kurang dari seminggu",
+        "ID_lama_dapat_kerja": 36.0
+    },
+    {
+        "Lama dapat kerja": "kurang lebih 1 tahun",
+        "ID_lama_dapat_kerja": 37.0
+    },
+    {
+        "Lama dapat kerja": "Kurang lebih 10 bulan",
+        "ID_lama_dapat_kerja": 38.0
+    },
+    {
+        "Lama dapat kerja": "lanjut s2",
+        "ID_lama_dapat_kerja": 39.0
+    },
+    {
+        "Lama dapat kerja": "Lanjut S2 kemudian kerja",
+        "ID_lama_dapat_kerja": 40.0
+    },
+    {
+        "Lama dapat kerja": "Lebih 6 bulan",
+        "ID_lama_dapat_kerja": 41.0
+    },
+    {
+        "Lama dapat kerja": "lebih dari 1 tahun setelah lulus",
+        "ID_lama_dapat_kerja": 42.0
+    },
+    {
+        "Lama dapat kerja": "lebih dari 6 bulan setelah lulus",
+        "ID_lama_dapat_kerja": 43.0
+    },
+    {
+        "Lama dapat kerja": "Magang sebelum lulus",
+        "ID_lama_dapat_kerja": 44.0
+    },
+    {
+        "Lama dapat kerja": "melanjutkan studi ke D4, setelah lulus mengikuti magang dan lanjut kerja",
+        "ID_lama_dapat_kerja": 45.0
+    },
+    {
+        "Lama dapat kerja": "Melanjutkan studi S1",
+        "ID_lama_dapat_kerja": 46.0
+    },
+    {
+        "Lama dapat kerja": "PPPK",
+        "ID_lama_dapat_kerja": 47.0
+    },
+    {
+        "Lama dapat kerja": "Seminggu setelah wisuda",
+        "ID_lama_dapat_kerja": 48.0
+    },
+    {
+        "Lama dapat kerja": "Setahun",
+        "ID_lama_dapat_kerja": 49.0
+    },
+    {
+        "Lama dapat kerja": "Setahun tepat",
+        "ID_lama_dapat_kerja": 50.0
+    },
+    {
+        "Lama dapat kerja": "setelah 6 bulan kelulusan",
+        "ID_lama_dapat_kerja": 51.0
+    },
+    {
+        "Lama dapat kerja": "Setelah lulus D3, lanjut studi ke S1 dan lanjut bekerja",
+        "ID_lama_dapat_kerja": 52.0
+    },
+    {
+        "Lama dapat kerja": "Sudah bekerja ketika melanjutkan kuliah D4 Di PNUP",
+        "ID_lama_dapat_kerja": 53.0
+    },
+    {
+        "Lama dapat kerja": "Sudah bekerja ketika mengambil kuliah (kelas industri / kelas eksekutif)",
+        "ID_lama_dapat_kerja": 54.0
+    },
+    {
+        "Lama dapat kerja": "Tentatif",
+        "ID_lama_dapat_kerja": 55.0
+    }
+]

@@ -1,0 +1,850 @@
+[
+    {
+        "Jabatan": "Anggota",
+        "ID_JABATAN": 1.0
+    },
+    {
+        "Jabatan": "Anggota Bidang Hubungan Masyarakat",
+        "ID_JABATAN": 2.0
+    },
+    {
+        "Jabatan": "Anggota Bidang Humas",
+        "ID_JABATAN": 3.0
+    },
+    {
+        "Jabatan": "Anggota Bidang Kesekretariatan",
+        "ID_JABATAN": 4.0
+    },
+    {
+        "Jabatan": "Anggota Bidang Multimedia",
+        "ID_JABATAN": 5.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Dana dan Logistik",
+        "ID_JABATAN": 6.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Hubungan Masyarakat",
+        "ID_JABATAN": 7.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Humas",
+        "ID_JABATAN": 8.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Kaderisasi dan Advokasi",
+        "ID_JABATAN": 9.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Keanggotaan",
+        "ID_JABATAN": 10.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Kepelatihan",
+        "ID_JABATAN": 11.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Kerohanian",
+        "ID_JABATAN": 12.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Kesekretariatan",
+        "ID_JABATAN": 13.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Kesekretariatan dan Dokumentasi",
+        "ID_JABATAN": 14.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Mading dan Buletin",
+        "ID_JABATAN": 15.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Media Sosial dan Siniar",
+        "ID_JABATAN": 16.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Pendanaan",
+        "ID_JABATAN": 17.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Pendidikan",
+        "ID_JABATAN": 18.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Pendidikan dan Anggota",
+        "ID_JABATAN": 19.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Pendidikan dan Pengkaderan",
+        "ID_JABATAN": 20.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Pengembangan Potensi",
+        "ID_JABATAN": 21.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Pengkaderan",
+        "ID_JABATAN": 22.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Portal Berita",
+        "ID_JABATAN": 23.0
+    },
+    {
+        "Jabatan": "Anggota Departemen Sumber Daya Manusia",
+        "ID_JABATAN": 24.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Hubungan Industri dan Alumni",
+        "ID_JABATAN": 25.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Hubungan Masyarakat dan Lembaga",
+        "ID_JABATAN": 26.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Kaderisasi dan Organisasi",
+        "ID_JABATAN": 27.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Kesekretariatan",
+        "ID_JABATAN": 28.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Minat dan Bakat",
+        "ID_JABATAN": 29.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Pendidikan dan Studi Kemahasiswaan",
+        "ID_JABATAN": 30.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Publikasi dan Dokumentasi",
+        "ID_JABATAN": 31.0
+    },
+    {
+        "Jabatan": "Anggota Dept. Riset dan Teknologi",
+        "ID_JABATAN": 32.0
+    },
+    {
+        "Jabatan": "Anggota Dewan",
+        "ID_JABATAN": 33.0
+    },
+    {
+        "Jabatan": "Anggota Dewan Tertinggi",
+        "ID_JABATAN": 34.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Bursa dan Supporter",
+        "ID_JABATAN": 35.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Caving",
+        "ID_JABATAN": 36.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Dana dan Usaha",
+        "ID_JABATAN": 37.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Hubungan Masyarakat",
+        "ID_JABATAN": 38.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Hubungan Masyarakat dan Lembaga",
+        "ID_JABATAN": 39.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Humas",
+        "ID_JABATAN": 40.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Informasi dan Komunikasi",
+        "ID_JABATAN": 41.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Kesekretariatan",
+        "ID_JABATAN": 42.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Mountaineering",
+        "ID_JABATAN": 43.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Pelatihan dan Pemberdayaan Anggota",
+        "ID_JABATAN": 44.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Pelayanan Kesehatan",
+        "ID_JABATAN": 45.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Pembinaan",
+        "ID_JABATAN": 46.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Pendidikan dan Pelatihan",
+        "ID_JABATAN": 47.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Pendidikan dan Pengkaderan",
+        "ID_JABATAN": 48.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Pengembangan Aparatur Organisasi",
+        "ID_JABATAN": 49.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Rock Climbing",
+        "ID_JABATAN": 50.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Seleksi dan Latihan",
+        "ID_JABATAN": 51.0
+    },
+    {
+        "Jabatan": "Anggota Divisi Sumber Daya Manusia",
+        "ID_JABATAN": 52.0
+    },
+    {
+        "Jabatan": "Anggota DPM Akuntansi",
+        "ID_JABATAN": 53.0
+    },
+    {
+        "Jabatan": "Anggota DPO",
+        "ID_JABATAN": 54.0
+    },
+    {
+        "Jabatan": "Anggota Komisi Aspirasi",
+        "ID_JABATAN": 55.0
+    },
+    {
+        "Jabatan": "Anggota Komisi Legislasi",
+        "ID_JABATAN": 56.0
+    },
+    {
+        "Jabatan": "Anggota Komisi Pengawasan",
+        "ID_JABATAN": 57.0
+    },
+    {
+        "Jabatan": "Anggota Komisi Yustisi",
+        "ID_JABATAN": 58.0
+    },
+    {
+        "Jabatan": "Anggota Staf Ahli",
+        "ID_JABATAN": 59.0
+    },
+    {
+        "Jabatan": "Anggota Unit Kegiatan Dana dan Usaha",
+        "ID_JABATAN": 60.0
+    },
+    {
+        "Jabatan": "Anggota Unit Kegiatan Kerohanian",
+        "ID_JABATAN": 61.0
+    },
+    {
+        "Jabatan": "Anggota UP Communication Skill",
+        "ID_JABATAN": 62.0
+    },
+    {
+        "Jabatan": "Anggota UP Desain Komunikasi Visual",
+        "ID_JABATAN": 63.0
+    },
+    {
+        "Jabatan": "Anggota UP Entrepreneurship",
+        "ID_JABATAN": 64.0
+    },
+    {
+        "Jabatan": "Anggota UP Hubungan Industri",
+        "ID_JABATAN": 65.0
+    },
+    {
+        "Jabatan": "Anggota UP Informatika",
+        "ID_JABATAN": 66.0
+    },
+    {
+        "Jabatan": "Bendahara",
+        "ID_JABATAN": 67.0
+    },
+    {
+        "Jabatan": "Bendahara DPA",
+        "ID_JABATAN": 68.0
+    },
+    {
+        "Jabatan": "Bendahara Kabinet",
+        "ID_JABATAN": 69.0
+    },
+    {
+        "Jabatan": "Bendahara Putra",
+        "ID_JABATAN": 70.0
+    },
+    {
+        "Jabatan": "Bendahara Putri",
+        "ID_JABATAN": 71.0
+    },
+    {
+        "Jabatan": "Bendahara Umum",
+        "ID_JABATAN": 72.0
+    },
+    {
+        "Jabatan": "Bendahara Umum PHO",
+        "ID_JABATAN": 73.0
+    },
+    {
+        "Jabatan": "Dewan Penasehat Organisasi",
+        "ID_JABATAN": 74.0
+    },
+    {
+        "Jabatan": "Dewan Pengawas",
+        "ID_JABATAN": 75.0
+    },
+    {
+        "Jabatan": "Kepala Markas",
+        "ID_JABATAN": 76.0
+    },
+    {
+        "Jabatan": "Ketua",
+        "ID_JABATAN": 77.0
+    },
+    {
+        "Jabatan": "Ketua 1",
+        "ID_JABATAN": 78.0
+    },
+    {
+        "Jabatan": "Ketua 2",
+        "ID_JABATAN": 79.0
+    },
+    {
+        "Jabatan": "Ketua Bid. Keorganisasian PHO",
+        "ID_JABATAN": 80.0
+    },
+    {
+        "Jabatan": "Ketua Bid. Kewirausahaan PHO",
+        "ID_JABATAN": 81.0
+    },
+    {
+        "Jabatan": "Ketua Bidang I",
+        "ID_JABATAN": 82.0
+    },
+    {
+        "Jabatan": "Ketua Bidang II",
+        "ID_JABATAN": 83.0
+    },
+    {
+        "Jabatan": "Ketua Dewan Putra",
+        "ID_JABATAN": 84.0
+    },
+    {
+        "Jabatan": "Ketua Dewan Putri",
+        "ID_JABATAN": 85.0
+    },
+    {
+        "Jabatan": "Ketua DPA",
+        "ID_JABATAN": 86.0
+    },
+    {
+        "Jabatan": "Ketua DPO",
+        "ID_JABATAN": 87.0
+    },
+    {
+        "Jabatan": "Ketua I",
+        "ID_JABATAN": 88.0
+    },
+    {
+        "Jabatan": "Ketua II",
+        "ID_JABATAN": 89.0
+    },
+    {
+        "Jabatan": "Ketua Komisi Aspirasi",
+        "ID_JABATAN": 90.0
+    },
+    {
+        "Jabatan": "Ketua Komisi Legislasi",
+        "ID_JABATAN": 91.0
+    },
+    {
+        "Jabatan": "Ketua Komisi Pengawasan",
+        "ID_JABATAN": 92.0
+    },
+    {
+        "Jabatan": "Ketua Komisi Yustisi",
+        "ID_JABATAN": 93.0
+    },
+    {
+        "Jabatan": "Ketua Majelis Mahasiswa",
+        "ID_JABATAN": 94.0
+    },
+    {
+        "Jabatan": "Ketua UKM Karate",
+        "ID_JABATAN": 95.0
+    },
+    {
+        "Jabatan": "Ketua Umum",
+        "ID_JABATAN": 96.0
+    },
+    {
+        "Jabatan": "Ketua Umum PHO",
+        "ID_JABATAN": 97.0
+    },
+    {
+        "Jabatan": "Komandan",
+        "ID_JABATAN": 98.0
+    },
+    {
+        "Jabatan": "Koordinasi",
+        "ID_JABATAN": 99.0
+    },
+    {
+        "Jabatan": "Koordinator",
+        "ID_JABATAN": 100.0
+    },
+    {
+        "Jabatan": "Koordinator Akhwat",
+        "ID_JABATAN": 101.0
+    },
+    {
+        "Jabatan": "Koordinator Bidang Ekstern",
+        "ID_JABATAN": 102.0
+    },
+    {
+        "Jabatan": "Koordinator Bidang Hubungan Masyarakat",
+        "ID_JABATAN": 103.0
+    },
+    {
+        "Jabatan": "Koordinator Bidang Humas",
+        "ID_JABATAN": 104.0
+    },
+    {
+        "Jabatan": "Koordinator Bidang Intern",
+        "ID_JABATAN": 105.0
+    },
+    {
+        "Jabatan": "Koordinator Bidang Kaderisasi dan Teknik Kepramukaan",
+        "ID_JABATAN": 106.0
+    },
+    {
+        "Jabatan": "Koordinator Bidang Kesekretariatan",
+        "ID_JABATAN": 107.0
+    },
+    {
+        "Jabatan": "Koordinator Bidang Multimedia",
+        "ID_JABATAN": 108.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Dana dan Logistik",
+        "ID_JABATAN": 109.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Hubungan Masyarakat",
+        "ID_JABATAN": 110.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Humas",
+        "ID_JABATAN": 111.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Kaderisasi dan Advokasi",
+        "ID_JABATAN": 112.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Keanggotaan",
+        "ID_JABATAN": 113.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Kepelatihan",
+        "ID_JABATAN": 114.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Kerohanian",
+        "ID_JABATAN": 115.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Kesekretariatan",
+        "ID_JABATAN": 116.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Kesekretariatan dan Dokumentasi",
+        "ID_JABATAN": 117.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Mading dan Buletin",
+        "ID_JABATAN": 118.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Media Sosial dan Siniar",
+        "ID_JABATAN": 119.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Pendanaan",
+        "ID_JABATAN": 120.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Pendidikan",
+        "ID_JABATAN": 121.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Pendidikan dan Anggota",
+        "ID_JABATAN": 122.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Pendidikan dan Pengkaderan",
+        "ID_JABATAN": 123.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Pengembangan Potensi",
+        "ID_JABATAN": 124.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Pengkaderan",
+        "ID_JABATAN": 125.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Portal Berita",
+        "ID_JABATAN": 126.0
+    },
+    {
+        "Jabatan": "Koordinator Departemen Sumber Daya Manusia",
+        "ID_JABATAN": 127.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Hubungan Industri dan Alumni",
+        "ID_JABATAN": 128.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Hubungan Masyarakat dan Lembaga",
+        "ID_JABATAN": 129.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Kaderisasi dan Organisasi",
+        "ID_JABATAN": 130.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Kesekretariatan",
+        "ID_JABATAN": 131.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Minat dan Bakat",
+        "ID_JABATAN": 132.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Pendidikan dan Studi Kemahasiswaan",
+        "ID_JABATAN": 133.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Publikasi dan Dokumentasi",
+        "ID_JABATAN": 134.0
+    },
+    {
+        "Jabatan": "Koordinator Dept. Riset dan Teknologi",
+        "ID_JABATAN": 135.0
+    },
+    {
+        "Jabatan": "Koordinator Dewan",
+        "ID_JABATAN": 136.0
+    },
+    {
+        "Jabatan": "Koordinator Dewan Tertinggi",
+        "ID_JABATAN": 137.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Bursa dan Supporter",
+        "ID_JABATAN": 138.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Caving",
+        "ID_JABATAN": 139.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Dana dan Usaha",
+        "ID_JABATAN": 140.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Hubungan Masyarakat",
+        "ID_JABATAN": 141.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Hubungan Masyarakat dan Lembaga",
+        "ID_JABATAN": 142.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Humas",
+        "ID_JABATAN": 143.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Informasi dan Komunikasi",
+        "ID_JABATAN": 144.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Kesekretariatan",
+        "ID_JABATAN": 145.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Mountaineering",
+        "ID_JABATAN": 146.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Pelatihan dan Pemberdayaan Anggota",
+        "ID_JABATAN": 147.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Pelayanan Kesehatan",
+        "ID_JABATAN": 148.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Pembinaan",
+        "ID_JABATAN": 149.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Pendidikan dan Pelatihan",
+        "ID_JABATAN": 150.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Pendidikan dan Pengkaderan",
+        "ID_JABATAN": 151.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Pengembangan Aparatur Organisasi",
+        "ID_JABATAN": 152.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Rock Climbing",
+        "ID_JABATAN": 153.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Seleksi dan Latihan",
+        "ID_JABATAN": 154.0
+    },
+    {
+        "Jabatan": "Koordinator Divisi Sumber Daya Manusia",
+        "ID_JABATAN": 155.0
+    },
+    {
+        "Jabatan": "Koordinator DPA",
+        "ID_JABATAN": 156.0
+    },
+    {
+        "Jabatan": "Koordinator DPM Akuntansi",
+        "ID_JABATAN": 157.0
+    },
+    {
+        "Jabatan": "Koordinator DPO",
+        "ID_JABATAN": 158.0
+    },
+    {
+        "Jabatan": "Koordinator Ikhwan",
+        "ID_JABATAN": 159.0
+    },
+    {
+        "Jabatan": "Koordinator Keakhwatan",
+        "ID_JABATAN": 160.0
+    },
+    {
+        "Jabatan": "Koordinator Staf Ahli",
+        "ID_JABATAN": 161.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Bola Basket",
+        "ID_JABATAN": 162.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Bola Voli",
+        "ID_JABATAN": 163.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Bulu Tangkis",
+        "ID_JABATAN": 164.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Dana dan Usaha",
+        "ID_JABATAN": 165.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Kerohanian",
+        "ID_JABATAN": 166.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Musik",
+        "ID_JABATAN": 167.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Tari",
+        "ID_JABATAN": 168.0
+    },
+    {
+        "Jabatan": "Koordinator Unit Kegiatan Tenis Meja",
+        "ID_JABATAN": 169.0
+    },
+    {
+        "Jabatan": "Koordinator UP Communication Skill",
+        "ID_JABATAN": 170.0
+    },
+    {
+        "Jabatan": "Koordinator UP Desain Komunikasi Visual",
+        "ID_JABATAN": 171.0
+    },
+    {
+        "Jabatan": "Koordinator UP Entrepreneurship",
+        "ID_JABATAN": 172.0
+    },
+    {
+        "Jabatan": "Koordinator UP Hubungan Industri",
+        "ID_JABATAN": 173.0
+    },
+    {
+        "Jabatan": "Koordinator UP Informatika",
+        "ID_JABATAN": 174.0
+    },
+    {
+        "Jabatan": "Menteri Dalam Negeri",
+        "ID_JABATAN": 175.0
+    },
+    {
+        "Jabatan": "Menteri Kajian dan Aksi Strategis",
+        "ID_JABATAN": 176.0
+    },
+    {
+        "Jabatan": "Menteri Keuangan",
+        "ID_JABATAN": 177.0
+    },
+    {
+        "Jabatan": "Menteri Komunikasi dan Informasi",
+        "ID_JABATAN": 178.0
+    },
+    {
+        "Jabatan": "Menteri Pengembangan Sumber Daya Manusia",
+        "ID_JABATAN": 179.0
+    },
+    {
+        "Jabatan": "Menteri Sarana dan Prasarana",
+        "ID_JABATAN": 180.0
+    },
+    {
+        "Jabatan": "Pemangku Adat Putra",
+        "ID_JABATAN": 181.0
+    },
+    {
+        "Jabatan": "Pemangku Adat Putri",
+        "ID_JABATAN": 182.0
+    },
+    {
+        "Jabatan": "Pengawas Badan Usaha DPA",
+        "ID_JABATAN": 183.0
+    },
+    {
+        "Jabatan": "Pengawas Kewirausahaan DPA",
+        "ID_JABATAN": 184.0
+    },
+    {
+        "Jabatan": "Pengawas Organisasi DPA",
+        "ID_JABATAN": 185.0
+    },
+    {
+        "Jabatan": "Presiden",
+        "ID_JABATAN": 186.0
+    },
+    {
+        "Jabatan": "Sekretaris",
+        "ID_JABATAN": 187.0
+    },
+    {
+        "Jabatan": "Sekretaris Dewan",
+        "ID_JABATAN": 188.0
+    },
+    {
+        "Jabatan": "Sekretaris DPA",
+        "ID_JABATAN": 189.0
+    },
+    {
+        "Jabatan": "Sekretaris DPO",
+        "ID_JABATAN": 190.0
+    },
+    {
+        "Jabatan": "Sekretaris Kabinet",
+        "ID_JABATAN": 191.0
+    },
+    {
+        "Jabatan": "Sekretaris Majelis Mahasiswa",
+        "ID_JABATAN": 192.0
+    },
+    {
+        "Jabatan": "Sekretaris Putra",
+        "ID_JABATAN": 193.0
+    },
+    {
+        "Jabatan": "Sekretaris Putri",
+        "ID_JABATAN": 194.0
+    },
+    {
+        "Jabatan": "Sekretaris Umum",
+        "ID_JABATAN": 195.0
+    },
+    {
+        "Jabatan": "Sekretaris Umum PHO",
+        "ID_JABATAN": 196.0
+    },
+    {
+        "Jabatan": "Staf Kementerian Dalam Negeri",
+        "ID_JABATAN": 197.0
+    },
+    {
+        "Jabatan": "Staf Kementerian Kajian dan Aksi Strategis",
+        "ID_JABATAN": 198.0
+    },
+    {
+        "Jabatan": "Staf Kementerian Keuangan",
+        "ID_JABATAN": 199.0
+    },
+    {
+        "Jabatan": "Staf Kementerian Komunikasi dan Informasi",
+        "ID_JABATAN": 200.0
+    },
+    {
+        "Jabatan": "Staf Kementerian PSDM",
+        "ID_JABATAN": 201.0
+    },
+    {
+        "Jabatan": "Staf Kementerian Sarana dan Prasarana",
+        "ID_JABATAN": 202.0
+    },
+    {
+        "Jabatan": "Staf Ketua I",
+        "ID_JABATAN": 203.0
+    },
+    {
+        "Jabatan": "Staf Ketua II",
+        "ID_JABATAN": 204.0
+    },
+    {
+        "Jabatan": "Wakil Bendahara Umum",
+        "ID_JABATAN": 205.0
+    },
+    {
+        "Jabatan": "Wakil Ketua",
+        "ID_JABATAN": 206.0
+    },
+    {
+        "Jabatan": "Wakil Ketua Bidang Organisasi",
+        "ID_JABATAN": 207.0
+    },
+    {
+        "Jabatan": "Wakil Ketua Bidang Penerbitan",
+        "ID_JABATAN": 208.0
+    },
+    {
+        "Jabatan": "Wakil Ketua Umum",
+        "ID_JABATAN": 209.0
+    },
+    {
+        "Jabatan": "Wakil Komandan",
+        "ID_JABATAN": 210.0
+    },
+    {
+        "Jabatan": "Wakil Presiden",
+        "ID_JABATAN": 211.0
+    },
+    {
+        "Jabatan": "Wakil Sekretaris Umum",
+        "ID_JABATAN": 212.0
+    }
+]

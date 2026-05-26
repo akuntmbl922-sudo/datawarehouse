@@ -1,0 +1,138 @@
+[
+    {
+        "PRODI": "-",
+        "ID_PRODI": 1.0
+    },
+    {
+        "PRODI": "D3 ADMINISTRASI BISNIS",
+        "ID_PRODI": 2.0
+    },
+    {
+        "PRODI": "D3 AKUNTANSI",
+        "ID_PRODI": 3.0
+    },
+    {
+        "PRODI": "D3 ANALISIS KIMIA",
+        "ID_PRODI": 4.0
+    },
+    {
+        "PRODI": "D3 TEKNIK ELEKTRONIKA",
+        "ID_PRODI": 5.0
+    },
+    {
+        "PRODI": "D3 TEKNIK KIMIA",
+        "ID_PRODI": 6.0
+    },
+    {
+        "PRODI": "D3 TEKNIK KONSTRUKSI GEDUNG",
+        "ID_PRODI": 7.0
+    },
+    {
+        "PRODI": "D3 TEKNIK KONSTRUKSI SIPIL",
+        "ID_PRODI": 8.0
+    },
+    {
+        "PRODI": "D3 TEKNIK KONTRUKSI GEDUNG",
+        "ID_PRODI": 9.0
+    },
+    {
+        "PRODI": "D3 TEKNIK KONTRUKSI SIPIL",
+        "ID_PRODI": 10.0
+    },
+    {
+        "PRODI": "D3 TEKNIK KONVERSI ENERGI",
+        "ID_PRODI": 11.0
+    },
+    {
+        "PRODI": "D3 TEKNIK LISTRIK",
+        "ID_PRODI": 12.0
+    },
+    {
+        "PRODI": "D3 TEKNIK MESIN",
+        "ID_PRODI": 13.0
+    },
+    {
+        "PRODI": "D3 TEKNIK OTOMOTIF",
+        "ID_PRODI": 14.0
+    },
+    {
+        "PRODI": "D3 TEKNIK PERAWATAN ALAT BERAT",
+        "ID_PRODI": 15.0
+    },
+    {
+        "PRODI": "D3 TEKNIK TELEKOMUNIKASI",
+        "ID_PRODI": 16.0
+    },
+    {
+        "PRODI": "D3 TEKNOLOGI KONVERSI ENERGI (PSDKU PNUP KAB.KOLAKA)",
+        "ID_PRODI": 17.0
+    },
+    {
+        "PRODI": "D4 ADMINISTRASI BISNIS",
+        "ID_PRODI": 18.0
+    },
+    {
+        "PRODI": "D4 AKUNTANSI MANAJERIAL",
+        "ID_PRODI": 19.0
+    },
+    {
+        "PRODI": "D4 AMINISTRASI BISNIS",
+        "ID_PRODI": 20.0
+    },
+    {
+        "PRODI": "D4 JASA KONSTRUKSI",
+        "ID_PRODI": 21.0
+    },
+    {
+        "PRODI": "D4 JASA KONTRUKSI",
+        "ID_PRODI": 22.0
+    },
+    {
+        "PRODI": "D4 PERANCANGAN BANGUNAN GEDUNG",
+        "ID_PRODI": 23.0
+    },
+    {
+        "PRODI": "D4 TEKNIK KOMPUTER DAN JARINGAN",
+        "ID_PRODI": 24.0
+    },
+    {
+        "PRODI": "D4 TEKNIK LISTRIK",
+        "ID_PRODI": 25.0
+    },
+    {
+        "PRODI": "D4 TEKNIK MANUFAKTUR",
+        "ID_PRODI": 26.0
+    },
+    {
+        "PRODI": "D4 TEKNIK MEKATRONIKA",
+        "ID_PRODI": 27.0
+    },
+    {
+        "PRODI": "D4 TEKNIK MULTIMEDIA DAN JARINGAN",
+        "ID_PRODI": 28.0
+    },
+    {
+        "PRODI": "D4 TEKNIK PEMBANGKIT ENERGI",
+        "ID_PRODI": 29.0
+    },
+    {
+        "PRODI": "D4 TEKNIK REKAYASA JARINGAN TELEKOMUNIKASI",
+        "ID_PRODI": 30.0
+    },
+    {
+        "PRODI": "D4 TEKNOLOGI KIMIA INDUSTRI",
+        "ID_PRODI": 31.0
+    },
+    {
+        "PRODI": "D4 TEKNOLOGI REKAYASA ENERGI TERBARUKAN",
+        "ID_PRODI": 32.0
+    },
+    {
+        "PRODI": "D4 TEKNOLOGI REKAYASA JARINGAN TELEKOMUNIKASI",
+        "ID_PRODI": 33.0
+    },
+    {
+        "PRODI": "D4 TEKNOLOGI REKAYASA SISTEM ELEKTRONIKA",
+        "ID_PRODI": 34.0
+    }
+]
